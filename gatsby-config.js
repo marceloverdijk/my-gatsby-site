@@ -1,12 +1,29 @@
 module.exports = {
   siteMetadata: {
-      title: `My Gatsby Site`,
+    title: `My Gatsby Site`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-sass", {
-    resolve: 'gatsby-plugin-google-analytics',
-    options: {
-      "trackingId": "123456"
-    }
-  }, "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap"]
+  plugins: [
+    {
+      resolve: `gatsby-transformer-json`,
+      options: {
+        typeName: `Json`, // a fixed string
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/data/`,
+      },
+    },
+    "gatsby-plugin-sass",
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        "trackingId": "123456"
+      }
+    },
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sitemap"
+  ]
 };

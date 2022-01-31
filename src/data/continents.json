@@ -1,0 +1,17 @@
+[
+  {
+    "id": "europe",
+    "code": "EU",
+    "name": "Europe"
+  },
+  {
+    "id": "north-america",
+    "code": "NA",
+    "name": "North America"
+  },
+  {
+    "id": "south-america",
+    "code": "SA",
+    "name": "South America"
+  }
+]

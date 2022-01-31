@@ -1,0 +1,23 @@
+[
+  {
+    "id": "netherlands",
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "name": "Netherlands",
+    "continentId": "europe"
+  },
+  {
+    "id": "united-kingdom",
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "name": "United Kingdom",
+    "continentId": "europe"
+  },
+  {
+    "id": "united-states-of-america",
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "name": "United States of America",
+    "continentId": "north-america"
+  }
+]
