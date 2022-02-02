@@ -48,8 +48,6 @@ async function onCreateNode(
 
   const { createNode, createParentChildLink } = actions
 
-  console.log(`in onCreateNode`)
-
   const content = await loadNodeContent(node)
   let parsedContent
   try {
