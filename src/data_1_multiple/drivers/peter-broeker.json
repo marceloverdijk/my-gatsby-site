@@ -1,0 +1,23 @@
+{
+  "id": "peter-broeker",
+  "name": "Peter Broeker",
+  "firstName": "Peter",
+  "lastName": "Broeker",
+  "fullName": "Peter Broeker",
+  "abbreviation": "BRO",
+  "gender": "MALE",
+  "dateOfBirth": "1926-05-15",
+  "dateOfDeath": "1980-11-04",
+  "placeOfBirth": "Hamilton",
+  "countryOfBirthCountryId": "canada",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

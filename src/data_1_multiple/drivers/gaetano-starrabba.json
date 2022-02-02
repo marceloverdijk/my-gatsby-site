@@ -1,0 +1,22 @@
+{
+  "id": "gaetano-starrabba",
+  "name": "Gaetano Starrabba",
+  "firstName": "Gaetano",
+  "lastName": "Starrabba",
+  "fullName": "Prince Gaetano Starrabba di Giardinelli",
+  "abbreviation": "STA",
+  "gender": "MALE",
+  "dateOfBirth": "1932-12-03",
+  "placeOfBirth": "Palermo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

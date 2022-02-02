@@ -1,0 +1,22 @@
+{
+  "id": "tim-parnell",
+  "name": "Tim Parnell",
+  "firstName": "Tim",
+  "lastName": "Parnell",
+  "fullName": "Reginald Harold Haslam Parnell",
+  "abbreviation": "PAR",
+  "gender": "MALE",
+  "dateOfBirth": "1932-06-25",
+  "placeOfBirth": "Derby",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

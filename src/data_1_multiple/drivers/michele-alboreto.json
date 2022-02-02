@@ -1,0 +1,23 @@
+{
+  "id": "michele-alboreto",
+  "name": "Michele Alboreto",
+  "firstName": "Michele",
+  "lastName": "Alboreto",
+  "fullName": "Michele Alboreto",
+  "abbreviation": "ALB",
+  "gender": "MALE",
+  "dateOfBirth": "1956-12-23",
+  "dateOfDeath": "2001-04-25",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 215,
+  "totalRaceStarts": 194,
+  "totalRaceWins": 5,
+  "totalPolePositions": 2,
+  "totalPodiums": 23,
+  "totalPoints": 186.5,
+  "totalFastestLaps": 4,
+  "totalDriverOfTheDay": 0
+}

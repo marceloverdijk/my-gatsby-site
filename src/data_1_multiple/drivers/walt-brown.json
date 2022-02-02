@@ -1,0 +1,23 @@
+{
+  "id": "walt-brown",
+  "name": "Walt Brown",
+  "firstName": "Walt",
+  "lastName": "Brown",
+  "fullName": "Walt Brown",
+  "abbreviation": "BRO",
+  "gender": "MALE",
+  "dateOfBirth": "1911-12-30",
+  "dateOfDeath": "1951-07-29",
+  "placeOfBirth": "Springfield",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

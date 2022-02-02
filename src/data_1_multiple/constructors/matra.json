@@ -1,0 +1,15 @@
+{
+  "id": "matra",
+  "name": "Matra",
+  "fullName": "Equipe Matra Sports",
+  "countryId": "france",
+  "totalChampionships": 1,
+  "totalRaceEntries": 63,
+  "totalRaceStarts": 62,
+  "totalRaceWins": 9,
+  "totalPolePositions": 4,
+  "totalPodiums": 17,
+  "totalPoints": 183,
+  "totalDriverPoints": 183,
+  "totalFastestLaps": 12
+}

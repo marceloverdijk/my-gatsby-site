@@ -1,0 +1,22 @@
+{
+  "id": "joachim-winkelhock",
+  "name": "Joachim Winkelhock",
+  "firstName": "Joachim",
+  "lastName": "Winkelhock",
+  "fullName": "Joachim Winkelhock",
+  "abbreviation": "WIN",
+  "gender": "MALE",
+  "dateOfBirth": "1960-10-24",
+  "placeOfBirth": "Waiblingen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

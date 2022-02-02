@@ -1,0 +1,23 @@
+{
+  "id": "paul-frere",
+  "name": "Paul Frère",
+  "firstName": "Paul",
+  "lastName": "Frère",
+  "fullName": "Paul Frère",
+  "abbreviation": "FRE",
+  "gender": "MALE",
+  "dateOfBirth": "1917-01-30",
+  "dateOfDeath": "2008-02-23",
+  "placeOfBirth": "Le Havre",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 11,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

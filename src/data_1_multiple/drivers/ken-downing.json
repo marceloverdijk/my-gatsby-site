@@ -1,0 +1,23 @@
+{
+  "id": "ken-downing",
+  "name": "Ken Downing",
+  "firstName": "Ken",
+  "lastName": "Downing",
+  "fullName": "Kenneth Henry Downing",
+  "abbreviation": "DOW",
+  "gender": "MALE",
+  "dateOfBirth": "1917-12-05",
+  "dateOfDeath": "2004-05-03",
+  "placeOfBirth": "Chesterton",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

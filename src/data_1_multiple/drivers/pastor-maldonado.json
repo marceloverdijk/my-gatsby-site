@@ -1,0 +1,23 @@
+{
+  "id": "pastor-maldonado",
+  "name": "Pastor Maldonado",
+  "firstName": "Pastor",
+  "lastName": "Maldonado",
+  "fullName": "Pastor Rafael Maldonado Motta",
+  "abbreviation": "MAL",
+  "permanentNumber": "13",
+  "gender": "MALE",
+  "dateOfBirth": "1985-03-09",
+  "placeOfBirth": "Maracay",
+  "countryOfBirthCountryId": "venezuela",
+  "nationalityCountryId": "venezuela",
+  "totalChampionships": 0,
+  "totalRaceEntries": 96,
+  "totalRaceStarts": 95,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 1,
+  "totalPoints": 76,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

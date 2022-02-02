@@ -1,0 +1,23 @@
+{
+  "id": "john-barber",
+  "name": "John Barber",
+  "firstName": "John",
+  "lastName": "Barber",
+  "fullName": "John David Barber",
+  "abbreviation": "BAR",
+  "gender": "MALE",
+  "dateOfBirth": "1929-07-22",
+  "dateOfDeath": "2015-02-04",
+  "placeOfBirth": "Little Marlow",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

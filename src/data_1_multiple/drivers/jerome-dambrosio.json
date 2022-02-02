@@ -1,0 +1,22 @@
+{
+  "id": "jerome-dambrosio",
+  "name": "Jérôme d'Ambrosio",
+  "firstName": "Jérôme",
+  "lastName": "D'Ambrosio",
+  "fullName": "Jérôme d'Ambrosio",
+  "abbreviation": "DAM",
+  "gender": "MALE",
+  "dateOfBirth": "1985-12-27",
+  "placeOfBirth": "Etterbeek",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 20,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

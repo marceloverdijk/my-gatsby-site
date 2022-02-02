@@ -1,0 +1,22 @@
+{
+  "id": "danny-sullivan",
+  "name": "Danny Sullivan",
+  "firstName": "Danny",
+  "lastName": "Sullivan",
+  "fullName": "Daniel John Sullivan III",
+  "abbreviation": "SUL",
+  "gender": "MALE",
+  "dateOfBirth": "1950-03-09",
+  "placeOfBirth": "Louisville",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 15,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

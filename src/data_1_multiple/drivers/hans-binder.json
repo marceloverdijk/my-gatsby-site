@@ -1,0 +1,22 @@
+{
+  "id": "hans-binder",
+  "name": "Hans Binder",
+  "firstName": "Hans",
+  "lastName": "Binder",
+  "fullName": "Hans Binder",
+  "abbreviation": "BIN",
+  "gender": "MALE",
+  "dateOfBirth": "1948-06-12",
+  "placeOfBirth": "Zell am Ziller",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 13,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

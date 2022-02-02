@@ -1,0 +1,23 @@
+{
+  "id": "ernst-klodwig",
+  "name": "Ernst Klodwig",
+  "firstName": "Ernst",
+  "lastName": "Klodwig",
+  "fullName": "Ernst Klodwig",
+  "abbreviation": "KLO",
+  "gender": "MALE",
+  "dateOfBirth": "1903-05-23",
+  "dateOfDeath": "1973-04-15",
+  "placeOfBirth": "Aschersleben",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

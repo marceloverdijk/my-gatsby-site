@@ -1,0 +1,23 @@
+{
+  "id": "masten-gregory",
+  "name": "Masten Gregory",
+  "firstName": "Masten",
+  "lastName": "Gregory",
+  "fullName": "Masten Gregory",
+  "abbreviation": "GRE",
+  "gender": "MALE",
+  "dateOfBirth": "1932-02-29",
+  "dateOfDeath": "1985-11-08",
+  "placeOfBirth": "Kansas City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 43,
+  "totalRaceStarts": 38,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 3,
+  "totalPoints": 21,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

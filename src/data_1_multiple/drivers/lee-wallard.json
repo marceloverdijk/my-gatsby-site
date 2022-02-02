@@ -1,0 +1,23 @@
+{
+  "id": "lee-wallard",
+  "name": "Lee Wallard",
+  "firstName": "Lee",
+  "lastName": "Wallard",
+  "fullName": "Lee Wallard",
+  "abbreviation": "WAL",
+  "gender": "MALE",
+  "dateOfBirth": "1910-09-07",
+  "dateOfDeath": "1963-11-29",
+  "placeOfBirth": "Schenectady",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 9,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

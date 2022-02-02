@@ -1,0 +1,23 @@
+{
+  "id": "john-fitch",
+  "name": "John Fitch",
+  "firstName": "John",
+  "lastName": "Fitch",
+  "fullName": "John Cooper Fitch",
+  "abbreviation": "FIT",
+  "gender": "MALE",
+  "dateOfBirth": "1917-08-04",
+  "dateOfDeath": "2012-10-31",
+  "placeOfBirth": "Indianapolis",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

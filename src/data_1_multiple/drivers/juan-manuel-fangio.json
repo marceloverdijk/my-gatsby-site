@@ -1,0 +1,23 @@
+{
+  "id": "juan-manuel-fangio",
+  "name": "Juan Manuel Fangio",
+  "firstName": "Juan Manuel",
+  "lastName": "Fangio",
+  "fullName": "Juan Manuel Fangio Déramo",
+  "abbreviation": "FAN",
+  "gender": "MALE",
+  "dateOfBirth": "1911-06-24",
+  "dateOfDeath": "1995-07-17",
+  "placeOfBirth": "Balcarce",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 5,
+  "totalRaceEntries": 51,
+  "totalRaceStarts": 51,
+  "totalRaceWins": 24,
+  "totalPolePositions": 29,
+  "totalPodiums": 35,
+  "totalPoints": 277.64,
+  "totalFastestLaps": 27,
+  "totalDriverOfTheDay": 0
+}

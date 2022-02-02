@@ -1,0 +1,23 @@
+{
+  "id": "walt-hansgen",
+  "name": "Walt Hansgen",
+  "firstName": "Walt",
+  "lastName": "Hansgen",
+  "fullName": "Walter Edwin Hansgen",
+  "abbreviation": "HAN",
+  "gender": "MALE",
+  "dateOfBirth": "1919-10-28",
+  "dateOfDeath": "1966-04-07",
+  "placeOfBirth": "Westfield",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

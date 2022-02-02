@@ -1,0 +1,22 @@
+{
+  "id": "ian-ashley",
+  "name": "Ian Ashley",
+  "firstName": "Ian",
+  "lastName": "Ashley",
+  "fullName": "Ian Hugh Gordon Ashley",
+  "abbreviation": "ASH",
+  "gender": "MALE",
+  "dateOfBirth": "1947-10-26",
+  "placeOfBirth": "Wuppertal",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

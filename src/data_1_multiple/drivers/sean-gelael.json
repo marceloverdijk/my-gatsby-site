@@ -1,0 +1,22 @@
+{
+  "id": "sean-gelael",
+  "name": "Sean Gelael",
+  "firstName": "Sean",
+  "lastName": "Gelael",
+  "fullName": "Muhammad Sean Ricardo Gelael",
+  "abbreviation": "GEL",
+  "gender": "MALE",
+  "dateOfBirth": "1996-11-01",
+  "placeOfBirth": "Jakarta",
+  "countryOfBirthCountryId": "indonesia",
+  "nationalityCountryId": "indonesia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

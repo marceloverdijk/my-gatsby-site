@@ -1,0 +1,12 @@
+{
+  "id": "ford",
+  "name": "Ford",
+  "countryId": "united-states-of-america",
+  "totalChampionships": 10,
+  "totalRaceEntries": 528,
+  "totalRaceStarts": 525,
+  "totalRaceWins": 176,
+  "totalPolePositions": 139,
+  "totalPodiums": 289,
+  "totalFastestLaps": 161
+}

@@ -1,0 +1,23 @@
+{
+  "id": "luiz-bueno",
+  "name": "Luiz Bueno",
+  "firstName": "Luiz",
+  "lastName": "Bueno",
+  "fullName": "Luiz Pereira Bueno",
+  "abbreviation": "BUE",
+  "gender": "MALE",
+  "dateOfBirth": "1937-01-16",
+  "dateOfDeath": "2011-02-08",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

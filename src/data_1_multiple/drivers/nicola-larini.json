@@ -1,0 +1,22 @@
+{
+  "id": "nicola-larini",
+  "name": "Nicola Larini",
+  "firstName": "Nicola",
+  "lastName": "Larini",
+  "fullName": "Nicola Larini",
+  "abbreviation": "LAR",
+  "gender": "MALE",
+  "dateOfBirth": "1964-03-19",
+  "placeOfBirth": "Lido di Camaiore",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 75,
+  "totalRaceStarts": 49,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 7,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

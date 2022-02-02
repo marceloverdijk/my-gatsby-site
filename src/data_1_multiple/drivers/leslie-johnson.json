@@ -1,0 +1,23 @@
+{
+  "id": "leslie-johnson",
+  "name": "Leslie Johnson",
+  "firstName": "Leslie",
+  "lastName": "Johnson",
+  "fullName": "Leslie George Johnson",
+  "abbreviation": "JOH",
+  "gender": "MALE",
+  "dateOfBirth": "1912-03-22",
+  "dateOfDeath": "1959-06-08",
+  "placeOfBirth": "Walthamstow",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

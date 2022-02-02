@@ -1,0 +1,23 @@
+{
+  "id": "billy-garrett",
+  "name": "Billy Garrett",
+  "firstName": "Billy",
+  "lastName": "Garrett",
+  "fullName": "Billy Garrett",
+  "abbreviation": "GAR",
+  "gender": "MALE",
+  "dateOfBirth": "1933-04-24",
+  "dateOfDeath": "1999-02-15",
+  "placeOfBirth": "Princeton",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

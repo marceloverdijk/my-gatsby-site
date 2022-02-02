@@ -1,0 +1,22 @@
+{
+  "id": "jan-charouz",
+  "name": "Jan Charouz",
+  "firstName": "Jan",
+  "lastName": "Charouz",
+  "fullName": "Jan Charouz",
+  "abbreviation": "CHA",
+  "gender": "MALE",
+  "dateOfBirth": "1987-07-17",
+  "placeOfBirth": "Prague",
+  "countryOfBirthCountryId": "czech-republic",
+  "nationalityCountryId": "czech-republic",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

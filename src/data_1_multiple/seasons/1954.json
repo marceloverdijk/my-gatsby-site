@@ -1,0 +1,2483 @@
+{
+  "year": 1954,
+  "entrants": [
+    {
+      "entrantId": "advance-muffler",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "bromme",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "danny-kladis",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "spider-webb",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "andy-granatelli",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jim-rathmann",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "bessie-lee-paoli",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "art-cross",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "bill-whitehouse",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "connaught",
+          "engineManufacturerId": "lea-francis",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bill-whitehouse",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "bob-estes",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "phillips",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "don-freeland",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "bob-gerard",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "cooper",
+          "engineManufacturerId": "bristol",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bob-gerard",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "cars-inc",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bill-homeier",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "chapman-s-root",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jerry-hoyt",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "jimmy-daywalt",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "daimler-benz-ag",
+      "countryId": "germany",
+      "constructors": [
+        {
+          "constructorId": "mercedes",
+          "engineManufacturerId": "mercedes",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "continental"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "hans-herrmann",
+              "rounds": [
+                4,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "4,6-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "juan-manuel-fangio",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "4-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "karl-kling",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "4-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "hermann-lang",
+              "rounds": [
+                6
+              ],
+              "roundsText": "6",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "dean-van-lines-racing",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kuzma",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jimmy-bryan",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "dr-rn-sabourin",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "pawl",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "eddie-johnson",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "rodger-ward",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ecurie-ecosse",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "connaught",
+          "engineManufacturerId": "lea-francis",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "leslie-thorne",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ecurie-francorchamps",
+      "countryId": "belgium",
+      "constructors": [
+        {
+          "constructorId": "ferrari",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "englebert"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jacques-swaters",
+              "rounds": [
+                3,
+                7,
+                9
+              ],
+              "roundsText": "3,7,9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ecurie-richmond",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "cooper",
+          "engineManufacturerId": "bristol",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "eric-brandon",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            },
+            {
+              "driverId": "rodney-nuckey",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ecurie-rosier",
+      "countryId": "france",
+      "constructors": [
+        {
+          "constructorId": "ferrari",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            },
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "louis-rosier",
+              "rounds": [
+                1,
+                4,
+                5,
+                6
+              ],
+              "roundsText": "1,4-6",
+              "testDriver": false
+            },
+            {
+              "driverId": "maurice-trintignant",
+              "rounds": [
+                1
+              ],
+              "roundsText": "1",
+              "testDriver": false
+            },
+            {
+              "driverId": "robert-manzon",
+              "rounds": [
+                4,
+                5,
+                6,
+                8,
+                9
+              ],
+              "roundsText": "4-6,8-9",
+              "testDriver": false
+            }
+          ]
+        },
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "louis-rosier",
+              "rounds": [
+                9
+              ],
+              "roundsText": "9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ed-stone",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "george-fonder",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ed-walsh",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "andy-linden",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "art-cross",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "jim-rathmann",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "jimmy-davies",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "johnnie-parsons",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "pat-flaherty",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "sam-hanks",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "emmanuel-de-graffenried",
+      "countryId": "switzerland",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "emmanuel-de-graffenried",
+              "rounds": [
+                1,
+                9
+              ],
+              "roundsText": "1,9",
+              "testDriver": false
+            },
+            {
+              "driverId": "ottorino-volonterio",
+              "rounds": [
+                9
+              ],
+              "roundsText": "9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "emmett-malloy",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "pankratz",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jimmy-reece",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "equipe-gordini",
+      "countryId": "france",
+      "constructors": [
+        {
+          "constructorId": "gordini",
+          "engineManufacturerId": "gordini",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "englebert"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "elie-bayol",
+              "rounds": [
+                1
+              ],
+              "roundsText": "1",
+              "testDriver": false
+            },
+            {
+              "driverId": "jean-behra",
+              "rounds": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "1,3-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "roger-loyer",
+              "rounds": [
+                1
+              ],
+              "roundsText": "1",
+              "testDriver": false
+            },
+            {
+              "driverId": "andre-pilette",
+              "rounds": [
+                3,
+                5,
+                6
+              ],
+              "roundsText": "3,5-6",
+              "testDriver": false
+            },
+            {
+              "driverId": "paul-frere",
+              "rounds": [
+                3,
+                4,
+                6
+              ],
+              "roundsText": "3-4,6",
+              "testDriver": false
+            },
+            {
+              "driverId": "jacques-pollet",
+              "rounds": [
+                4,
+                9
+              ],
+              "roundsText": "4,9",
+              "testDriver": false
+            },
+            {
+              "driverId": "clemar-bucci",
+              "rounds": [
+                5,
+                6,
+                7,
+                8
+              ],
+              "roundsText": "5-8",
+              "testDriver": false
+            },
+            {
+              "driverId": "fred-wacker",
+              "rounds": [
+                7,
+                8
+              ],
+              "roundsText": "7-8",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "equipe-moss",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "stirling-moss",
+              "rounds": [
+                3,
+                5,
+                6
+              ],
+              "roundsText": "3,5-6",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "eugene-casaroll",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "duane-carter",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "jimmy-jackson",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "marshall-teague",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "tony-bettenhausen",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "troy-ruttman",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "federal-auto-associates",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "larry-crockett",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "paul-russo",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "francis-bardazon",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bob-sweikert",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "georges-berger",
+      "countryId": "belgium",
+      "constructors": [
+        {
+          "constructorId": "gordini",
+          "engineManufacturerId": "gordini",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "englebert"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "georges-berger",
+              "rounds": [
+                4
+              ],
+              "roundsText": "4",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "gilby-engineering",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "roy-salvadori",
+              "rounds": [
+                4,
+                5
+              ],
+              "roundsText": "4-5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "giovanni-de-riu",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "giovanni-de-riu",
+              "rounds": [
+                8
+              ],
+              "roundsText": "8",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "goulds-garage-bristol",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "cooper",
+          "engineManufacturerId": "bristol",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "horace-gould",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ha-chapman",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "nichels",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "andy-linden",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "jimmy-daywalt",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "johnny-thomson",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        },
+        {
+          "constructorId": "stevens",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bob-scott",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "ed-elisian",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "hans-klenk",
+      "countryId": "germany",
+      "constructors": [
+        {
+          "constructorId": "klenk",
+          "engineManufacturerId": "bmw",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "theo-helfrich",
+              "rounds": [
+                6
+              ],
+              "roundsText": "6",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "harry-dunn",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "pat-flaherty",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "harry-schell",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "harry-schell",
+              "rounds": [
+                1,
+                4,
+                5,
+                6,
+                9
+              ],
+              "roundsText": "1,4-6,9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "hart-fullerton",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "marshall-teague",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "howard-keck",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bill-vukovich",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "hw-motors",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "hwm",
+          "engineManufacturerId": "alta",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "lance-macklin",
+              "rounds": [
+                4
+              ],
+              "roundsText": "4",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "jack-hinkle",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jack-mcgrath",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "jc-agajanian",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kuzma",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "chuck-stevenson",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "walt-faulkner",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "jim-robbins",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "stevens",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "cal-niday",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "john-zink",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "gene-hartley",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "marshall-teague",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "jorge-daponte",
+      "countryId": "argentina",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jorge-daponte",
+              "rounds": [
+                1,
+                8
+              ],
+              "roundsText": "1,8",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "lee-elkins",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "mike-nazaruk",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "leslie-marr",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "connaught",
+          "engineManufacturerId": "lea-francis",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "leslie-marr",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "lindsey-hopkins",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "pat-oconnor",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "mel-wiggers",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "tony-bettenhausen",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "miklos-sperling",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "fred-agabashian",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "murrell-belanger",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jerry-hoyt",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "officine-alfieri-maserati",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "juan-manuel-fangio",
+              "rounds": [
+                1,
+                3
+              ],
+              "roundsText": "1,3",
+              "testDriver": false
+            },
+            {
+              "driverId": "luigi-musso",
+              "rounds": [
+                1,
+                8,
+                9
+              ],
+              "roundsText": "1,8-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "onofre-marimon",
+              "rounds": [
+                1,
+                3,
+                4,
+                5,
+                6
+              ],
+              "roundsText": "1,3-6",
+              "testDriver": false
+            },
+            {
+              "driverId": "birabongse-bhanudej",
+              "rounds": [
+                1
+              ],
+              "roundsText": "1",
+              "testDriver": false
+            },
+            {
+              "driverId": "sergio-mantovani",
+              "rounds": [
+                3,
+                4,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "3-4,6-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "alberto-ascari",
+              "rounds": [
+                4,
+                5
+              ],
+              "roundsText": "4-5",
+              "testDriver": false
+            },
+            {
+              "driverId": "luigi-villoresi",
+              "rounds": [
+                4,
+                5,
+                6,
+                8
+              ],
+              "roundsText": "4-6,8",
+              "testDriver": false
+            },
+            {
+              "driverId": "harry-schell",
+              "rounds": [
+                7
+              ],
+              "roundsText": "7",
+              "testDriver": false
+            },
+            {
+              "driverId": "roberto-mieres",
+              "rounds": [
+                7,
+                8,
+                9
+              ],
+              "roundsText": "7-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "stirling-moss",
+              "rounds": [
+                7,
+                8,
+                9
+              ],
+              "roundsText": "7-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "louis-rosier",
+              "rounds": [
+                8
+              ],
+              "roundsText": "8",
+              "testDriver": false
+            },
+            {
+              "driverId": "paco-godia",
+              "rounds": [
+                9
+              ],
+              "roundsText": "9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "onofre-marimon",
+      "countryId": "argentina",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "carlos-menditeguy",
+              "rounds": [
+                1
+              ],
+              "roundsText": "1",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "owen-racing-organisation",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "ken-wharton",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                9
+              ],
+              "roundsText": "4-7,9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "pat-clancy",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jimmy-davies",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "peter-schmidt",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kuzma",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "manny-ayulo",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "walt-faulkner",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "peter-whitehead",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "cooper",
+          "engineManufacturerId": "alta",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "peter-whitehead",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "prince-bira",
+      "countryId": "thailand",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "birabongse-bhanudej",
+              "rounds": [
+                3,
+                4,
+                5,
+                6,
+                9
+              ],
+              "roundsText": "3-6,9",
+              "testDriver": false
+            },
+            {
+              "driverId": "ron-flockhart",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ray-crawford",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "ernie-mccoy",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ray-t-brady",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "schroeder",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "george-fonder",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "len-duncan",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "rj-chase",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "cooper",
+          "engineManufacturerId": "bristol",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "alan-brown",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "roberto-mieres",
+      "countryId": "argentina",
+      "constructors": [
+        {
+          "constructorId": "maserati",
+          "engineManufacturerId": "maserati",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "roberto-mieres",
+              "rounds": [
+                1,
+                3,
+                4,
+                5,
+                6
+              ],
+              "roundsText": "1,3-6",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "rrc-walker-racing-team",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "connaught",
+          "engineManufacturerId": "lea-francis",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "john-riseley-prichard",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "sandy-belond",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "johnnie-parsons",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "scuderia-ambrosiana",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "ferrari",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "avon"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "reg-parnell",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "scuderia-ferrari",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "ferrari",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jose-froilan-gonzalez",
+              "rounds": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ],
+              "roundsText": "1,3-8",
+              "testDriver": false
+            },
+            {
+              "driverId": "mike-hawthorn",
+              "rounds": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "1,3-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "nino-farina",
+              "rounds": [
+                1,
+                3
+              ],
+              "roundsText": "1,3",
+              "testDriver": false
+            },
+            {
+              "driverId": "umberto-maglioli",
+              "rounds": [
+                1,
+                7,
+                8
+              ],
+              "roundsText": "1,7-8",
+              "testDriver": false
+            },
+            {
+              "driverId": "maurice-trintignant",
+              "rounds": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "roundsText": "3-9",
+              "testDriver": false
+            },
+            {
+              "driverId": "piero-taruffi",
+              "rounds": [
+                6
+              ],
+              "roundsText": "6",
+              "testDriver": false
+            },
+            {
+              "driverId": "robert-manzon",
+              "rounds": [
+                7
+              ],
+              "roundsText": "7",
+              "testDriver": false
+            },
+            {
+              "driverId": "alberto-ascari",
+              "rounds": [
+                8
+              ],
+              "roundsText": "8",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "scuderia-lancia",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "lancia",
+          "engineManufacturerId": "lancia",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "alberto-ascari",
+              "rounds": [
+                9
+              ],
+              "roundsText": "9",
+              "testDriver": false
+            },
+            {
+              "driverId": "luigi-villoresi",
+              "rounds": [
+                9
+              ],
+              "roundsText": "9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "shouse-motors",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "pat-flaherty",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "sir-jeremy-boles",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "connaught",
+          "engineManufacturerId": "lea-francis",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "dunlop"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "don-beauman",
+              "rounds": [
+                5
+              ],
+              "roundsText": "5",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "vandervell-products",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "vanwall",
+          "engineManufacturerId": "vanwall",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "peter-collins",
+              "rounds": [
+                5,
+                8,
+                9
+              ],
+              "roundsText": "5,8-9",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "verlin-brown",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "schroeder",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "andy-linden",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "bob-scott",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "w-thayer-martin",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "frank-armi",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "george-fonder",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "william-ansted",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "kurtis",
+          "engineManufacturerId": "offenhauser",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "firestone"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jerry-hoyt",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "paul-russo",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "raceIds": [
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "driverStandings": [
+    {
+      "positionNumber": 1,
+      "positionText": "1",
+      "driverId": "juan-manuel-fangio",
+      "points": 42
+    },
+    {
+      "positionNumber": 2,
+      "positionText": "2",
+      "driverId": "jose-froilan-gonzalez",
+      "points": 25.1
+    },
+    {
+      "positionNumber": 3,
+      "positionText": "3",
+      "driverId": "mike-hawthorn",
+      "points": 24.6
+    },
+    {
+      "positionNumber": 4,
+      "positionText": "4",
+      "driverId": "maurice-trintignant",
+      "points": 17
+    },
+    {
+      "positionNumber": 5,
+      "positionText": "5",
+      "driverId": "karl-kling",
+      "points": 12
+    },
+    {
+      "positionNumber": 6,
+      "positionText": "6",
+      "driverId": "bill-vukovich",
+      "points": 8
+    },
+    {
+      "positionNumber": 6,
+      "positionText": "6",
+      "driverId": "hans-herrmann",
+      "points": 8
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "driverId": "nino-farina",
+      "points": 6
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "driverId": "jimmy-bryan",
+      "points": 6
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "driverId": "luigi-musso",
+      "points": 6
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "driverId": "roberto-mieres",
+      "points": 6
+    },
+    {
+      "positionNumber": 12,
+      "positionText": "12",
+      "driverId": "jack-mcgrath",
+      "points": 5
+    },
+    {
+      "positionNumber": 13,
+      "positionText": "13",
+      "driverId": "stirling-moss",
+      "points": 4.1
+    },
+    {
+      "positionNumber": 13,
+      "positionText": "13",
+      "driverId": "onofre-marimon",
+      "points": 4.1
+    },
+    {
+      "positionNumber": 15,
+      "positionText": "15",
+      "driverId": "robert-manzon",
+      "points": 4
+    },
+    {
+      "positionNumber": 15,
+      "positionText": "15",
+      "driverId": "sergio-mantovani",
+      "points": 4
+    },
+    {
+      "positionNumber": 17,
+      "positionText": "17",
+      "driverId": "birabongse-bhanudej",
+      "points": 3
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "elie-bayol",
+      "points": 2
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "mike-nazaruk",
+      "points": 2
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "andre-pilette",
+      "points": 2
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "luigi-villoresi",
+      "points": 2
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "umberto-maglioli",
+      "points": 2
+    },
+    {
+      "positionNumber": 23,
+      "positionText": "23",
+      "driverId": "troy-ruttman",
+      "points": 1.5
+    },
+    {
+      "positionNumber": 23,
+      "positionText": "23",
+      "driverId": "duane-carter",
+      "points": 1.5
+    },
+    {
+      "positionNumber": 25,
+      "positionText": "25",
+      "driverId": "alberto-ascari",
+      "points": 1.1
+    },
+    {
+      "positionNumber": 26,
+      "positionText": "26",
+      "driverId": "jean-behra",
+      "points": 0.1
+    }
+  ]
+}

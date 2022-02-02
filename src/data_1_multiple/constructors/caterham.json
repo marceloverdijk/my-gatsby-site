@@ -1,0 +1,16 @@
+{
+  "id": "caterham",
+  "name": "Caterham",
+  "fullName": "Caterham F1 Team",
+  "previousConstructorId": "lotus-racing",
+  "countryId": "malaysia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 56,
+  "totalRaceStarts": 56,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalDriverPoints": 0,
+  "totalFastestLaps": 0
+}

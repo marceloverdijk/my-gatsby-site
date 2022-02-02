@@ -1,0 +1,22 @@
+{
+  "id": "brian-redman",
+  "name": "Brian Redman",
+  "firstName": "Brian",
+  "lastName": "Redman",
+  "fullName": "Brian Herman Thomas Redman",
+  "abbreviation": "RED",
+  "gender": "MALE",
+  "dateOfBirth": "1937-03-09",
+  "placeOfBirth": "Burnley",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

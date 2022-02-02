@@ -1,0 +1,22 @@
+{
+  "id": "tarso-marques",
+  "name": "Tarso Marques",
+  "firstName": "Tarso",
+  "lastName": "Marques",
+  "fullName": "Tarso Anibal Santanna Marques",
+  "abbreviation": "MAR",
+  "gender": "MALE",
+  "dateOfBirth": "1976-01-19",
+  "placeOfBirth": "Curitiba",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 26,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "giovanni-lavaggi",
+  "name": "Giovanni Lavaggi",
+  "firstName": "Giovanni",
+  "lastName": "Lavaggi",
+  "fullName": "Giovanni Lavaggi",
+  "abbreviation": "LAV",
+  "gender": "MALE",
+  "dateOfBirth": "1958-02-18",
+  "placeOfBirth": "Augusta",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

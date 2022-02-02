@@ -1,0 +1,22 @@
+{
+  "id": "naoki-hattori",
+  "name": "Naoki Hattori",
+  "firstName": "Naoki",
+  "lastName": "Hattori",
+  "fullName": "Naoki Hattori",
+  "abbreviation": "HAT",
+  "gender": "MALE",
+  "dateOfBirth": "1966-06-13",
+  "placeOfBirth": "Yokkaichi",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

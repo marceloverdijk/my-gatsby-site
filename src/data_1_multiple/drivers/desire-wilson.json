@@ -1,0 +1,22 @@
+{
+  "id": "desire-wilson",
+  "name": "Desiré Wilson",
+  "firstName": "Desiré",
+  "lastName": "Wilson",
+  "fullName": "Desiré Randall Wilson",
+  "abbreviation": "WIL",
+  "gender": "FEMALE",
+  "dateOfBirth": "1953-11-26",
+  "placeOfBirth": "Brakpan",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

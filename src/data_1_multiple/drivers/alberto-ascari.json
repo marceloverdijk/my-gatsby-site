@@ -1,0 +1,23 @@
+{
+  "id": "alberto-ascari",
+  "name": "Alberto Ascari",
+  "firstName": "Alberto",
+  "lastName": "Ascari",
+  "fullName": "Alberto Ascari",
+  "abbreviation": "ASC",
+  "gender": "MALE",
+  "dateOfBirth": "1918-07-13",
+  "dateOfDeath": "1955-05-26",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 2,
+  "totalRaceEntries": 32,
+  "totalRaceStarts": 32,
+  "totalRaceWins": 13,
+  "totalPolePositions": 14,
+  "totalPodiums": 17,
+  "totalPoints": 140.14,
+  "totalFastestLaps": 15,
+  "totalDriverOfTheDay": 0
+}

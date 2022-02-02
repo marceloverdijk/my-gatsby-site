@@ -1,0 +1,22 @@
+{
+  "id": "michael-bartels",
+  "name": "Michael Bartels",
+  "firstName": "Michael",
+  "lastName": "Bartels",
+  "fullName": "Michael Bartels",
+  "abbreviation": "BAR",
+  "gender": "MALE",
+  "dateOfBirth": "1968-03-08",
+  "placeOfBirth": "Plettenberg",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

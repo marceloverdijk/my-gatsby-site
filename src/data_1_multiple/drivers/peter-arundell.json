@@ -1,0 +1,23 @@
+{
+  "id": "peter-arundell",
+  "name": "Peter Arundell",
+  "firstName": "Peter",
+  "lastName": "Arundell",
+  "fullName": "Peter Arundell",
+  "abbreviation": "ARU",
+  "gender": "MALE",
+  "dateOfBirth": "1933-11-08",
+  "dateOfDeath": "2009-06-16",
+  "placeOfBirth": "Ilford",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 12,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

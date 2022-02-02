@@ -1,0 +1,23 @@
+{
+  "id": "helm-glockler",
+  "name": "Helm Glöckler",
+  "firstName": "Helm",
+  "lastName": "Glöckler",
+  "fullName": "Helm Glöckler",
+  "abbreviation": "GLO",
+  "gender": "MALE",
+  "dateOfBirth": "1909-01-13",
+  "dateOfDeath": "1993-12-18",
+  "placeOfBirth": "Frankfurt am Main",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

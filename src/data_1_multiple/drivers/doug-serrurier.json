@@ -1,0 +1,23 @@
+{
+  "id": "doug-serrurier",
+  "name": "Doug Serrurier",
+  "firstName": "Doug",
+  "lastName": "Serrurier",
+  "fullName": "Louis Douglas Serrurier",
+  "abbreviation": "SER",
+  "gender": "MALE",
+  "dateOfBirth": "1920-12-09",
+  "dateOfDeath": "2006-06-04",
+  "placeOfBirth": "Germiston",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

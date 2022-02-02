@@ -1,0 +1,22 @@
+{
+  "id": "gabriele-tarquini",
+  "name": "Gabriele Tarquini",
+  "firstName": "Gabriele",
+  "lastName": "Tarquini",
+  "fullName": "Gabriele Tarquini",
+  "abbreviation": "TAR",
+  "gender": "MALE",
+  "dateOfBirth": "1962-03-02",
+  "placeOfBirth": "Giulianova",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 78,
+  "totalRaceStarts": 38,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jacky-ickx",
+  "name": "Jacky Ickx",
+  "firstName": "Jacky",
+  "lastName": "Ickx",
+  "fullName": "Jacques Bernard Ickx",
+  "abbreviation": "ICK",
+  "gender": "MALE",
+  "dateOfBirth": "1945-01-01",
+  "placeOfBirth": "Brussels",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 122,
+  "totalRaceStarts": 116,
+  "totalRaceWins": 8,
+  "totalPolePositions": 13,
+  "totalPodiums": 25,
+  "totalPoints": 181,
+  "totalFastestLaps": 14,
+  "totalDriverOfTheDay": 0
+}

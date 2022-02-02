@@ -1,0 +1,23 @@
+{
+  "id": "pierre-levegh",
+  "name": "Pierre Levegh",
+  "firstName": "Pierre",
+  "lastName": "Levegh",
+  "fullName": "Pierre Eugène Alfred Bouillin",
+  "abbreviation": "LEV",
+  "gender": "MALE",
+  "dateOfBirth": "1905-12-22",
+  "dateOfDeath": "1955-06-11",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 6,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

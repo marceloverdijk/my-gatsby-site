@@ -1,0 +1,23 @@
+{
+  "id": "lance-reventlow",
+  "name": "Lance Reventlow",
+  "firstName": "Lance",
+  "lastName": "Reventlow",
+  "fullName": "Lawrence Graf von Haugwitz-Hardenberg-Reventlow",
+  "abbreviation": "REV",
+  "gender": "MALE",
+  "dateOfBirth": "1936-02-24",
+  "dateOfDeath": "1972-07-24",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

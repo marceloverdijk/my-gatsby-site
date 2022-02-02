@@ -1,0 +1,23 @@
+{
+  "id": "silvio-moser",
+  "name": "Silvio Moser",
+  "firstName": "Silvio",
+  "lastName": "Moser",
+  "fullName": "Silvio Moser",
+  "abbreviation": "MOS",
+  "gender": "MALE",
+  "dateOfBirth": "1941-04-24",
+  "dateOfDeath": "1974-05-26",
+  "placeOfBirth": "Zürich",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

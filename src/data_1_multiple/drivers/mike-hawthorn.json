@@ -1,0 +1,23 @@
+{
+  "id": "mike-hawthorn",
+  "name": "Mike Hawthorn",
+  "firstName": "Mike",
+  "lastName": "Hawthorn",
+  "fullName": "John Michael Hawthorn",
+  "abbreviation": "HAW",
+  "gender": "MALE",
+  "dateOfBirth": "1929-04-10",
+  "dateOfDeath": "1959-01-22",
+  "placeOfBirth": "Mexborough",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 1,
+  "totalRaceEntries": 47,
+  "totalRaceStarts": 45,
+  "totalRaceWins": 3,
+  "totalPolePositions": 4,
+  "totalPodiums": 18,
+  "totalPoints": 127.64,
+  "totalFastestLaps": 6,
+  "totalDriverOfTheDay": 0
+}

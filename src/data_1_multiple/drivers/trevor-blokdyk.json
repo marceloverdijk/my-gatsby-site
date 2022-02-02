@@ -1,0 +1,23 @@
+{
+  "id": "trevor-blokdyk",
+  "name": "Trevor Blokdyk",
+  "firstName": "Trevor",
+  "lastName": "Blokdyk",
+  "fullName": "John Trevor Blokdyk",
+  "abbreviation": "BLO",
+  "gender": "MALE",
+  "dateOfBirth": "1935-11-30",
+  "dateOfDeath": "1995-03-19",
+  "placeOfBirth": "Krugersdorp",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

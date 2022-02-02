@@ -1,0 +1,23 @@
+{
+  "id": "jean-pierre-beltoise",
+  "name": "Jean-Pierre Beltoise",
+  "firstName": "Jean-Pierre",
+  "lastName": "Beltoise",
+  "fullName": "Jean-Pierre Maurice Georges Beltoise",
+  "abbreviation": "BEL",
+  "gender": "MALE",
+  "dateOfBirth": "1937-04-26",
+  "dateOfDeath": "2015-01-05",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 88,
+  "totalRaceStarts": 86,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 8,
+  "totalPoints": 76,
+  "totalFastestLaps": 4,
+  "totalDriverOfTheDay": 0
+}

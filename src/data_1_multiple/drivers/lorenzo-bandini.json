@@ -1,0 +1,23 @@
+{
+  "id": "lorenzo-bandini",
+  "name": "Lorenzo Bandini",
+  "firstName": "Lorenzo",
+  "lastName": "Bandini",
+  "fullName": "Lorenzo Bandini",
+  "abbreviation": "BAN",
+  "gender": "MALE",
+  "dateOfBirth": "1935-12-21",
+  "dateOfDeath": "1967-05-10",
+  "placeOfBirth": "Barce",
+  "countryOfBirthCountryId": "libya",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 42,
+  "totalRaceStarts": 42,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 8,
+  "totalPoints": 58,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

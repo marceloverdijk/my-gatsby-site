@@ -1,0 +1,22 @@
+{
+  "id": "masahiro-hasemi",
+  "name": "Masahiro Hasemi",
+  "firstName": "Masahiro",
+  "lastName": "Hasemi",
+  "fullName": "Masahiro Hasemi",
+  "abbreviation": "HAS",
+  "gender": "MALE",
+  "dateOfBirth": "1945-11-13",
+  "placeOfBirth": "Tokyo",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

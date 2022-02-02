@@ -1,0 +1,23 @@
+{
+  "id": "john-miles",
+  "name": "John Miles",
+  "firstName": "John",
+  "lastName": "Miles",
+  "fullName": "John Miles",
+  "abbreviation": "MIL",
+  "gender": "MALE",
+  "dateOfBirth": "1943-06-14",
+  "dateOfDeath": "2018-04-08",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bmw-sauber",
+  "name": "BMW Sauber",
+  "fullName": "BMW Sauber F1 Team",
+  "previousConstructorId": "sauber",
+  "countryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 70,
+  "totalRaceStarts": 70,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 16,
+  "totalPoints": 308,
+  "totalDriverPoints": 308,
+  "totalFastestLaps": 2
+}

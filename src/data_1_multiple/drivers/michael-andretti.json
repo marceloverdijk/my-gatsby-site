@@ -1,0 +1,22 @@
+{
+  "id": "michael-andretti",
+  "name": "Michael Andretti",
+  "firstName": "Michael",
+  "lastName": "Andretti",
+  "fullName": "Michael Mario Andretti",
+  "abbreviation": "AND",
+  "gender": "MALE",
+  "dateOfBirth": "1986-02-14",
+  "placeOfBirth": "Pocking",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 13,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 7,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

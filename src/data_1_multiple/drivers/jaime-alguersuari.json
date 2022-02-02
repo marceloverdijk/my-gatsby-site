@@ -1,0 +1,22 @@
+{
+  "id": "jaime-alguersuari",
+  "name": "Jaime Alguersuari",
+  "firstName": "Jaime",
+  "lastName": "Alguersuari",
+  "fullName": "Jaime Víctor Alguersuari Escudero",
+  "abbreviation": "ALG",
+  "gender": "MALE",
+  "dateOfBirth": "1990-03-23",
+  "placeOfBirth": "Barcelona",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 46,
+  "totalRaceStarts": 46,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 31,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

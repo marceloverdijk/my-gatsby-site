@@ -1,0 +1,22 @@
+{
+  "id": "ukyo-katayama",
+  "name": "Ukyo Katayama",
+  "firstName": "Ukyo",
+  "lastName": "Katayama",
+  "fullName": "Ukyo Katayama",
+  "abbreviation": "KAT",
+  "gender": "MALE",
+  "dateOfBirth": "1963-05-29",
+  "placeOfBirth": "Tokyo",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 97,
+  "totalRaceStarts": 95,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

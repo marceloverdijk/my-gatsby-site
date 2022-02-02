@@ -1,0 +1,22 @@
+{
+  "id": "robin-frijns",
+  "name": "Robin Frijns",
+  "firstName": "Robin",
+  "lastName": "Frijns",
+  "fullName": "Robin Frijns",
+  "abbreviation": "FRI",
+  "gender": "MALE",
+  "dateOfBirth": "1991-08-07",
+  "placeOfBirth": "Maastricht",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

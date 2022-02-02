@@ -1,0 +1,23 @@
+{
+  "id": "gunnar-nilsson",
+  "name": "Gunnar Nilsson",
+  "firstName": "Gunnar",
+  "lastName": "Nilsson",
+  "fullName": "Gunnar Nilsson",
+  "abbreviation": "NIL",
+  "gender": "MALE",
+  "dateOfBirth": "1948-11-20",
+  "dateOfDeath": "1978-10-20",
+  "placeOfBirth": "Helsingborg",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 32,
+  "totalRaceStarts": 31,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 4,
+  "totalPoints": 31,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "christian-fittipaldi",
+  "name": "Christian Fittipaldi",
+  "firstName": "Christian",
+  "lastName": "Fittipaldi",
+  "fullName": "Christian Fittipaldi",
+  "abbreviation": "FIT",
+  "gender": "MALE",
+  "dateOfBirth": "1971-01-18",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 43,
+  "totalRaceStarts": 40,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 12,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

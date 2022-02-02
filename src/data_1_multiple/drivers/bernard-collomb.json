@@ -1,0 +1,23 @@
+{
+  "id": "bernard-collomb",
+  "name": "Bernard Collomb",
+  "firstName": "Bernard",
+  "lastName": "Collomb",
+  "fullName": "Bernard Marie François Alexandre Collomb-Clerc",
+  "abbreviation": "COL",
+  "gender": "MALE",
+  "dateOfBirth": "1930-10-07",
+  "dateOfDeath": "2011-09-19",
+  "placeOfBirth": "Annecy",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

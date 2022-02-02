@@ -1,0 +1,15 @@
+{
+  "id": "haas",
+  "name": "Haas",
+  "fullName": "Haas F1 Team",
+  "countryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 101,
+  "totalRaceStarts": 101,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 200,
+  "totalDriverPoints": 200,
+  "totalFastestLaps": 2
+}

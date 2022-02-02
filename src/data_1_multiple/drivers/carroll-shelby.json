@@ -1,0 +1,23 @@
+{
+  "id": "carroll-shelby",
+  "name": "Carroll Shelby",
+  "firstName": "Carroll",
+  "lastName": "Shelby",
+  "fullName": "Carroll Hall Shelby",
+  "abbreviation": "SHE",
+  "gender": "MALE",
+  "dateOfBirth": "1923-01-11",
+  "dateOfDeath": "2012-05-10",
+  "placeOfBirth": "Leesburg",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

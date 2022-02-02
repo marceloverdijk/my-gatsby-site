@@ -1,0 +1,23 @@
+{
+  "id": "giacomo-russo",
+  "name": "Giacomo Russo",
+  "firstName": "Giacomo",
+  "lastName": "Russo",
+  "fullName": "Giacomo Russo",
+  "abbreviation": "RUS",
+  "gender": "MALE",
+  "dateOfBirth": "1937-10-23",
+  "dateOfDeath": "1967-06-18",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

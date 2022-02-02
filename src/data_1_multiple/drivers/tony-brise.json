@@ -1,0 +1,23 @@
+{
+  "id": "tony-brise",
+  "name": "Tony Brise",
+  "firstName": "Tony",
+  "lastName": "Brise",
+  "fullName": "Anthony William Brise",
+  "abbreviation": "BRI",
+  "gender": "MALE",
+  "dateOfBirth": "1952-03-28",
+  "dateOfDeath": "1975-11-29",
+  "placeOfBirth": "Erith",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

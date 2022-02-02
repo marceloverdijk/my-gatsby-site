@@ -1,0 +1,23 @@
+{
+  "id": "johnny-mcdowell",
+  "name": "Johnny McDowell",
+  "firstName": "Johnny",
+  "lastName": "McDowell",
+  "fullName": "Johnny McDowell",
+  "abbreviation": "MCD",
+  "gender": "MALE",
+  "dateOfBirth": "1915-01-29",
+  "dateOfDeath": "1952-06-08",
+  "placeOfBirth": "Delavan",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

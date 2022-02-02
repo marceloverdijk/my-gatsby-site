@@ -1,0 +1,23 @@
+{
+  "id": "jackie-holmes",
+  "name": "Jackie Holmes",
+  "firstName": "Jackie",
+  "lastName": "Holmes",
+  "fullName": "Jackie Holmes",
+  "abbreviation": "HOL",
+  "gender": "MALE",
+  "dateOfBirth": "1920-09-04",
+  "dateOfDeath": "1995-03-01",
+  "placeOfBirth": "Indianapolis",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

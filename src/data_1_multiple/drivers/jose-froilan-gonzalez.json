@@ -1,0 +1,23 @@
+{
+  "id": "jose-froilan-gonzalez",
+  "name": "José Froilán González",
+  "firstName": "José Froilán",
+  "lastName": "González",
+  "fullName": "José Froilán González",
+  "abbreviation": "GON",
+  "gender": "MALE",
+  "dateOfBirth": "1922-10-05",
+  "dateOfDeath": "2013-06-15",
+  "placeOfBirth": "Arrecifes",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 26,
+  "totalRaceStarts": 26,
+  "totalRaceWins": 2,
+  "totalPolePositions": 3,
+  "totalPodiums": 15,
+  "totalPoints": 77.64,
+  "totalFastestLaps": 7,
+  "totalDriverOfTheDay": 0
+}

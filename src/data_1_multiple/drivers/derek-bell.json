@@ -1,0 +1,22 @@
+{
+  "id": "derek-bell",
+  "name": "Derek Bell",
+  "firstName": "Derek",
+  "lastName": "Bell",
+  "fullName": "Derek Reginald Bell",
+  "abbreviation": "BEL",
+  "gender": "MALE",
+  "dateOfBirth": "1941-10-31",
+  "placeOfBirth": "Pinner",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 16,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

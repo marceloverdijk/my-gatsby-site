@@ -1,0 +1,22 @@
+{
+  "id": "michael-bleekemolen",
+  "name": "Michael Bleekemolen",
+  "firstName": "Michael",
+  "lastName": "Bleekemolen",
+  "fullName": "Michael Bleekemolen",
+  "abbreviation": "BLE",
+  "gender": "MALE",
+  "dateOfBirth": "1949-10-02",
+  "placeOfBirth": "Amsterdam",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

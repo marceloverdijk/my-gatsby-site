@@ -1,0 +1,23 @@
+{
+  "id": "albert-scherrer",
+  "name": "Albert Scherrer",
+  "firstName": "Albert",
+  "lastName": "Scherrer",
+  "fullName": "Albert Scherrer",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1908-02-28",
+  "dateOfDeath": "1986-07-05",
+  "placeOfBirth": "Riehen",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

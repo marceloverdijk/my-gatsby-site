@@ -1,0 +1,22 @@
+{
+  "id": "adderly-fong",
+  "name": "Adderly Fong",
+  "firstName": "Adderly",
+  "lastName": "Fong",
+  "fullName": "Adderly Fong Cheun-yue",
+  "abbreviation": "FON",
+  "gender": "MALE",
+  "dateOfBirth": "1990-03-02",
+  "placeOfBirth": "Vancouver",
+  "countryOfBirthCountryId": "canada",
+  "nationalityCountryId": "hong-kong",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

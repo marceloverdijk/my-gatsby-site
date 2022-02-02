@@ -1,0 +1,16 @@
+{
+  "id": 1056,
+  "year": 2021,
+  "round": 21,
+  "date": "2021-11-21",
+  "grandPrixId": "australia",
+  "officialName": "Formula 1 Rolex Australian Grand Prix 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "melbourne",
+  "circuitType": "STREET",
+  "courseLength": 5.303,
+  "laps": 58,
+  "distance": 307.574,
+  "scheduledLaps": 58,
+  "scheduledDistance": 307.574
+}

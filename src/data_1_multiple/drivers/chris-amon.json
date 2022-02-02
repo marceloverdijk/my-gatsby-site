@@ -1,0 +1,23 @@
+{
+  "id": "chris-amon",
+  "name": "Chris Amon",
+  "firstName": "Chris",
+  "lastName": "Amon",
+  "fullName": "Christopher Arthur Amon",
+  "abbreviation": "AMO",
+  "gender": "MALE",
+  "dateOfBirth": "1943-07-20",
+  "dateOfDeath": "2016-08-03",
+  "placeOfBirth": "Bulls",
+  "countryOfBirthCountryId": "new-zealand",
+  "nationalityCountryId": "new-zealand",
+  "totalChampionships": 0,
+  "totalRaceEntries": 108,
+  "totalRaceStarts": 96,
+  "totalRaceWins": 0,
+  "totalPolePositions": 5,
+  "totalPodiums": 11,
+  "totalPoints": 83,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

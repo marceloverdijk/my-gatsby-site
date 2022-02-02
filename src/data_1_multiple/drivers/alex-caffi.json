@@ -1,0 +1,22 @@
+{
+  "id": "alex-caffi",
+  "name": "Alex Caffi",
+  "firstName": "Alex",
+  "lastName": "Caffi",
+  "fullName": "Alessandro Caffi",
+  "abbreviation": "CAF",
+  "gender": "MALE",
+  "dateOfBirth": "1964-03-18",
+  "placeOfBirth": "Rovato",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 76,
+  "totalRaceStarts": 56,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

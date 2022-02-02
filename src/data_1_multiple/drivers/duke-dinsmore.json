@@ -1,0 +1,23 @@
+{
+  "id": "duke-dinsmore",
+  "name": "Duke Dinsmore",
+  "firstName": "Duke",
+  "lastName": "Dinsmore",
+  "fullName": "J. Carlyle Dinsmore",
+  "abbreviation": "DIN",
+  "gender": "MALE",
+  "dateOfBirth": "1913-04-10",
+  "dateOfDeath": "1985-10-13",
+  "placeOfBirth": "Williamstown",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "justin-wilson",
+  "name": "Justin Wilson",
+  "firstName": "Justin",
+  "lastName": "Wilson",
+  "fullName": "Justin Boyd Wilson",
+  "abbreviation": "WIL",
+  "gender": "MALE",
+  "dateOfBirth": "1978-07-31",
+  "dateOfDeath": "2015-08-24",
+  "placeOfBirth": "Rotherham",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 16,
+  "totalRaceStarts": 16,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ferrari",
+  "name": "Ferrari",
+  "countryId": "italy",
+  "totalChampionships": 16,
+  "totalRaceEntries": 1013,
+  "totalRaceStarts": 1011,
+  "totalRaceWins": 239,
+  "totalPolePositions": 229,
+  "totalPodiums": 588,
+  "totalFastestLaps": 265
+}

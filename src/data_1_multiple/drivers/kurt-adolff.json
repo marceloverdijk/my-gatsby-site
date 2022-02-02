@@ -1,0 +1,23 @@
+{
+  "id": "kurt-adolff",
+  "name": "Kurt Adolff",
+  "firstName": "Kurt",
+  "lastName": "Adolff",
+  "fullName": "Kurt Adolff",
+  "abbreviation": "ADO",
+  "gender": "MALE",
+  "dateOfBirth": "1921-11-05",
+  "dateOfDeath": "2012-01-24",
+  "placeOfBirth": "Stuttgart",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

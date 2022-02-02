@@ -1,0 +1,23 @@
+{
+  "id": "piero-dusio",
+  "name": "Piero Dusio",
+  "firstName": "Piero",
+  "lastName": "Dusio",
+  "fullName": "Piero Dusio",
+  "abbreviation": "DUS",
+  "gender": "MALE",
+  "dateOfBirth": "1899-10-13",
+  "dateOfDeath": "1975-11-07",
+  "placeOfBirth": "Scurzolengo d'Asti",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

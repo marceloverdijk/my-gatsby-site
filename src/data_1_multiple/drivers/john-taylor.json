@@ -1,0 +1,23 @@
+{
+  "id": "john-taylor",
+  "name": "John Taylor",
+  "firstName": "John",
+  "lastName": "Taylor",
+  "fullName": "John Malcolm Taylor",
+  "abbreviation": "TAY",
+  "gender": "MALE",
+  "dateOfBirth": "1933-03-23",
+  "dateOfDeath": "1966-09-08",
+  "placeOfBirth": "Anstey",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

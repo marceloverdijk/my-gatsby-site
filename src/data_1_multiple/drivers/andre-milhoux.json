@@ -1,0 +1,22 @@
+{
+  "id": "andre-milhoux",
+  "name": "André Milhoux",
+  "firstName": "André",
+  "lastName": "Milhoux",
+  "fullName": "André Milhoux",
+  "abbreviation": "MIL",
+  "gender": "MALE",
+  "dateOfBirth": "1928-12-09",
+  "placeOfBirth": "Liège",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

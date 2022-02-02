@@ -1,0 +1,22 @@
+{
+  "id": "ricardo-zunino",
+  "name": "Ricardo Zunino",
+  "firstName": "Ricardo",
+  "lastName": "Zunino",
+  "fullName": "Ricardo Héctor Zunino",
+  "abbreviation": "ZUN",
+  "gender": "MALE",
+  "dateOfBirth": "1949-04-13",
+  "placeOfBirth": "San Juan",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

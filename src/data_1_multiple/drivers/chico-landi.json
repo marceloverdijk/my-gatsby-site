@@ -1,0 +1,23 @@
+{
+  "id": "chico-landi",
+  "name": "Chico Landi",
+  "firstName": "Chico",
+  "lastName": "Landi",
+  "fullName": "Francisco Sacco Land",
+  "abbreviation": "LAN",
+  "gender": "MALE",
+  "dateOfBirth": "1907-07-14",
+  "dateOfDeath": "1989-06-07",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 6,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1.5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

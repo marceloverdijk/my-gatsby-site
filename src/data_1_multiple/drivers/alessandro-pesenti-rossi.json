@@ -1,0 +1,22 @@
+{
+  "id": "alessandro-pesenti-rossi",
+  "name": "Alessandro Pesenti-Rossi",
+  "firstName": "Alessandro",
+  "lastName": "Pesenti-Rossi",
+  "fullName": "Alessandro Pesenti-Rossi",
+  "abbreviation": "PES",
+  "gender": "MALE",
+  "dateOfBirth": "1942-08-31",
+  "placeOfBirth": "Bergamo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

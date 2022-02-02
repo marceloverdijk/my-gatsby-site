@@ -1,0 +1,23 @@
+{
+  "id": "theo-helfrich",
+  "name": "Theo Helfrich",
+  "firstName": "Theo",
+  "lastName": "Helfrich",
+  "fullName": "Theodor Helfrich",
+  "abbreviation": "HEL",
+  "gender": "MALE",
+  "dateOfBirth": "1913-05-13",
+  "dateOfDeath": "1978-04-29",
+  "placeOfBirth": "Frankfurt am Main",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

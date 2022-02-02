@@ -1,0 +1,23 @@
+{
+  "id": "keith-andrews",
+  "name": "Keith Andrews",
+  "firstName": "Keith",
+  "lastName": "Andrews",
+  "fullName": "Keith Andrews",
+  "abbreviation": "AND",
+  "gender": "MALE",
+  "dateOfBirth": "1920-06-15",
+  "dateOfDeath": "1957-05-15",
+  "placeOfBirth": "Denver",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

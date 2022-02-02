@@ -1,0 +1,22 @@
+{
+  "id": "emilio-de-villota",
+  "name": "Emilio de Villota",
+  "firstName": "Emilio",
+  "lastName": "De Villota",
+  "fullName": "Emilio de Villota Ruíz",
+  "abbreviation": "DEV",
+  "gender": "MALE",
+  "dateOfBirth": "1946-07-26",
+  "placeOfBirth": "Madrid",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kevin-magnussen",
+  "name": "Kevin Magnussen",
+  "firstName": "Kevin",
+  "lastName": "Magnussen",
+  "fullName": "Kevin Jan Magnussen",
+  "abbreviation": "MAG",
+  "permanentNumber": "20",
+  "gender": "MALE",
+  "dateOfBirth": "1992-10-05",
+  "placeOfBirth": "Roskilde",
+  "countryOfBirthCountryId": "denmark",
+  "nationalityCountryId": "denmark",
+  "totalChampionships": 0,
+  "totalRaceEntries": 120,
+  "totalRaceStarts": 119,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 158,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 1
+}

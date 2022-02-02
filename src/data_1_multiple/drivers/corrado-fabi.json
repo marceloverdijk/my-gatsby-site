@@ -1,0 +1,22 @@
+{
+  "id": "corrado-fabi",
+  "name": "Corrado Fabi",
+  "firstName": "Corrado",
+  "lastName": "Fabi",
+  "fullName": "Corrado Fabi",
+  "abbreviation": "FAB",
+  "gender": "MALE",
+  "dateOfBirth": "1961-04-12",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

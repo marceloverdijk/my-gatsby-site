@@ -1,0 +1,23 @@
+{
+  "id": "arthur-owen",
+  "name": "Arthur Owen",
+  "firstName": "Arthur",
+  "lastName": "Owen",
+  "fullName": "Arthur Owen",
+  "abbreviation": "OWE",
+  "gender": "MALE",
+  "dateOfBirth": "1915-03-23",
+  "dateOfDeath": "2002-04-27",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

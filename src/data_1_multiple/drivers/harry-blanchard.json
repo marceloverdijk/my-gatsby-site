@@ -1,0 +1,23 @@
+{
+  "id": "harry-blanchard",
+  "name": "Harry Blanchard",
+  "firstName": "Harry",
+  "lastName": "Blanchard",
+  "fullName": "Harry Cutler Blanchard",
+  "abbreviation": "BLA",
+  "gender": "MALE",
+  "dateOfBirth": "1929-06-13",
+  "dateOfDeath": "1960-01-31",
+  "placeOfBirth": "Burlington",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pierre-gasly",
+  "name": "Pierre Gasly",
+  "firstName": "Pierre",
+  "lastName": "Gasly",
+  "fullName": "Pierre Gasly",
+  "abbreviation": "GAS",
+  "permanentNumber": "10",
+  "gender": "MALE",
+  "dateOfBirth": "1996-02-07",
+  "placeOfBirth": "Rouen",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 65,
+  "totalRaceStarts": 65,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 199,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 3
+}

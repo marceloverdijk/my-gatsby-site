@@ -1,0 +1,23 @@
+{
+  "id": "johnny-thomson",
+  "name": "Johnny Thomson",
+  "firstName": "Johnny",
+  "lastName": "Thomson",
+  "fullName": "Johnny Thomson",
+  "abbreviation": "THO",
+  "gender": "MALE",
+  "dateOfBirth": "1922-04-09",
+  "dateOfDeath": "1960-09-24",
+  "placeOfBirth": "Lowell",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 1,
+  "totalPoints": 10,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bud-tingelstad",
+  "name": "Bud Tingelstad",
+  "firstName": "Bud",
+  "lastName": "Tingelstad",
+  "fullName": "Bud Tingelstad",
+  "abbreviation": "TIN",
+  "gender": "MALE",
+  "dateOfBirth": "1928-04-04",
+  "dateOfDeath": "1981-07-30",
+  "placeOfBirth": "Frazee",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

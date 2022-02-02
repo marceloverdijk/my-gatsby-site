@@ -1,0 +1,23 @@
+{
+  "id": "tony-shelly",
+  "name": "Tony Shelly",
+  "firstName": "Tony",
+  "lastName": "Shelly",
+  "fullName": "Anthony Lionel Shelly",
+  "abbreviation": "SHE",
+  "gender": "MALE",
+  "dateOfBirth": "1937-02-02",
+  "dateOfDeath": "1998-10-04",
+  "placeOfBirth": "Wellington",
+  "countryOfBirthCountryId": "new-zealand",
+  "nationalityCountryId": "new-zealand",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

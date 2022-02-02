@@ -1,0 +1,1029 @@
+{
+  "year": 2017,
+  "entrants": [
+    {
+      "entrantId": "haas-f1-team",
+      "countryId": "united-states-of-america",
+      "constructors": [
+        {
+          "constructorId": "haas",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "kevin-magnussen",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "romain-grosjean",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "antonio-giovinazzi",
+              "rounds": [],
+              "roundsText": "test",
+              "testDriver": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "mclaren-honda",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "mclaren",
+          "engineManufacturerId": "honda",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "fernando-alonso",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-5,7-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "stoffel-vandoorne",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "jenson-button",
+              "rounds": [
+                6
+              ],
+              "roundsText": "6",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "mercedes-amg-petronas-motorsport",
+      "countryId": "germany",
+      "constructors": [
+        {
+          "constructorId": "mercedes",
+          "engineManufacturerId": "mercedes",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "lewis-hamilton",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "valtteri-bottas",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "red-bull-racing",
+      "countryId": "austria",
+      "constructors": [
+        {
+          "constructorId": "red-bull",
+          "engineManufacturerId": "tag-heuer",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "daniel-ricciardo",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "max-verstappen",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "renault-sport-formula-one-team",
+      "countryId": "france",
+      "constructors": [
+        {
+          "constructorId": "renault",
+          "engineManufacturerId": "renault",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jolyon-palmer",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+              ],
+              "roundsText": "1-16",
+              "testDriver": false
+            },
+            {
+              "driverId": "nico-hulkenberg",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "carlos-sainz-jr",
+              "rounds": [
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "17-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "sergey-sirotkin",
+              "rounds": [],
+              "roundsText": "test",
+              "testDriver": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "sahara-force-india-f1-team",
+      "countryId": "india",
+      "constructors": [
+        {
+          "constructorId": "force-india",
+          "engineManufacturerId": "mercedes",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "esteban-ocon",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "sergio-perez",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "alfonso-celis-jr",
+              "rounds": [],
+              "roundsText": "test",
+              "testDriver": true
+            },
+            {
+              "driverId": "george-russell",
+              "rounds": [],
+              "roundsText": "test",
+              "testDriver": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "sauber-f1-team",
+      "countryId": "switzerland",
+      "constructors": [
+        {
+          "constructorId": "sauber",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "antonio-giovinazzi",
+              "rounds": [
+                1,
+                2
+              ],
+              "roundsText": "1-2",
+              "testDriver": false
+            },
+            {
+              "driverId": "marcus-ericsson",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "pascal-wehrlein",
+              "rounds": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1,3-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "charles-leclerc",
+              "rounds": [],
+              "roundsText": "test",
+              "testDriver": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "scuderia-ferrari",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "ferrari",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "kimi-raikkonen",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "sebastian-vettel",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "scuderia-toro-rosso",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "toro-rosso",
+          "engineManufacturerId": "toro-rosso",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "carlos-sainz-jr",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+              ],
+              "roundsText": "1-16",
+              "testDriver": false
+            },
+            {
+              "driverId": "daniil-kvyat",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                17
+              ],
+              "roundsText": "1-14,17",
+              "testDriver": false
+            },
+            {
+              "driverId": "pierre-gasly",
+              "rounds": [
+                15,
+                16,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "15-16,18-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "brendon-hartley",
+              "rounds": [
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "17-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "sean-gelael",
+              "rounds": [],
+              "roundsText": "test",
+              "testDriver": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "williams-martini-racing",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "williams",
+          "engineManufacturerId": "mercedes",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "felipe-massa",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "lance-stroll",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "roundsText": "1-20",
+              "testDriver": false
+            },
+            {
+              "driverId": "paul-di-resta",
+              "rounds": [
+                11
+              ],
+              "roundsText": "11",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "raceIds": [
+    957,
+    958,
+    959,
+    960,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    968,
+    969,
+    970,
+    971,
+    972,
+    973,
+    974,
+    975,
+    976
+  ],
+  "driverStandings": [
+    {
+      "positionNumber": 1,
+      "positionText": "1",
+      "driverId": "lewis-hamilton",
+      "points": 363
+    },
+    {
+      "positionNumber": 2,
+      "positionText": "2",
+      "driverId": "sebastian-vettel",
+      "points": 317
+    },
+    {
+      "positionNumber": 3,
+      "positionText": "3",
+      "driverId": "valtteri-bottas",
+      "points": 305
+    },
+    {
+      "positionNumber": 4,
+      "positionText": "4",
+      "driverId": "kimi-raikkonen",
+      "points": 205
+    },
+    {
+      "positionNumber": 5,
+      "positionText": "5",
+      "driverId": "daniel-ricciardo",
+      "points": 200
+    },
+    {
+      "positionNumber": 6,
+      "positionText": "6",
+      "driverId": "max-verstappen",
+      "points": 168
+    },
+    {
+      "positionNumber": 7,
+      "positionText": "7",
+      "driverId": "sergio-perez",
+      "points": 100
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "driverId": "esteban-ocon",
+      "points": 87
+    },
+    {
+      "positionNumber": 9,
+      "positionText": "9",
+      "driverId": "carlos-sainz-jr",
+      "points": 54
+    },
+    {
+      "positionNumber": 10,
+      "positionText": "10",
+      "driverId": "nico-hulkenberg",
+      "points": 43
+    },
+    {
+      "positionNumber": 11,
+      "positionText": "11",
+      "driverId": "felipe-massa",
+      "points": 43
+    },
+    {
+      "positionNumber": 12,
+      "positionText": "12",
+      "driverId": "lance-stroll",
+      "points": 40
+    },
+    {
+      "positionNumber": 13,
+      "positionText": "13",
+      "driverId": "romain-grosjean",
+      "points": 28
+    },
+    {
+      "positionNumber": 14,
+      "positionText": "14",
+      "driverId": "kevin-magnussen",
+      "points": 19
+    },
+    {
+      "positionNumber": 15,
+      "positionText": "15",
+      "driverId": "fernando-alonso",
+      "points": 17
+    },
+    {
+      "positionNumber": 16,
+      "positionText": "16",
+      "driverId": "stoffel-vandoorne",
+      "points": 13
+    },
+    {
+      "positionNumber": 17,
+      "positionText": "17",
+      "driverId": "jolyon-palmer",
+      "points": 8
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "pascal-wehrlein",
+      "points": 5
+    },
+    {
+      "positionNumber": 19,
+      "positionText": "19",
+      "driverId": "daniil-kvyat",
+      "points": 5
+    },
+    {
+      "positionNumber": 20,
+      "positionText": "20",
+      "driverId": "marcus-ericsson",
+      "points": 0
+    },
+    {
+      "positionNumber": 21,
+      "positionText": "21",
+      "driverId": "pierre-gasly",
+      "points": 0
+    },
+    {
+      "positionNumber": 22,
+      "positionText": "22",
+      "driverId": "antonio-giovinazzi",
+      "points": 0
+    },
+    {
+      "positionNumber": 23,
+      "positionText": "23",
+      "driverId": "brendon-hartley",
+      "points": 0
+    }
+  ],
+  "constructorStandings": [
+    {
+      "positionNumber": 1,
+      "positionText": "1",
+      "constructorId": "mercedes",
+      "engineManufacturerId": "mercedes",
+      "points": 668
+    },
+    {
+      "positionNumber": 2,
+      "positionText": "2",
+      "constructorId": "ferrari",
+      "engineManufacturerId": "ferrari",
+      "points": 522
+    },
+    {
+      "positionNumber": 3,
+      "positionText": "3",
+      "constructorId": "red-bull",
+      "engineManufacturerId": "tag-heuer",
+      "points": 368
+    },
+    {
+      "positionNumber": 4,
+      "positionText": "4",
+      "constructorId": "force-india",
+      "engineManufacturerId": "mercedes",
+      "points": 187
+    },
+    {
+      "positionNumber": 5,
+      "positionText": "5",
+      "constructorId": "williams",
+      "engineManufacturerId": "mercedes",
+      "points": 83
+    },
+    {
+      "positionNumber": 6,
+      "positionText": "6",
+      "constructorId": "renault",
+      "engineManufacturerId": "renault",
+      "points": 57
+    },
+    {
+      "positionNumber": 7,
+      "positionText": "7",
+      "constructorId": "toro-rosso",
+      "engineManufacturerId": "toro-rosso",
+      "points": 53
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "constructorId": "haas",
+      "engineManufacturerId": "ferrari",
+      "points": 47
+    },
+    {
+      "positionNumber": 9,
+      "positionText": "9",
+      "constructorId": "mclaren",
+      "engineManufacturerId": "honda",
+      "points": 30
+    },
+    {
+      "positionNumber": 10,
+      "positionText": "10",
+      "constructorId": "sauber",
+      "engineManufacturerId": "ferrari",
+      "points": 5
+    }
+  ]
+}

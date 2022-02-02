@@ -1,0 +1,23 @@
+{
+  "id": "phil-cade",
+  "name": "Phil Cade",
+  "firstName": "Phil",
+  "lastName": "Cade",
+  "fullName": "Phil Cade",
+  "abbreviation": "CAD",
+  "gender": "MALE",
+  "dateOfBirth": "1916-06-12",
+  "dateOfDeath": "2001-08-28",
+  "placeOfBirth": "Charles City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "francois-migault",
+  "name": "François Migault",
+  "firstName": "François",
+  "lastName": "Migault",
+  "fullName": "François Migault",
+  "abbreviation": "MIG",
+  "gender": "MALE",
+  "dateOfBirth": "1944-12-04",
+  "dateOfDeath": "2012-01-29",
+  "placeOfBirth": "Le Mans",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 16,
+  "totalRaceStarts": 13,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "enrique-bernoldi",
+  "name": "Enrique Bernoldi",
+  "firstName": "Enrique",
+  "lastName": "Bernoldi",
+  "fullName": "Enrique Antônio Langue e Silvério de Bernoldi",
+  "abbreviation": "BER",
+  "gender": "MALE",
+  "dateOfBirth": "1978-10-19",
+  "placeOfBirth": "Curitiba",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 29,
+  "totalRaceStarts": 28,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ayrton-senna",
+  "name": "Ayrton Senna",
+  "firstName": "Ayrton",
+  "lastName": "Senna",
+  "fullName": "Ayrton Senna da Silva",
+  "abbreviation": "SEN",
+  "gender": "MALE",
+  "dateOfBirth": "1960-03-21",
+  "dateOfDeath": "1994-05-01",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 3,
+  "totalRaceEntries": 162,
+  "totalRaceStarts": 161,
+  "totalRaceWins": 41,
+  "totalPolePositions": 65,
+  "totalPodiums": 80,
+  "totalPoints": 614,
+  "totalFastestLaps": 19,
+  "totalDriverOfTheDay": 0
+}

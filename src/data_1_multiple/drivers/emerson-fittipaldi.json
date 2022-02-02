@@ -1,0 +1,22 @@
+{
+  "id": "emerson-fittipaldi",
+  "name": "Emerson Fittipaldi",
+  "firstName": "Emerson",
+  "lastName": "Fittipaldi",
+  "fullName": "Emerson Fittipaldi",
+  "abbreviation": "FIT",
+  "gender": "MALE",
+  "dateOfBirth": "1946-12-12",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 2,
+  "totalRaceEntries": 149,
+  "totalRaceStarts": 144,
+  "totalRaceWins": 14,
+  "totalPolePositions": 6,
+  "totalPodiums": 35,
+  "totalPoints": 281,
+  "totalFastestLaps": 6,
+  "totalDriverOfTheDay": 0
+}

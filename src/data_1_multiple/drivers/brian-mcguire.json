@@ -1,0 +1,23 @@
+{
+  "id": "brian-mcguire",
+  "name": "Brian McGuire",
+  "firstName": "Brian",
+  "lastName": "McGuire",
+  "fullName": "Brian McGuire",
+  "abbreviation": "MCG",
+  "gender": "MALE",
+  "dateOfBirth": "1945-12-13",
+  "dateOfDeath": "1977-08-29",
+  "placeOfBirth": "East Melbourne",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

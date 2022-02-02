@@ -1,0 +1,23 @@
+{
+  "id": "roger-williamson",
+  "name": "Roger Williamson",
+  "firstName": "Roger",
+  "lastName": "Williamson",
+  "fullName": "Roger Williamson",
+  "abbreviation": "WIL",
+  "gender": "MALE",
+  "dateOfBirth": "1948-02-02",
+  "dateOfDeath": "1973-07-29",
+  "placeOfBirth": "Ashby-de-la-Zouch",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

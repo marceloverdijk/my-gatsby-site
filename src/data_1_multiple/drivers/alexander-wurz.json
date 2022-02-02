@@ -1,0 +1,22 @@
+{
+  "id": "alexander-wurz",
+  "name": "Alexander Wurz",
+  "firstName": "Alexander",
+  "lastName": "Wurz",
+  "fullName": "Alexander Wurz",
+  "abbreviation": "WUR",
+  "gender": "MALE",
+  "dateOfBirth": "1974-02-15",
+  "placeOfBirth": "Waidhofen an der Thaya",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 69,
+  "totalRaceStarts": 69,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 3,
+  "totalPoints": 45,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

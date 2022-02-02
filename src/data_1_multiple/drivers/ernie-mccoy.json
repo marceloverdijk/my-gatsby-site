@@ -1,0 +1,23 @@
+{
+  "id": "ernie-mccoy",
+  "name": "Ernie McCoy",
+  "firstName": "Ernie",
+  "lastName": "McCoy",
+  "fullName": "Ernie McCoy",
+  "abbreviation": "MCC",
+  "gender": "MALE",
+  "dateOfBirth": "1921-02-19",
+  "dateOfDeath": "2001-02-04",
+  "placeOfBirth": "Reading",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

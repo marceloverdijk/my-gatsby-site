@@ -1,0 +1,22 @@
+{
+  "id": "skip-barber",
+  "name": "Skip Barber",
+  "firstName": "Skip",
+  "lastName": "Barber",
+  "fullName": "John Barber III",
+  "abbreviation": "BAR",
+  "gender": "MALE",
+  "dateOfBirth": "1936-11-16",
+  "placeOfBirth": "Philadelphia",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

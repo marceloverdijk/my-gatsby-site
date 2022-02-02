@@ -1,0 +1,23 @@
+{
+  "id": "mike-nazaruk",
+  "name": "Mike Nazaruk",
+  "firstName": "Mike",
+  "lastName": "Nazaruk",
+  "fullName": "Mike Nazaruk",
+  "abbreviation": "NAZ",
+  "gender": "MALE",
+  "dateOfBirth": "1921-10-02",
+  "dateOfDeath": "1955-05-01",
+  "placeOfBirth": "Newark",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

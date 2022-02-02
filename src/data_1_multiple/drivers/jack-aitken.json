@@ -1,0 +1,23 @@
+{
+  "id": "jack-aitken",
+  "name": "Jack Aitken",
+  "firstName": "Jack",
+  "lastName": "Aitken",
+  "fullName": "Jack Aitken",
+  "abbreviation": "AIT",
+  "permanentNumber": "89",
+  "gender": "MALE",
+  "dateOfBirth": "1995-09-23",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

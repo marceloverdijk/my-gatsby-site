@@ -1,0 +1,22 @@
+{
+  "id": "stefano-modena",
+  "name": "Stefano Modena",
+  "firstName": "Stefano",
+  "lastName": "Modena",
+  "fullName": "Stefano Modena",
+  "abbreviation": "MOD",
+  "gender": "MALE",
+  "dateOfBirth": "1963-05-12",
+  "placeOfBirth": "Modena",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 81,
+  "totalRaceStarts": 70,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 17,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

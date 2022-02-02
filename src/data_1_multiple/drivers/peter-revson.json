@@ -1,0 +1,23 @@
+{
+  "id": "peter-revson",
+  "name": "Peter Revson",
+  "firstName": "Peter",
+  "lastName": "Revson",
+  "fullName": "Peter Jeffrey Revson",
+  "abbreviation": "REV",
+  "gender": "MALE",
+  "dateOfBirth": "1939-02-27",
+  "dateOfDeath": "1974-03-22",
+  "placeOfBirth": "New York City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 32,
+  "totalRaceStarts": 30,
+  "totalRaceWins": 2,
+  "totalPolePositions": 1,
+  "totalPodiums": 8,
+  "totalPoints": 61,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jochen-mass",
+  "name": "Jochen Mass",
+  "firstName": "Jochen",
+  "lastName": "Mass",
+  "fullName": "Jochen Richard Mass",
+  "abbreviation": "MAS",
+  "gender": "MALE",
+  "dateOfBirth": "1946-09-30",
+  "placeOfBirth": "Dorfen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 114,
+  "totalRaceStarts": 105,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 8,
+  "totalPoints": 71,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

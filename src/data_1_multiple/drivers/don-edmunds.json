@@ -1,0 +1,23 @@
+{
+  "id": "don-edmunds",
+  "name": "Don Edmunds",
+  "firstName": "Don",
+  "lastName": "Edmunds",
+  "fullName": "Don Edmunds",
+  "abbreviation": "EDM",
+  "gender": "MALE",
+  "dateOfBirth": "1930-09-23",
+  "dateOfDeath": "2020-08-11",
+  "placeOfBirth": "Santa Ana",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

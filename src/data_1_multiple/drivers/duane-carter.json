@@ -1,0 +1,23 @@
+{
+  "id": "duane-carter",
+  "name": "Duane Carter",
+  "firstName": "Duane",
+  "lastName": "Carter",
+  "fullName": "Duane Carter",
+  "abbreviation": "CAR",
+  "gender": "MALE",
+  "dateOfBirth": "1913-05-05",
+  "dateOfDeath": "1993-05-07",
+  "placeOfBirth": "Fresno",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 6.5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

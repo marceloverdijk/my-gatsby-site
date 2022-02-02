@@ -1,0 +1,23 @@
+{
+  "id": "gerhard-mitter",
+  "name": "Gerhard Mitter",
+  "firstName": "Gerhard",
+  "lastName": "Mitter",
+  "fullName": "Gerhard Karl Mitter",
+  "abbreviation": "MIT",
+  "gender": "MALE",
+  "dateOfBirth": "1935-08-30",
+  "dateOfDeath": "1969-08-01",
+  "placeOfBirth": "Krásná Lípa",
+  "countryOfBirthCountryId": "czech-republic",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

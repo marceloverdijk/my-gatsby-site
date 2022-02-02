@@ -1,0 +1,23 @@
+{
+  "id": "spider-webb",
+  "name": "Spider Webb",
+  "firstName": "Spider",
+  "lastName": "Webb",
+  "fullName": "Travis Webb",
+  "abbreviation": "WEB",
+  "gender": "MALE",
+  "dateOfBirth": "1910-10-08",
+  "dateOfDeath": "1990-01-27",
+  "placeOfBirth": "Joplin",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

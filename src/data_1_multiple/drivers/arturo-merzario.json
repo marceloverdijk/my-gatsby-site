@@ -1,0 +1,22 @@
+{
+  "id": "arturo-merzario",
+  "name": "Arturo Merzario",
+  "firstName": "Arturo",
+  "lastName": "Merzario",
+  "fullName": "Arturo Francesco Merzario",
+  "abbreviation": "MER",
+  "gender": "MALE",
+  "dateOfBirth": "1943-03-11",
+  "placeOfBirth": "Civenna",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 85,
+  "totalRaceStarts": 57,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 11,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

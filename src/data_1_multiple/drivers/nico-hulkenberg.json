@@ -1,0 +1,23 @@
+{
+  "id": "nico-hulkenberg",
+  "name": "Nico Hülkenberg",
+  "firstName": "Nico",
+  "lastName": "Hülkenberg",
+  "fullName": "Nicolas Hülkenberg",
+  "abbreviation": "HUL",
+  "permanentNumber": "27",
+  "gender": "MALE",
+  "dateOfBirth": "1987-08-19",
+  "placeOfBirth": "Emmerich am Rhein",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 182,
+  "totalRaceStarts": 179,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 0,
+  "totalPoints": 521,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 2
+}

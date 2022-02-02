@@ -1,0 +1,22 @@
+{
+  "id": "mario-andretti",
+  "name": "Mario Andretti",
+  "firstName": "Mario",
+  "lastName": "Andretti",
+  "fullName": "Mario Gabriele Andretti",
+  "abbreviation": "AND",
+  "gender": "MALE",
+  "dateOfBirth": "1940-02-28",
+  "placeOfBirth": "Montona",
+  "countryOfBirthCountryId": "croatia",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 1,
+  "totalRaceEntries": 131,
+  "totalRaceStarts": 128,
+  "totalRaceWins": 12,
+  "totalPolePositions": 18,
+  "totalPodiums": 19,
+  "totalPoints": 180,
+  "totalFastestLaps": 10,
+  "totalDriverOfTheDay": 0
+}

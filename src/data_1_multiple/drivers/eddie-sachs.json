@@ -1,0 +1,23 @@
+{
+  "id": "eddie-sachs",
+  "name": "Eddie Sachs",
+  "firstName": "Eddie",
+  "lastName": "Sachs",
+  "fullName": "Edward Julius Sachs, Jr.",
+  "abbreviation": "SAC",
+  "gender": "MALE",
+  "dateOfBirth": "1927-05-28",
+  "dateOfDeath": "1964-05-30",
+  "placeOfBirth": "Allentown",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

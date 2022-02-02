@@ -1,0 +1,22 @@
+{
+  "id": "chris-irwin",
+  "name": "Chris Irwin",
+  "firstName": "Chris",
+  "lastName": "Irwin",
+  "fullName": "Chris Irwin",
+  "abbreviation": "IRW",
+  "gender": "MALE",
+  "dateOfBirth": "1942-06-27",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

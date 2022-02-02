@@ -1,0 +1,22 @@
+{
+  "id": "olivier-grouillard",
+  "name": "Olivier Grouillard",
+  "firstName": "Olivier",
+  "lastName": "Grouillard",
+  "fullName": "Olivier Grouillard",
+  "abbreviation": "GRO",
+  "gender": "MALE",
+  "dateOfBirth": "1958-09-02",
+  "placeOfBirth": "Fenouillet",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 62,
+  "totalRaceStarts": 41,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dick-rathmann",
+  "name": "Dick Rathmann",
+  "firstName": "Dick",
+  "lastName": "Rathmann",
+  "fullName": "James Rathmann",
+  "abbreviation": "RAT",
+  "gender": "MALE",
+  "dateOfBirth": "1924-01-06",
+  "dateOfDeath": "2000-02-01",
+  "placeOfBirth": "Los Angeles",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "carlos-menditeguy",
+  "name": "Carlos Menditéguy",
+  "firstName": "Carlos",
+  "lastName": "Menditéguy",
+  "fullName": "Carlos Alberto Menditéguy",
+  "abbreviation": "MEN",
+  "gender": "MALE",
+  "dateOfBirth": "1914-08-10",
+  "dateOfDeath": "1973-04-27",
+  "placeOfBirth": "Buenos Aires",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 9,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

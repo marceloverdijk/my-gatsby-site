@@ -1,0 +1,23 @@
+{
+  "id": "eddie-johnson",
+  "name": "Eddie Johnson",
+  "firstName": "Eddie",
+  "lastName": "Johnson",
+  "fullName": "Eddie Johnson",
+  "abbreviation": "JOH",
+  "gender": "MALE",
+  "dateOfBirth": "1919-02-10",
+  "dateOfDeath": "1974-06-30",
+  "placeOfBirth": "Richmond",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 9,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

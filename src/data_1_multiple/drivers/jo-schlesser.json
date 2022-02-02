@@ -1,0 +1,23 @@
+{
+  "id": "jo-schlesser",
+  "name": "Jo Schlesser",
+  "firstName": "Jo",
+  "lastName": "Schlesser",
+  "fullName": "Joseph Schlesser",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1928-05-18",
+  "dateOfDeath": "1968-07-07",
+  "placeOfBirth": "Liouville",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

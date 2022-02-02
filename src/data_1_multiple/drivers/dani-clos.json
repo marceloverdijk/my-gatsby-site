@@ -1,0 +1,22 @@
+{
+  "id": "dani-clos",
+  "name": "Dani Clos",
+  "firstName": "Dani",
+  "lastName": "Clos",
+  "fullName": "Daniel Clos Álvarez",
+  "abbreviation": "CLO",
+  "gender": "MALE",
+  "dateOfBirth": "1988-10-23",
+  "placeOfBirth": "Barcelona",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

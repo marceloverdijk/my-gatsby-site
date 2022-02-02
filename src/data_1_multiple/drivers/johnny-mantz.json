@@ -1,0 +1,23 @@
+{
+  "id": "johnny-mantz",
+  "name": "Johnny Mantz",
+  "firstName": "Johnny",
+  "lastName": "Mantz",
+  "fullName": "Johnny Mantz",
+  "abbreviation": "MAN",
+  "gender": "MALE",
+  "dateOfBirth": "1918-09-18",
+  "dateOfDeath": "1972-10-25",
+  "placeOfBirth": "Hebron",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

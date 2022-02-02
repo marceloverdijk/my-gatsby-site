@@ -1,0 +1,22 @@
+{
+  "id": "jarno-trulli",
+  "name": "Jarno Trulli",
+  "firstName": "Jarno",
+  "lastName": "Trulli",
+  "fullName": "Jarno Trulli",
+  "abbreviation": "TRU",
+  "gender": "MALE",
+  "dateOfBirth": "1974-07-13",
+  "placeOfBirth": "Pescara",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 256,
+  "totalRaceStarts": 252,
+  "totalRaceWins": 1,
+  "totalPolePositions": 4,
+  "totalPodiums": 11,
+  "totalPoints": 246.5,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "louis-chiron",
+  "name": "Louis Chiron",
+  "firstName": "Louis",
+  "lastName": "Chiron",
+  "fullName": "Louis Alexandre Chiron",
+  "abbreviation": "CHI",
+  "gender": "MALE",
+  "dateOfBirth": "1899-08-03",
+  "dateOfDeath": "1979-06-22",
+  "placeOfBirth": "Monte Carlo",
+  "countryOfBirthCountryId": "monaco",
+  "nationalityCountryId": "monaco",
+  "totalChampionships": 0,
+  "totalRaceEntries": 19,
+  "totalRaceStarts": 15,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

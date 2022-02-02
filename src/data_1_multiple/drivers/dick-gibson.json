@@ -1,0 +1,23 @@
+{
+  "id": "dick-gibson",
+  "name": "Dick Gibson",
+  "firstName": "Dick",
+  "lastName": "Gibson",
+  "fullName": "Richard Gibson",
+  "abbreviation": "GIB",
+  "gender": "MALE",
+  "dateOfBirth": "1918-04-16",
+  "dateOfDeath": "2010-12-17",
+  "placeOfBirth": "Bourne",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

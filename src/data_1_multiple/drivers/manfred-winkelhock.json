@@ -1,0 +1,23 @@
+{
+  "id": "manfred-winkelhock",
+  "name": "Manfred Winkelhock",
+  "firstName": "Manfred",
+  "lastName": "Winkelhock",
+  "fullName": "Manfred Winkelhock",
+  "abbreviation": "WIN",
+  "gender": "MALE",
+  "dateOfBirth": "1951-10-06",
+  "dateOfDeath": "1985-08-12",
+  "placeOfBirth": "Waiblingen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 56,
+  "totalRaceStarts": 47,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

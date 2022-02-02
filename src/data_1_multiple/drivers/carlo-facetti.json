@@ -1,0 +1,22 @@
+{
+  "id": "carlo-facetti",
+  "name": "Carlo Facetti",
+  "firstName": "Carlo",
+  "lastName": "Facetti",
+  "fullName": "Carlo Giovanni Facetti",
+  "abbreviation": "FAC",
+  "gender": "MALE",
+  "dateOfBirth": "1935-06-26",
+  "placeOfBirth": "Cormano",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

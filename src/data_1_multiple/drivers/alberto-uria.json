@@ -1,0 +1,23 @@
+{
+  "id": "alberto-uria",
+  "name": "Alberto Uria",
+  "firstName": "Alberto",
+  "lastName": "Uria",
+  "fullName": "Alberto Uria",
+  "abbreviation": "URI",
+  "gender": "MALE",
+  "dateOfBirth": "1924-07-11",
+  "dateOfDeath": "1988-12-04",
+  "placeOfBirth": "Montevideo",
+  "countryOfBirthCountryId": "uruguay",
+  "nationalityCountryId": "uruguay",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

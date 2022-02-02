@@ -1,0 +1,246 @@
+[{
+  "id":"70th-anniversary",
+  "name":"70th Anniversary",
+  "fullName":"70th Anniversary Grand Prix",
+  "shortName":"70th Anniversary GP"
+},{
+  "id":"abu-dhabi",
+  "name":"Abu Dhabi",
+  "fullName":"Abu Dhabi Grand Prix",
+  "shortName":"Abu Dhabi GP"
+},{
+  "id":"argentina",
+  "name":"Argentina",
+  "fullName":"Argentine Grand Prix",
+  "shortName":"Argentine GP"
+},{
+  "id":"australia",
+  "name":"Australia",
+  "fullName":"Australian Grand Prix",
+  "shortName":"Australian GP"
+},{
+  "id":"austria",
+  "name":"Austria",
+  "fullName":"Austrian Grand Prix",
+  "shortName":"Austrian GP"
+},{
+  "id":"azerbaijan",
+  "name":"Azerbaijan",
+  "fullName":"Azerbaijan Grand Prix",
+  "shortName":"Azerbaijan GP"
+},{
+  "id":"bahrain",
+  "name":"Bahrain",
+  "fullName":"Bahrain Grand Prix",
+  "shortName":"Bahrain GP"
+},{
+  "id":"belgium",
+  "name":"Belgium",
+  "fullName":"Belgian Grand Prix",
+  "shortName":"Belgian GP"
+},{
+  "id":"brazil",
+  "name":"Brazil",
+  "fullName":"Brazilian Grand Prix",
+  "shortName":"Brazilian GP"
+},{
+  "id":"caesars-palace",
+  "name":"Caesars Palace",
+  "fullName":"Caesars Palace Grand Prix",
+  "shortName":"Caesars Palace GP"
+},{
+  "id":"canada",
+  "name":"Canada",
+  "fullName":"Canadian Grand Prix",
+  "shortName":"Canadian GP"
+},{
+  "id":"china",
+  "name":"China",
+  "fullName":"Chinese Grand Prix",
+  "shortName":"Chinese GP"
+},{
+  "id":"dallas",
+  "name":"Dallas",
+  "fullName":"Dallas Grand Prix",
+  "shortName":"Dallas GP"
+},{
+  "id":"detroit",
+  "name":"Detroit",
+  "fullName":"Detroit Grand Prix",
+  "shortName":"Detroit GP"
+},{
+  "id":"eifel",
+  "name":"Eifel",
+  "fullName":"Eifel Grand Prix",
+  "shortName":"Eifel GP"
+},{
+  "id":"emilia-romagna",
+  "name":"Emilia Romagna",
+  "fullName":"Emilia Romagna Grand Prix",
+  "shortName":"Emilia Romagna GP"
+},{
+  "id":"europe",
+  "name":"Europe",
+  "fullName":"European Grand Prix",
+  "shortName":"European GP"
+},{
+  "id":"france",
+  "name":"France",
+  "fullName":"French Grand Prix",
+  "shortName":"French GP"
+},{
+  "id":"germany",
+  "name":"Germany",
+  "fullName":"German Grand Prix",
+  "shortName":"German GP"
+},{
+  "id":"great-britain",
+  "name":"Great Britain",
+  "fullName":"British Grand Prix",
+  "shortName":"British GP"
+},{
+  "id":"hungary",
+  "name":"Hungary",
+  "fullName":"Hungarian Grand Prix",
+  "shortName":"Hungarian GP"
+},{
+  "id":"india",
+  "name":"India",
+  "fullName":"Indian Grand Prix",
+  "shortName":"Indian GP"
+},{
+  "id":"indianapolis",
+  "name":"Indianapolis",
+  "fullName":"Indianapolis 500",
+  "shortName":"Indy 500"
+},{
+  "id":"italy",
+  "name":"Italy",
+  "fullName":"Italian Grand Prix",
+  "shortName":"Italian GP"
+},{
+  "id":"japan",
+  "name":"Japan",
+  "fullName":"Japanese Grand Prix",
+  "shortName":"Japanese GP"
+},{
+  "id":"korea",
+  "name":"Korea",
+  "fullName":"Korean Grand Prix",
+  "shortName":"Korean GP"
+},{
+  "id":"luxembourg",
+  "name":"Luxembourg",
+  "fullName":"Luxembourg Grand Prix",
+  "shortName":"Luxembourg GP"
+},{
+  "id":"malaysia",
+  "name":"Malaysia",
+  "fullName":"Malaysian Grand Prix",
+  "shortName":"Malaysian GP"
+},{
+  "id":"mexico",
+  "name":"Mexico",
+  "fullName":"Mexican Grand Prix",
+  "shortName":"Mexican GP"
+},{
+  "id":"monaco",
+  "name":"Monaco",
+  "fullName":"Monaco Grand Prix",
+  "shortName":"Monaco GP"
+},{
+  "id":"morocco",
+  "name":"Morocco",
+  "fullName":"Moroccan Grand Prix",
+  "shortName":"Moroccan GP"
+},{
+  "id":"netherlands",
+  "name":"Netherlands",
+  "fullName":"Dutch Grand Prix",
+  "shortName":"Dutch GP"
+},{
+  "id":"pacific",
+  "name":"Pacific",
+  "fullName":"Pacific Grand Prix",
+  "shortName":"Pacific GP"
+},{
+  "id":"pescara",
+  "name":"Pescara",
+  "fullName":"Pescara Grand Prix",
+  "shortName":"Pescara GP"
+},{
+  "id":"portugal",
+  "name":"Portugal",
+  "fullName":"Portuguese Grand Prix",
+  "shortName":"Portuguese GP"
+},{
+  "id":"russia",
+  "name":"Russia",
+  "fullName":"Russian Grand Prix",
+  "shortName":"Russian GP"
+},{
+  "id":"sakhir",
+  "name":"Sakhir",
+  "fullName":"Sakhir Grand Prix",
+  "shortName":"Sakhir GP"
+},{
+  "id":"san-marino",
+  "name":"San Marino",
+  "fullName":"San Marino Grand Prix",
+  "shortName":"San Marino GP"
+},{
+  "id":"saudi-arabia",
+  "name":"Saudi Arabia",
+  "fullName":"Saudi Arabian Grand Prix",
+  "shortName":"Saudi Arabian GP"
+},{
+  "id":"singapore",
+  "name":"Singapore",
+  "fullName":"Singapore Grand Prix",
+  "shortName":"Singapore GP"
+},{
+  "id":"south-africa",
+  "name":"South Africa",
+  "fullName":"South African Grand Prix",
+  "shortName":"South African GP"
+},{
+  "id":"spain",
+  "name":"Spain",
+  "fullName":"Spanish Grand Prix",
+  "shortName":"Spanish GP"
+},{
+  "id":"styria",
+  "name":"Styria",
+  "fullName":"Styrian Grand Prix",
+  "shortName":"Styrian GP"
+},{
+  "id":"sweden",
+  "name":"Sweden",
+  "fullName":"Swedish Grand Prix",
+  "shortName":"Swedish GP"
+},{
+  "id":"switzerland",
+  "name":"Switzerland",
+  "fullName":"Swiss Grand Prix",
+  "shortName":"Swiss GP"
+},{
+  "id":"turkey",
+  "name":"Turkey",
+  "fullName":"Turkish Grand Prix",
+  "shortName":"Turkish GP"
+},{
+  "id":"tuscany",
+  "name":"Tuscany",
+  "fullName":"Tuscan Grand Prix",
+  "shortName":"Tuscan GP"
+},{
+  "id":"united-states-west",
+  "name":"United States West",
+  "fullName":"United States Grand Prix West",
+  "shortName":"United States GP West"
+},{
+  "id":"united-states",
+  "name":"United States",
+  "fullName":"United States Grand Prix",
+  "shortName":"United States GP"
+}]

@@ -1,0 +1,22 @@
+{
+  "id": "danny-ongais",
+  "name": "Danny Ongais",
+  "firstName": "Danny",
+  "lastName": "Ongais",
+  "fullName": "Danny Ongais",
+  "abbreviation": "ONG",
+  "gender": "MALE",
+  "dateOfBirth": "1942-05-21",
+  "placeOfBirth": "Kahului",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

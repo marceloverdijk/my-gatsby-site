@@ -1,0 +1,23 @@
+{
+  "id": "david-prophet",
+  "name": "David Prophet",
+  "firstName": "David",
+  "lastName": "Prophet",
+  "fullName": "David Prophet",
+  "abbreviation": "PRO",
+  "gender": "MALE",
+  "dateOfBirth": "1937-10-09",
+  "dateOfDeath": "1981-03-29",
+  "placeOfBirth": "Hong Kong",
+  "countryOfBirthCountryId": "hong-kong",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

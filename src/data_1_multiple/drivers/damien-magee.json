@@ -1,0 +1,22 @@
+{
+  "id": "damien-magee",
+  "name": "Damien Magee",
+  "firstName": "Damien",
+  "lastName": "Magee",
+  "fullName": "Damien Magee",
+  "abbreviation": "MAG",
+  "gender": "MALE",
+  "dateOfBirth": "1945-11-17",
+  "placeOfBirth": "Belfast",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

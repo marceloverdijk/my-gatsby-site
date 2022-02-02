@@ -1,0 +1,22 @@
+{
+  "id": "george-follmer",
+  "name": "George Follmer",
+  "firstName": "George",
+  "lastName": "Follmer",
+  "fullName": "George Follmer",
+  "abbreviation": "FOL",
+  "gender": "MALE",
+  "dateOfBirth": "1934-01-27",
+  "placeOfBirth": "Phoenix",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

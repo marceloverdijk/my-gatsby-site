@@ -1,0 +1,22 @@
+{
+  "id": "aguri-suzuki",
+  "name": "Aguri Suzuki",
+  "firstName": "Aguri",
+  "lastName": "Suzuki",
+  "fullName": "Aguri Suzuki",
+  "abbreviation": "SUZ",
+  "gender": "MALE",
+  "dateOfBirth": "1960-09-08",
+  "placeOfBirth": "Tokyo",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 88,
+  "totalRaceStarts": 65,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

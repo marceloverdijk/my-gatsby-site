@@ -1,0 +1,22 @@
+{
+  "id": "pedro-de-la-rosa",
+  "name": "Pedro de la Rosa",
+  "firstName": "Pedro",
+  "lastName": "De la Rosa",
+  "fullName": "Pedro Martínez de la Rosa",
+  "abbreviation": "DLR",
+  "gender": "MALE",
+  "dateOfBirth": "1971-02-24",
+  "placeOfBirth": "Barcelona",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 107,
+  "totalRaceStarts": 104,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 35,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

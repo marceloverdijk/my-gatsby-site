@@ -1,0 +1,23 @@
+{
+  "id": "rudolf-krause",
+  "name": "Rudolf Krause",
+  "firstName": "Rudolf",
+  "lastName": "Krause",
+  "fullName": "Rudolf Krause",
+  "abbreviation": "KRA",
+  "gender": "MALE",
+  "dateOfBirth": "1907-03-30",
+  "dateOfDeath": "1987-04-11",
+  "placeOfBirth": "Reichenbach im Vogtland",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

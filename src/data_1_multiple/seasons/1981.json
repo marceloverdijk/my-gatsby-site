@@ -1,0 +1,1314 @@
+{
+  "year": 1981,
+  "entrants": [
+    {
+      "entrantId": "albilad-williams-racing-team",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "williams",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "goodyear"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "alan-jones",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "carlos-reutemann",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "candy-toleman-motorsport",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "toleman",
+          "engineManufacturerId": "hart",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "brian-henton",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "4-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "derek-warwick",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "4-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ensign-racing",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "ensign",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "avon"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "marc-surer",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ],
+              "roundsText": "1-6",
+              "testDriver": false
+            },
+            {
+              "driverId": "ricardo-londono",
+              "rounds": [
+                2
+              ],
+              "roundsText": "2",
+              "testDriver": false
+            },
+            {
+              "driverId": "eliseo-salazar",
+              "rounds": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "7-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "equipe-renault-elf",
+      "countryId": "france",
+      "constructors": [
+        {
+          "constructorId": "renault",
+          "engineManufacturerId": "renault",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "alain-prost",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "rene-arnoux",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "equipe-talbot-gitanes",
+      "countryId": "france",
+      "constructors": [
+        {
+          "constructorId": "ligier",
+          "engineManufacturerId": "matra",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jacques-laffite",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "jean-pierre-jarier",
+              "rounds": [
+                1,
+                2
+              ],
+              "roundsText": "1-2",
+              "testDriver": false
+            },
+            {
+              "driverId": "jean-pierre-jabouille",
+              "rounds": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ],
+              "roundsText": "2-7",
+              "testDriver": false
+            },
+            {
+              "driverId": "patrick-tambay",
+              "rounds": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "8-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "fittipaldi-automotive",
+      "countryId": "brazil",
+      "constructors": [
+        {
+          "constructorId": "fittipaldi",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "avon"
+            },
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "chico-serra",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-10,12-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "keke-rosberg",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-10,12-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "march-grand-prix-team",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "march",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "avon"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "derek-daly",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "eliseo-salazar",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ],
+              "roundsText": "1-6",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "marlboro-mclaren-international",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "mclaren",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "andrea-de-cesaris",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "john-watson",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "marlboro-team-alfa-romeo",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "alfa-romeo",
+          "engineManufacturerId": "alfa-romeo",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "bruno-giacomelli",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "mario-andretti",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "osella-squadra-corse",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "osella",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "beppe-gabbiani",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "miguel-angel-guerra",
+              "rounds": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "roundsText": "1-4",
+              "testDriver": false
+            },
+            {
+              "driverId": "piercarlo-ghinzani",
+              "rounds": [
+                5,
+                6
+              ],
+              "roundsText": "5-6",
+              "testDriver": false
+            },
+            {
+              "driverId": "giorgio-francia",
+              "rounds": [
+                7
+              ],
+              "roundsText": "7",
+              "testDriver": false
+            },
+            {
+              "driverId": "jean-pierre-jarier",
+              "rounds": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "9-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "parmalat-racing-team",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "brabham",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "goodyear"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "hector-rebaque",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "nelson-piquet",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "ragno-arrows-beta-racing-team",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "arrows",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "pirelli"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "riccardo-patrese",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "siegfried-stohr",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+              ],
+              "roundsText": "1-13",
+              "testDriver": false
+            },
+            {
+              "driverId": "jacques-villeneuve-sr",
+              "rounds": [
+                14,
+                15
+              ],
+              "roundsText": "14-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "scuderia-ferrari-spa-sefac",
+      "countryId": "italy",
+      "constructors": [
+        {
+          "constructorId": "ferrari",
+          "engineManufacturerId": "ferrari",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "didier-pironi",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "gilles-villeneuve",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "team-ats",
+      "countryId": "germany",
+      "constructors": [
+        {
+          "constructorId": "ats-wheels",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "avon"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "jan-lammers",
+              "rounds": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "roundsText": "1-4",
+              "testDriver": false
+            },
+            {
+              "driverId": "slim-borgudd",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "4-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "team-essex-lotus",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "lotus",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "goodyear"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "elio-de-angelis",
+              "rounds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-3,5-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "nigel-mansell",
+              "rounds": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-3,5-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "theodore-racing-team",
+      "countryId": "hong-kong",
+      "constructors": [
+        {
+          "constructorId": "theodore",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "avon"
+            },
+            {
+              "tyreManufacturerId": "michelin"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "patrick-tambay",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ],
+              "roundsText": "1-7",
+              "testDriver": false
+            },
+            {
+              "driverId": "marc-surer",
+              "rounds": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "8-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entrantId": "tyrrell-racing-team",
+      "countryId": "united-kingdom",
+      "constructors": [
+        {
+          "constructorId": "tyrrell",
+          "engineManufacturerId": "ford",
+          "tyreManufacturers": [
+            {
+              "tyreManufacturerId": "michelin"
+            },
+            {
+              "tyreManufacturerId": "avon"
+            }
+          ],
+          "drivers": [
+            {
+              "driverId": "eddie-cheever",
+              "rounds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "1-15",
+              "testDriver": false
+            },
+            {
+              "driverId": "kevin-cogan",
+              "rounds": [
+                1
+              ],
+              "roundsText": "1",
+              "testDriver": false
+            },
+            {
+              "driverId": "ricardo-zunino",
+              "rounds": [
+                2,
+                3
+              ],
+              "roundsText": "2-3",
+              "testDriver": false
+            },
+            {
+              "driverId": "michele-alboreto",
+              "rounds": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+              ],
+              "roundsText": "4-15",
+              "testDriver": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "raceIds": [
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357
+  ],
+  "driverStandings": [
+    {
+      "positionNumber": 1,
+      "positionText": "1",
+      "driverId": "nelson-piquet",
+      "points": 50
+    },
+    {
+      "positionNumber": 2,
+      "positionText": "2",
+      "driverId": "carlos-reutemann",
+      "points": 49
+    },
+    {
+      "positionNumber": 3,
+      "positionText": "3",
+      "driverId": "alan-jones",
+      "points": 46
+    },
+    {
+      "positionNumber": 4,
+      "positionText": "4",
+      "driverId": "jacques-laffite",
+      "points": 44
+    },
+    {
+      "positionNumber": 5,
+      "positionText": "5",
+      "driverId": "alain-prost",
+      "points": 43
+    },
+    {
+      "positionNumber": 6,
+      "positionText": "6",
+      "driverId": "john-watson",
+      "points": 27
+    },
+    {
+      "positionNumber": 7,
+      "positionText": "7",
+      "driverId": "gilles-villeneuve",
+      "points": 25
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "driverId": "elio-de-angelis",
+      "points": 14
+    },
+    {
+      "positionNumber": 9,
+      "positionText": "9",
+      "driverId": "rene-arnoux",
+      "points": 11
+    },
+    {
+      "positionNumber": 9,
+      "positionText": "9",
+      "driverId": "hector-rebaque",
+      "points": 11
+    },
+    {
+      "positionNumber": 11,
+      "positionText": "11",
+      "driverId": "riccardo-patrese",
+      "points": 10
+    },
+    {
+      "positionNumber": 11,
+      "positionText": "11",
+      "driverId": "eddie-cheever",
+      "points": 10
+    },
+    {
+      "positionNumber": 13,
+      "positionText": "13",
+      "driverId": "didier-pironi",
+      "points": 9
+    },
+    {
+      "positionNumber": 14,
+      "positionText": "14",
+      "driverId": "nigel-mansell",
+      "points": 8
+    },
+    {
+      "positionNumber": 15,
+      "positionText": "15",
+      "driverId": "bruno-giacomelli",
+      "points": 7
+    },
+    {
+      "positionNumber": 16,
+      "positionText": "16",
+      "driverId": "marc-surer",
+      "points": 4
+    },
+    {
+      "positionNumber": 17,
+      "positionText": "17",
+      "driverId": "mario-andretti",
+      "points": 3
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "patrick-tambay",
+      "points": 1
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "andrea-de-cesaris",
+      "points": 1
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "slim-borgudd",
+      "points": 1
+    },
+    {
+      "positionNumber": 18,
+      "positionText": "18",
+      "driverId": "eliseo-salazar",
+      "points": 1
+    }
+  ],
+  "constructorStandings": [
+    {
+      "positionNumber": 1,
+      "positionText": "1",
+      "constructorId": "williams",
+      "engineManufacturerId": "ford",
+      "points": 95
+    },
+    {
+      "positionNumber": 2,
+      "positionText": "2",
+      "constructorId": "brabham",
+      "engineManufacturerId": "ford",
+      "points": 61
+    },
+    {
+      "positionNumber": 3,
+      "positionText": "3",
+      "constructorId": "renault",
+      "engineManufacturerId": "renault",
+      "points": 54
+    },
+    {
+      "positionNumber": 4,
+      "positionText": "4",
+      "constructorId": "ligier",
+      "engineManufacturerId": "matra",
+      "points": 44
+    },
+    {
+      "positionNumber": 5,
+      "positionText": "5",
+      "constructorId": "ferrari",
+      "engineManufacturerId": "ferrari",
+      "points": 34
+    },
+    {
+      "positionNumber": 6,
+      "positionText": "6",
+      "constructorId": "mclaren",
+      "engineManufacturerId": "ford",
+      "points": 28
+    },
+    {
+      "positionNumber": 7,
+      "positionText": "7",
+      "constructorId": "lotus",
+      "engineManufacturerId": "ford",
+      "points": 22
+    },
+    {
+      "positionNumber": 8,
+      "positionText": "8",
+      "constructorId": "arrows",
+      "engineManufacturerId": "ford",
+      "points": 10
+    },
+    {
+      "positionNumber": 9,
+      "positionText": "9",
+      "constructorId": "alfa-romeo",
+      "engineManufacturerId": "alfa-romeo",
+      "points": 10
+    },
+    {
+      "positionNumber": 10,
+      "positionText": "10",
+      "constructorId": "tyrrell",
+      "engineManufacturerId": "ford",
+      "points": 10
+    },
+    {
+      "positionNumber": 11,
+      "positionText": "11",
+      "constructorId": "ensign",
+      "engineManufacturerId": "ford",
+      "points": 5
+    },
+    {
+      "positionNumber": 12,
+      "positionText": "12",
+      "constructorId": "theodore",
+      "engineManufacturerId": "ford",
+      "points": 1
+    },
+    {
+      "positionNumber": 13,
+      "positionText": "13",
+      "constructorId": "ats-wheels",
+      "engineManufacturerId": "ford",
+      "points": 1
+    }
+  ]
+}

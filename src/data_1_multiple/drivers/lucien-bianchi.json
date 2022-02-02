@@ -1,0 +1,23 @@
+{
+  "id": "lucien-bianchi",
+  "name": "Lucien Bianchi",
+  "firstName": "Lucien",
+  "lastName": "Bianchi",
+  "fullName": "Luciano Bianchi",
+  "abbreviation": "BIA",
+  "gender": "MALE",
+  "dateOfBirth": "1934-11-10",
+  "dateOfDeath": "1969-03-30",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 19,
+  "totalRaceStarts": 17,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

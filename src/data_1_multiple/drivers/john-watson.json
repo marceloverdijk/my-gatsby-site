@@ -1,0 +1,22 @@
+{
+  "id": "john-watson",
+  "name": "John Watson",
+  "firstName": "John",
+  "lastName": "Watson",
+  "fullName": "John Marshall Watson",
+  "abbreviation": "WAT",
+  "gender": "MALE",
+  "dateOfBirth": "1946-05-04",
+  "placeOfBirth": "Belfast",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 154,
+  "totalRaceStarts": 152,
+  "totalRaceWins": 5,
+  "totalPolePositions": 2,
+  "totalPodiums": 20,
+  "totalPoints": 169,
+  "totalFastestLaps": 5,
+  "totalDriverOfTheDay": 0
+}

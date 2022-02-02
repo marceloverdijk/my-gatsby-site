@@ -1,0 +1,23 @@
+{
+  "id": "mike-beuttler",
+  "name": "Mike Beuttler",
+  "firstName": "Mike",
+  "lastName": "Beuttler",
+  "fullName": "Michael Simon Brindley Bream Beuttler",
+  "abbreviation": "BEU",
+  "gender": "MALE",
+  "dateOfBirth": "1940-04-13",
+  "dateOfDeath": "1988-12-29",
+  "placeOfBirth": "Cairo",
+  "countryOfBirthCountryId": "egypt",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 29,
+  "totalRaceStarts": 28,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

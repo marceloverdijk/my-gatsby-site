@@ -1,0 +1,22 @@
+{
+  "id": "divina-galica",
+  "name": "Divina Galica",
+  "firstName": "Divina",
+  "lastName": "Galica",
+  "fullName": "Divina Mary Galica",
+  "abbreviation": "GAL",
+  "gender": "FEMALE",
+  "dateOfBirth": "1944-08-13",
+  "placeOfBirth": "Bushey Heath",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cuth-harrison",
+  "name": "Cuth Harrison",
+  "firstName": "Cuth",
+  "lastName": "Harrison",
+  "fullName": "Thomas Cuthbert Harrison",
+  "abbreviation": "HAR",
+  "gender": "MALE",
+  "dateOfBirth": "1906-07-06",
+  "dateOfDeath": "1981-01-21",
+  "placeOfBirth": "Ecclesall",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

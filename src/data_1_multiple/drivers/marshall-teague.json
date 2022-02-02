@@ -1,0 +1,23 @@
+{
+  "id": "marshall-teague",
+  "name": "Marshall Teague",
+  "firstName": "Marshall",
+  "lastName": "Teague",
+  "fullName": "Marshall Pleasant Teague",
+  "abbreviation": "TEA",
+  "gender": "MALE",
+  "dateOfBirth": "1921-02-22",
+  "dateOfDeath": "1959-02-11",
+  "placeOfBirth": "Daytona Beach",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

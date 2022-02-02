@@ -1,0 +1,23 @@
+{
+  "id": "wayne-weiler",
+  "name": "Wayne Weiler",
+  "firstName": "Wayne",
+  "lastName": "Weiler",
+  "fullName": "Wayne Weiler",
+  "abbreviation": "WEI",
+  "gender": "MALE",
+  "dateOfBirth": "1934-12-09",
+  "dateOfDeath": "2005-10-13",
+  "placeOfBirth": "Phoenix",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

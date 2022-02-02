@@ -1,0 +1,22 @@
+{
+  "id": "jody-scheckter",
+  "name": "Jody Scheckter",
+  "firstName": "Jody",
+  "lastName": "Scheckter",
+  "fullName": "Jody David Scheckter",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1950-01-29",
+  "placeOfBirth": "East London",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 1,
+  "totalRaceEntries": 113,
+  "totalRaceStarts": 112,
+  "totalRaceWins": 10,
+  "totalPolePositions": 3,
+  "totalPodiums": 33,
+  "totalPoints": 255,
+  "totalFastestLaps": 5,
+  "totalDriverOfTheDay": 0
+}

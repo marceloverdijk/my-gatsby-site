@@ -1,0 +1,22 @@
+{
+  "id": "richard-attwood",
+  "name": "Richard Attwood",
+  "firstName": "Richard",
+  "lastName": "Attwood",
+  "fullName": "Richard James David Attwood",
+  "abbreviation": "ATT",
+  "gender": "MALE",
+  "dateOfBirth": "1940-04-04",
+  "placeOfBirth": "Wolverhampton",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 17,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 11,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "raul-boesel",
+  "name": "Raul Boesel",
+  "firstName": "Raul",
+  "lastName": "Boesel",
+  "fullName": "Raul de Mesquita Boesel",
+  "abbreviation": "BOE",
+  "gender": "MALE",
+  "dateOfBirth": "1957-12-04",
+  "placeOfBirth": "Curitiba",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 30,
+  "totalRaceStarts": 23,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

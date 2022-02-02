@@ -1,0 +1,23 @@
+{
+  "id": "fritz-dorey",
+  "name": "Fritz d'Orey",
+  "firstName": "Fritz",
+  "lastName": "D'Orey",
+  "fullName": "Frederico José Carlos Themudo d'Orey",
+  "abbreviation": "D'O",
+  "gender": "MALE",
+  "dateOfBirth": "1938-03-25",
+  "dateOfDeath": "2020-08-31",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

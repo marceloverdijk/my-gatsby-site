@@ -1,0 +1,23 @@
+{
+  "id": "pascal-wehrlein",
+  "name": "Pascal Wehrlein",
+  "firstName": "Pascal",
+  "lastName": "Wehrlein",
+  "fullName": "Pascal Wehrlein",
+  "abbreviation": "WEH",
+  "permanentNumber": "94",
+  "gender": "MALE",
+  "dateOfBirth": "1994-10-18",
+  "placeOfBirth": "Sigmaringen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 39,
+  "totalRaceStarts": 39,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

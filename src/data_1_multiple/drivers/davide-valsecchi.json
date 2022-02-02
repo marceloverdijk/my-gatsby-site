@@ -1,0 +1,22 @@
+{
+  "id": "davide-valsecchi",
+  "name": "Davide Valsecchi",
+  "firstName": "Davide",
+  "lastName": "Valsecchi",
+  "fullName": "Davide Valsecchi",
+  "abbreviation": "VAL",
+  "gender": "MALE",
+  "dateOfBirth": "1987-01-24",
+  "placeOfBirth": "Eupilio",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rolf-stommelen",
+  "name": "Rolf Stommelen",
+  "firstName": "Rolf",
+  "lastName": "Stommelen",
+  "fullName": "Rolf Johann Stommelen",
+  "abbreviation": "STO",
+  "gender": "MALE",
+  "dateOfBirth": "1943-07-11",
+  "dateOfDeath": "1983-04-24",
+  "placeOfBirth": "Siegen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 63,
+  "totalRaceStarts": 54,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 14,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

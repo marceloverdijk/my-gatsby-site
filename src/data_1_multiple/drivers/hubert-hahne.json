@@ -1,0 +1,23 @@
+{
+  "id": "hubert-hahne",
+  "name": "Hubert Hahne",
+  "firstName": "Hubert",
+  "lastName": "Hahne",
+  "fullName": "Hubert Hahne",
+  "abbreviation": "HAH",
+  "gender": "MALE",
+  "dateOfBirth": "1935-03-28",
+  "dateOfDeath": "2019-04-24",
+  "placeOfBirth": "Moers",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "heikki-kovalainen",
+  "name": "Heikki Kovalainen",
+  "firstName": "Heikki",
+  "lastName": "Kovalainen",
+  "fullName": "Heikki Johannes Kovalainen",
+  "abbreviation": "KOV",
+  "gender": "MALE",
+  "dateOfBirth": "1981-10-19",
+  "placeOfBirth": "Suomussalmi",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 112,
+  "totalRaceStarts": 111,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 4,
+  "totalPoints": 105,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

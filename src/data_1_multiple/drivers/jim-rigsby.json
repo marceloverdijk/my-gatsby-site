@@ -1,0 +1,23 @@
+{
+  "id": "jim-rigsby",
+  "name": "Jim Rigsby",
+  "firstName": "Jim",
+  "lastName": "Rigsby",
+  "fullName": "Jim Rigsby",
+  "abbreviation": "RIG",
+  "gender": "MALE",
+  "dateOfBirth": "1923-06-06",
+  "dateOfDeath": "1952-08-31",
+  "placeOfBirth": "Spadra",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

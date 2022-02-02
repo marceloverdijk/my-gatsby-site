@@ -1,0 +1,15 @@
+{
+  "id": "ferrari",
+  "name": "Ferrari",
+  "fullName": "Scuderia Ferrari",
+  "countryId": "italy",
+  "totalChampionships": 16,
+  "totalRaceEntries": 1011,
+  "totalRaceStarts": 1009,
+  "totalRaceWins": 238,
+  "totalPolePositions": 228,
+  "totalPodiums": 585,
+  "totalPoints": 8709.5,
+  "totalDriverPoints": 9302.27,
+  "totalFastestLaps": 259
+}

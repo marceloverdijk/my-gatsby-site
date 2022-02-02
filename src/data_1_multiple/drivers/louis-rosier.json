@@ -1,0 +1,23 @@
+{
+  "id": "louis-rosier",
+  "name": "Louis Rosier",
+  "firstName": "Louis",
+  "lastName": "Rosier",
+  "fullName": "Louis Rosier",
+  "abbreviation": "ROS",
+  "gender": "MALE",
+  "dateOfBirth": "1905-11-05",
+  "dateOfDeath": "1956-10-29",
+  "placeOfBirth": "Chapdes-Beaufort",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 38,
+  "totalRaceStarts": 38,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 18,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

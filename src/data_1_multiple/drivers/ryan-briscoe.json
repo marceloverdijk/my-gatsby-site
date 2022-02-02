@@ -1,0 +1,22 @@
+{
+  "id": "ryan-briscoe",
+  "name": "Ryan Briscoe",
+  "firstName": "Ryan",
+  "lastName": "Briscoe",
+  "fullName": "Ryan Briscoe",
+  "abbreviation": "BRI",
+  "gender": "MALE",
+  "dateOfBirth": "1981-09-24",
+  "placeOfBirth": "Sydney",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

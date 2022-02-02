@@ -1,0 +1,23 @@
+{
+  "id": "jo-siffert",
+  "name": "Jo Siffert",
+  "firstName": "Jo",
+  "lastName": "Siffert",
+  "fullName": "Joseph Siffert",
+  "abbreviation": "SIF",
+  "gender": "MALE",
+  "dateOfBirth": "1936-07-07",
+  "dateOfDeath": "1971-10-24",
+  "placeOfBirth": "Freiburg",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 100,
+  "totalRaceStarts": 96,
+  "totalRaceWins": 2,
+  "totalPolePositions": 2,
+  "totalPodiums": 6,
+  "totalPoints": 66,
+  "totalFastestLaps": 4,
+  "totalDriverOfTheDay": 0
+}

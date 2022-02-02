@@ -1,0 +1,22 @@
+{
+  "id": "derek-warwick",
+  "name": "Derek Warwick",
+  "firstName": "Derek",
+  "lastName": "Warwick",
+  "fullName": "Derek Stanley Arthur Warwick",
+  "abbreviation": "WAR",
+  "gender": "MALE",
+  "dateOfBirth": "1954-08-27",
+  "placeOfBirth": "New Alresford",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 162,
+  "totalRaceStarts": 147,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 4,
+  "totalPoints": 71,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

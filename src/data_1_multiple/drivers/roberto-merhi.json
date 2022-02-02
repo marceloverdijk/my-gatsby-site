@@ -1,0 +1,23 @@
+{
+  "id": "roberto-merhi",
+  "name": "Roberto Merhi",
+  "firstName": "Roberto",
+  "lastName": "Merhi",
+  "fullName": "Roberto Merhi Muntan",
+  "abbreviation": "MER",
+  "permanentNumber": "98",
+  "gender": "MALE",
+  "dateOfBirth": "1991-03-22",
+  "placeOfBirth": "Castellón",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 13,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

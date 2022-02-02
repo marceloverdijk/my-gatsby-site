@@ -1,0 +1,16 @@
+{
+  "id": "toro-rosso",
+  "name": "Toro Rosso",
+  "fullName": "Scuderia Toro Rosso",
+  "previousConstructorId": "minardi",
+  "countryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 268,
+  "totalRaceStarts": 268,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 3,
+  "totalPoints": 500,
+  "totalDriverPoints": 500,
+  "totalFastestLaps": 1
+}

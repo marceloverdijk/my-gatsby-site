@@ -1,0 +1,16 @@
+{
+  "id": "force-india",
+  "name": "Force India",
+  "fullName": "Sahara Force India F1 Team",
+  "previousConstructorId": "spyker",
+  "countryId": "india",
+  "totalChampionships": 0,
+  "totalRaceEntries": 212,
+  "totalRaceStarts": 212,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 6,
+  "totalPoints": 1098,
+  "totalDriverPoints": 1098,
+  "totalFastestLaps": 5
+}

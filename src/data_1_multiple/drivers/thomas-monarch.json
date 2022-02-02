@@ -1,0 +1,23 @@
+{
+  "id": "thomas-monarch",
+  "name": "Thomas Monarch",
+  "firstName": "Thomas",
+  "lastName": "Monarch",
+  "fullName": "Thomas Monarch",
+  "abbreviation": "MON",
+  "gender": "MALE",
+  "dateOfBirth": "1912-05-29",
+  "dateOfDeath": "1964-04-01",
+  "placeOfBirth": "Owensboro",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "manor",
+  "name": "Manor",
+  "fullName": "Manor Racing",
+  "previousConstructorId": "marussia",
+  "countryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 21,
+  "totalRaceStarts": 21,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalDriverPoints": 1,
+  "totalFastestLaps": 0
+}

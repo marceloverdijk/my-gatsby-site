@@ -1,0 +1,23 @@
+{
+  "id": "bill-schindler",
+  "name": "Bill Schindler",
+  "firstName": "Bill",
+  "lastName": "Schindler",
+  "fullName": "Bill Schindler",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1909-03-06",
+  "dateOfDeath": "1952-09-20",
+  "placeOfBirth": "Middletown",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

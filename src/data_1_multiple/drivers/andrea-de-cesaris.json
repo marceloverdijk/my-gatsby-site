@@ -1,0 +1,23 @@
+{
+  "id": "andrea-de-cesaris",
+  "name": "Andrea de Cesaris",
+  "firstName": "Andrea",
+  "lastName": "De Cesaris",
+  "fullName": "Andrea de Cesaris",
+  "abbreviation": "DEC",
+  "gender": "MALE",
+  "dateOfBirth": "1959-05-31",
+  "dateOfDeath": "2014-10-05",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 214,
+  "totalRaceStarts": 207,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 5,
+  "totalPoints": 59,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

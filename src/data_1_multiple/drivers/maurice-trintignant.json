@@ -1,0 +1,23 @@
+{
+  "id": "maurice-trintignant",
+  "name": "Maurice Trintignant",
+  "firstName": "Maurice",
+  "lastName": "Trintignant",
+  "fullName": "Maurice Bienvenu Jean Paul Trintignant",
+  "abbreviation": "TRI",
+  "gender": "MALE",
+  "dateOfBirth": "1917-10-30",
+  "dateOfDeath": "2005-02-13",
+  "placeOfBirth": "Sainte-Cécile-les-Vignes",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 84,
+  "totalRaceStarts": 82,
+  "totalRaceWins": 2,
+  "totalPolePositions": 0,
+  "totalPodiums": 9,
+  "totalPoints": 72.33,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

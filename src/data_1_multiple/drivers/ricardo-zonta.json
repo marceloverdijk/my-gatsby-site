@@ -1,0 +1,22 @@
+{
+  "id": "ricardo-zonta",
+  "name": "Ricardo Zonta",
+  "firstName": "Ricardo",
+  "lastName": "Zonta",
+  "fullName": "Ricardo Luiz Zonta",
+  "abbreviation": "ZON",
+  "gender": "MALE",
+  "dateOfBirth": "1976-03-23",
+  "placeOfBirth": "Curitiba",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 38,
+  "totalRaceStarts": 36,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

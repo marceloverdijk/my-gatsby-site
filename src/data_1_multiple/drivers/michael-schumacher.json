@@ -1,0 +1,22 @@
+{
+  "id": "michael-schumacher",
+  "name": "Michael Schumacher",
+  "firstName": "Michael",
+  "lastName": "Schumacher",
+  "fullName": "Michael Schumacher",
+  "abbreviation": "MSC",
+  "gender": "MALE",
+  "dateOfBirth": "1969-01-03",
+  "placeOfBirth": "Hürth",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 7,
+  "totalRaceEntries": 308,
+  "totalRaceStarts": 306,
+  "totalRaceWins": 91,
+  "totalPolePositions": 68,
+  "totalPodiums": 155,
+  "totalPoints": 1566,
+  "totalFastestLaps": 76,
+  "totalDriverOfTheDay": 0
+}

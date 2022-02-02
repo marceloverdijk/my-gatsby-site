@@ -1,0 +1,22 @@
+{
+  "id": "lucas-di-grassi",
+  "name": "Lucas di Grassi",
+  "firstName": "Lucas",
+  "lastName": "Di Grassi",
+  "fullName": "Lucas Tucci di Grassi",
+  "abbreviation": "DIG",
+  "gender": "MALE",
+  "dateOfBirth": "1984-08-11",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 19,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

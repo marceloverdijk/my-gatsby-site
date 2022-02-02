@@ -1,0 +1,23 @@
+{
+  "id": "toni-branca",
+  "name": "Toni Branca",
+  "firstName": "Toni",
+  "lastName": "Branca",
+  "fullName": "Antonio Branca",
+  "abbreviation": "BRA",
+  "gender": "MALE",
+  "dateOfBirth": "1916-09-15",
+  "dateOfDeath": "1985-05-10",
+  "placeOfBirth": "Sion",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

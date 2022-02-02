@@ -1,0 +1,23 @@
+{
+  "id": "daniil-kvyat",
+  "name": "Daniil Kvyat",
+  "firstName": "Daniil",
+  "lastName": "Kvyat",
+  "fullName": "Daniil Vyacheslavovich Kvyat",
+  "abbreviation": "KVY",
+  "permanentNumber": "26",
+  "gender": "MALE",
+  "dateOfBirth": "1994-04-26",
+  "placeOfBirth": "Ufa",
+  "countryOfBirthCountryId": "russia",
+  "nationalityCountryId": "russia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 112,
+  "totalRaceStarts": 110,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 3,
+  "totalPoints": 202,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 1
+}

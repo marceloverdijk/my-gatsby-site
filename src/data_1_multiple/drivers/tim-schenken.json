@@ -1,0 +1,22 @@
+{
+  "id": "tim-schenken",
+  "name": "Tim Schenken",
+  "firstName": "Tim",
+  "lastName": "Schenken",
+  "fullName": "Timothy Theodore Schenken",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1943-09-26",
+  "placeOfBirth": "Gordon",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 36,
+  "totalRaceStarts": 34,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 7,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

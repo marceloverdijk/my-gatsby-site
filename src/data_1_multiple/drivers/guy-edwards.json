@@ -1,0 +1,22 @@
+{
+  "id": "guy-edwards",
+  "name": "Guy Edwards",
+  "firstName": "Guy",
+  "lastName": "Edwards",
+  "fullName": "Guy Richard Goronwy Edwards",
+  "abbreviation": "EDW",
+  "gender": "MALE",
+  "dateOfBirth": "1942-12-30",
+  "placeOfBirth": "Macclesfield",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "leo-kinnunen",
+  "name": "Leo Kinnunen",
+  "firstName": "Leo",
+  "lastName": "Kinnunen",
+  "fullName": "Leo Juhani Kinnunen",
+  "abbreviation": "KIN",
+  "gender": "MALE",
+  "dateOfBirth": "1943-08-05",
+  "dateOfDeath": "2017-07-26",
+  "placeOfBirth": "Tampere",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

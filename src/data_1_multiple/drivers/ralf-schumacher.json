@@ -1,0 +1,22 @@
+{
+  "id": "ralf-schumacher",
+  "name": "Ralf Schumacher",
+  "firstName": "Ralf",
+  "lastName": "Schumacher",
+  "fullName": "Ralf Schumacher",
+  "abbreviation": "RSC",
+  "gender": "MALE",
+  "dateOfBirth": "1975-06-30",
+  "placeOfBirth": "Hürth",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 180,
+  "totalRaceStarts": 180,
+  "totalRaceWins": 6,
+  "totalPolePositions": 6,
+  "totalPodiums": 27,
+  "totalPoints": 329,
+  "totalFastestLaps": 8,
+  "totalDriverOfTheDay": 0
+}

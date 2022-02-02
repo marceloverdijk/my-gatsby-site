@@ -1,0 +1,23 @@
+{
+  "id": "jimmy-stewart",
+  "name": "Jimmy Stewart",
+  "firstName": "Jimmy",
+  "lastName": "Stewart",
+  "fullName": "James Robert Stewart",
+  "abbreviation": "STE",
+  "gender": "MALE",
+  "dateOfBirth": "1931-03-06",
+  "dateOfDeath": "2008-01-03",
+  "placeOfBirth": "Milton",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

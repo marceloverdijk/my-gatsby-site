@@ -1,0 +1,22 @@
+{
+  "id": "sakon-yamamoto",
+  "name": "Sakon Yamamoto",
+  "firstName": "Sakon",
+  "lastName": "Yamamoto",
+  "fullName": "Sakon Yamamoto",
+  "abbreviation": "YAM",
+  "gender": "MALE",
+  "dateOfBirth": "1982-07-09",
+  "placeOfBirth": "Toyohashi",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 21,
+  "totalRaceStarts": 21,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

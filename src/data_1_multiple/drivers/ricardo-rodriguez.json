@@ -1,0 +1,23 @@
+{
+  "id": "ricardo-rodriguez",
+  "name": "Ricardo Rodríguez",
+  "firstName": "Ricardo",
+  "lastName": "Rodríguez",
+  "fullName": "Ricardo Valentín Rodríguez de la Vega",
+  "abbreviation": "ROD",
+  "gender": "MALE",
+  "dateOfBirth": "1942-02-14",
+  "dateOfDeath": "1962-11-01",
+  "placeOfBirth": "Mexico City",
+  "countryOfBirthCountryId": "mexico",
+  "nationalityCountryId": "mexico",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

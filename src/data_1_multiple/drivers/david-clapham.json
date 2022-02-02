@@ -1,0 +1,23 @@
+{
+  "id": "david-clapham",
+  "name": "David Clapham",
+  "firstName": "David",
+  "lastName": "Clapham",
+  "fullName": "David Philip Clapham",
+  "abbreviation": "CLA",
+  "gender": "MALE",
+  "dateOfBirth": "1931-05-17",
+  "dateOfDeath": "2005-10-22",
+  "placeOfBirth": "Rawmarsh",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

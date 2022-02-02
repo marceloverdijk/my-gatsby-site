@@ -1,0 +1,23 @@
+{
+  "id": "dempsey-wilson",
+  "name": "Dempsey Wilson",
+  "firstName": "Dempsey",
+  "lastName": "Wilson",
+  "fullName": "Dempsey Cothrin Wilson",
+  "abbreviation": "WIL",
+  "gender": "MALE",
+  "dateOfBirth": "1927-03-11",
+  "dateOfDeath": "1971-04-23",
+  "placeOfBirth": "Los Angeles",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

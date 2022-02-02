@@ -1,0 +1,23 @@
+{
+  "id": "chuck-arnold",
+  "name": "Chuck Arnold",
+  "firstName": "Chuck",
+  "lastName": "Arnold",
+  "fullName": "Chuck Arnold",
+  "abbreviation": "ARN",
+  "gender": "MALE",
+  "dateOfBirth": "1926-05-30",
+  "dateOfDeath": "1997-09-04",
+  "placeOfBirth": "Stamford",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

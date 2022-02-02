@@ -1,0 +1,23 @@
+{
+  "id": "eppie-wietzes",
+  "name": "Eppie Wietzes",
+  "firstName": "Egbert",
+  "lastName": "Wietzes",
+  "fullName": "Egbert Wietzes",
+  "abbreviation": "WIE",
+  "gender": "MALE",
+  "dateOfBirth": "1938-05-28",
+  "dateOfDeath": "2020-06-10",
+  "placeOfBirth": "Assen",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

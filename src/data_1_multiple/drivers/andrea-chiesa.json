@@ -1,0 +1,22 @@
+{
+  "id": "andrea-chiesa",
+  "name": "Andrea Chiesa",
+  "firstName": "Andrea",
+  "lastName": "Chiesa",
+  "fullName": "Andrea Chiesa",
+  "abbreviation": "CHI",
+  "gender": "MALE",
+  "dateOfBirth": "1964-05-06",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

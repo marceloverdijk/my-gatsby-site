@@ -1,0 +1,15 @@
+{
+  "id": "maserati",
+  "name": "Maserati",
+  "fullName": "Maserati",
+  "countryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 73,
+  "totalRaceStarts": 70,
+  "totalRaceWins": 9,
+  "totalPolePositions": 10,
+  "totalPodiums": 28,
+  "totalPoints": 9,
+  "totalDriverPoints": 313.41998,
+  "totalFastestLaps": 19
+}

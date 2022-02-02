@@ -1,0 +1,16 @@
+{
+  "id": "jaguar",
+  "name": "Jaguar",
+  "fullName": "Jaguar Racing F1 Team",
+  "previousConstructorId": "stewart",
+  "countryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 85,
+  "totalRaceStarts": 85,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 49,
+  "totalDriverPoints": 49,
+  "totalFastestLaps": 0
+}

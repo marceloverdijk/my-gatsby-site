@@ -1,0 +1,22 @@
+{
+  "id": "stephane-sarrazin",
+  "name": "Stéphane Sarrazin",
+  "firstName": "Stéphane",
+  "lastName": "Sarrazin",
+  "fullName": "Stéphane Jean-Marc Sarrazin",
+  "abbreviation": "SAR",
+  "gender": "MALE",
+  "dateOfBirth": "1975-11-02",
+  "placeOfBirth": "Barjac",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "paco-godia",
+  "name": "Paco Godia",
+  "firstName": "Paco",
+  "lastName": "Godia",
+  "fullName": "Francisco Godia Sales",
+  "abbreviation": "GOD",
+  "gender": "MALE",
+  "dateOfBirth": "1921-03-21",
+  "dateOfDeath": "1990-11-28",
+  "placeOfBirth": "Barcelona",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 13,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "andrea-de-adamich",
+  "name": "Andrea de Adamich",
+  "firstName": "Andrea",
+  "lastName": "De Adamich",
+  "fullName": "Andrea Lodovico de Adamich",
+  "abbreviation": "DEA",
+  "gender": "MALE",
+  "dateOfBirth": "1941-10-03",
+  "placeOfBirth": "Trieste",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 36,
+  "totalRaceStarts": 30,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

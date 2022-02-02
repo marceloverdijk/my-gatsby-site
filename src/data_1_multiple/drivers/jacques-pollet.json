@@ -1,0 +1,23 @@
+{
+  "id": "jacques-pollet",
+  "name": "Jacques Pollet",
+  "firstName": "Jacques",
+  "lastName": "Pollet",
+  "fullName": "Jacques Pollet",
+  "abbreviation": "POL",
+  "gender": "MALE",
+  "dateOfBirth": "1922-07-02",
+  "dateOfDeath": "1997-08-16",
+  "placeOfBirth": "Roubaix",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

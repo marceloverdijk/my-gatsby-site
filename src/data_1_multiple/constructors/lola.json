@@ -1,0 +1,15 @@
+{
+  "id": "lola",
+  "name": "Lola",
+  "fullName": "Lola Cars",
+  "countryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 153,
+  "totalRaceStarts": 149,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 3,
+  "totalPoints": 43,
+  "totalDriverPoints": 43,
+  "totalFastestLaps": 0
+}

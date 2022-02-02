@@ -1,0 +1,22 @@
+{
+  "id": "kurt-ahrens-jr",
+  "name": "Kurt Ahrens, Jr.",
+  "firstName": "Kurt",
+  "lastName": "Ahrens, Jr.",
+  "fullName": "Kurt Karl-Heinrich Ahrens",
+  "abbreviation": "AHR",
+  "gender": "MALE",
+  "dateOfBirth": "1940-04-19",
+  "placeOfBirth": "Braunschweig",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

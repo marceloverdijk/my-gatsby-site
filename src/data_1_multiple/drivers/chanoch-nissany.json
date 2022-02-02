@@ -1,0 +1,22 @@
+{
+  "id": "chanoch-nissany",
+  "name": "Chanoch Nissany",
+  "firstName": "Chanoch",
+  "lastName": "Nissany",
+  "fullName": "Chanoch Nissany",
+  "abbreviation": "NIS",
+  "gender": "MALE",
+  "dateOfBirth": "1963-07-29",
+  "placeOfBirth": "Budapest",
+  "countryOfBirthCountryId": "hungary",
+  "nationalityCountryId": "israel",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

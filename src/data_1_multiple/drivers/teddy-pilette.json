@@ -1,0 +1,22 @@
+{
+  "id": "teddy-pilette",
+  "name": "Teddy Pilette",
+  "firstName": "Theodore",
+  "lastName": "Pilette",
+  "fullName": "Theodore Pilette",
+  "abbreviation": "PIL",
+  "gender": "MALE",
+  "dateOfBirth": "1942-07-26",
+  "placeOfBirth": "Brussels",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ken-wharton",
+  "name": "Ken Wharton",
+  "firstName": "Ken",
+  "lastName": "Wharton",
+  "fullName": "Ken Wharton",
+  "abbreviation": "WHA",
+  "gender": "MALE",
+  "dateOfBirth": "1916-03-21",
+  "dateOfDeath": "1957-01-12",
+  "placeOfBirth": "Smethwick",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 16,
+  "totalRaceStarts": 15,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "robin-widdows",
+  "name": "Robin Widdows",
+  "firstName": "Robin",
+  "lastName": "Widdows",
+  "fullName": "Robin Michael Widdows",
+  "abbreviation": "WID",
+  "gender": "MALE",
+  "dateOfBirth": "1942-05-27",
+  "placeOfBirth": "Cowley",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

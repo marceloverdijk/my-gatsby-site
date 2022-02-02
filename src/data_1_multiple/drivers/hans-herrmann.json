@@ -1,0 +1,22 @@
+{
+  "id": "hans-herrmann",
+  "name": "Hans Herrmann",
+  "firstName": "Hans",
+  "lastName": "Herrmann",
+  "fullName": "Hans Herrmann",
+  "abbreviation": "HER",
+  "gender": "MALE",
+  "dateOfBirth": "1928-02-23",
+  "placeOfBirth": "Stuttgart",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 21,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 10,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

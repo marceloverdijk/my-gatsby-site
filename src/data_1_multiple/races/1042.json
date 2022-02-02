@@ -1,0 +1,16 @@
+{
+  "id": 1042,
+  "year": 2021,
+  "round": 7,
+  "date": "2021-06-13",
+  "grandPrixId": "canada",
+  "officialName": "Formula 1 Heineken Grand Prix du Canada 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "montreal",
+  "circuitType": "STREET",
+  "courseLength": 4.361,
+  "laps": 70,
+  "distance": 305.27,
+  "scheduledLaps": 70,
+  "scheduledDistance": 305.27
+}

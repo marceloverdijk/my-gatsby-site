@@ -1,0 +1,23 @@
+{
+  "id": "cesare-perdisa",
+  "name": "Cesare Perdisa",
+  "firstName": "Cesare",
+  "lastName": "Perdisa",
+  "fullName": "Cesare Perdisa",
+  "abbreviation": "PER",
+  "gender": "MALE",
+  "dateOfBirth": "1932-10-21",
+  "dateOfDeath": "1998-05-10",
+  "placeOfBirth": "Bologna",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

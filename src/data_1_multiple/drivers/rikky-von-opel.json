@@ -1,0 +1,22 @@
+{
+  "id": "rikky-von-opel",
+  "name": "Rikky von Opel",
+  "firstName": "Rikky",
+  "lastName": "Von Opel",
+  "fullName": "Frederick von Opel",
+  "abbreviation": "VON",
+  "gender": "MALE",
+  "dateOfBirth": "1947-10-14",
+  "placeOfBirth": "New York City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "liechtenstein",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

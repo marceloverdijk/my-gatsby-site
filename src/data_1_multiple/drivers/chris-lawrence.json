@@ -1,0 +1,23 @@
+{
+  "id": "chris-lawrence",
+  "name": "Chris Lawrence",
+  "firstName": "Chris",
+  "lastName": "Lawrence",
+  "fullName": "Christopher J. Lawrence",
+  "abbreviation": "LAW",
+  "gender": "MALE",
+  "dateOfBirth": "1933-07-27",
+  "dateOfDeath": "2011-08-13",
+  "placeOfBirth": "Ealing",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

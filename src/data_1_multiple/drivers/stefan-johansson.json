@@ -1,0 +1,22 @@
+{
+  "id": "stefan-johansson",
+  "name": "Stefan Johansson",
+  "firstName": "Stefan",
+  "lastName": "Johansson",
+  "fullName": "Stefan Nils Edwin Johansson",
+  "abbreviation": "JOH",
+  "gender": "MALE",
+  "dateOfBirth": "1956-09-08",
+  "placeOfBirth": "Växjö",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 103,
+  "totalRaceStarts": 80,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 12,
+  "totalPoints": 88,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

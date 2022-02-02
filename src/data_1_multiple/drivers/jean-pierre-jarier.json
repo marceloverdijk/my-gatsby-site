@@ -1,0 +1,22 @@
+{
+  "id": "jean-pierre-jarier",
+  "name": "Jean-Pierre Jarier",
+  "firstName": "Jean-Pierre",
+  "lastName": "Jarier",
+  "fullName": "Jean-Pierre Jacques Jarier",
+  "abbreviation": "JAR",
+  "gender": "MALE",
+  "dateOfBirth": "1946-07-10",
+  "placeOfBirth": "Charenton-le-Pont",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 143,
+  "totalRaceStarts": 135,
+  "totalRaceWins": 0,
+  "totalPolePositions": 3,
+  "totalPodiums": 3,
+  "totalPoints": 31.5,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "brian-gubby",
+  "name": "Brian Gubby",
+  "firstName": "Brian",
+  "lastName": "Gubby",
+  "fullName": "Brian Gubby",
+  "abbreviation": "GUB",
+  "gender": "MALE",
+  "dateOfBirth": "1934-04-17",
+  "placeOfBirth": "Epsom",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ralph-firman",
+  "name": "Ralph Firman",
+  "firstName": "Ralph",
+  "lastName": "Firman",
+  "fullName": "Ralph David Firman Jr.",
+  "abbreviation": "FIR",
+  "gender": "MALE",
+  "dateOfBirth": "1975-05-20",
+  "placeOfBirth": "Norwich",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "ireland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 14,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

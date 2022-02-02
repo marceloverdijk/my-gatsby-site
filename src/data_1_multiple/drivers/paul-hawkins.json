@@ -1,0 +1,23 @@
+{
+  "id": "paul-hawkins",
+  "name": "Paul Hawkins",
+  "firstName": "Paul",
+  "lastName": "Hawkins",
+  "fullName": "Robert Paul Hawkins",
+  "abbreviation": "HAW",
+  "gender": "MALE",
+  "dateOfBirth": "1937-10-12",
+  "dateOfDeath": "1969-05-26",
+  "placeOfBirth": "Richmond",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

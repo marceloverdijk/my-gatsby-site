@@ -1,0 +1,22 @@
+{
+  "id": "kamui-kobayashi",
+  "name": "Kamui Kobayashi",
+  "firstName": "Kamui",
+  "lastName": "Kobayashi",
+  "fullName": "Kamui Kobayashi",
+  "abbreviation": "KOB",
+  "gender": "MALE",
+  "dateOfBirth": "1986-09-13",
+  "placeOfBirth": "Amagasaki",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 76,
+  "totalRaceStarts": 75,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 125,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

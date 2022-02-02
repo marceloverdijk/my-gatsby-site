@@ -1,0 +1,23 @@
+{
+  "id": "dennis-taylor",
+  "name": "Dennis Taylor",
+  "firstName": "Dennis",
+  "lastName": "Taylor",
+  "fullName": "Dennis Taylor",
+  "abbreviation": "TAY",
+  "gender": "MALE",
+  "dateOfBirth": "1921-06-12",
+  "dateOfDeath": "1962-06-02",
+  "placeOfBirth": "Sidcup",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

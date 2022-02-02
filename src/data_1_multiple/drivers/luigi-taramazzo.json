@@ -1,0 +1,23 @@
+{
+  "id": "luigi-taramazzo",
+  "name": "Luigi Taramazzo",
+  "firstName": "Luigi",
+  "lastName": "Taramazzo",
+  "fullName": "Luigi Taramazzo",
+  "abbreviation": "TAR",
+  "gender": "MALE",
+  "dateOfBirth": "1932-05-05",
+  "dateOfDeath": "2004-02-15",
+  "placeOfBirth": "Ceva",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

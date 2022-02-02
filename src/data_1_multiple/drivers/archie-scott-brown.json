@@ -1,0 +1,23 @@
+{
+  "id": "archie-scott-brown",
+  "name": "Archie Scott Brown",
+  "firstName": "Archie",
+  "lastName": "Scott Brown",
+  "fullName": "William Archibald Scott Brown",
+  "abbreviation": "SCO",
+  "gender": "MALE",
+  "dateOfBirth": "1927-05-13",
+  "dateOfDeath": "1958-05-19",
+  "placeOfBirth": "Paisley",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

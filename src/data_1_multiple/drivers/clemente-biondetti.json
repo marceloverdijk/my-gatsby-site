@@ -1,0 +1,23 @@
+{
+  "id": "clemente-biondetti",
+  "name": "Clemente Biondetti",
+  "firstName": "Clemente",
+  "lastName": "Biondetti",
+  "fullName": "Clemente Biondetti",
+  "abbreviation": "BIO",
+  "gender": "MALE",
+  "dateOfBirth": "1898-10-18",
+  "dateOfDeath": "1955-02-24",
+  "placeOfBirth": "Buddusò",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "patrick-tambay",
+  "name": "Patrick Tambay",
+  "firstName": "Patrick",
+  "lastName": "Tambay",
+  "fullName": "Patrick Daniel Tambay",
+  "abbreviation": "TAM",
+  "gender": "MALE",
+  "dateOfBirth": "1949-06-25",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 123,
+  "totalRaceStarts": 113,
+  "totalRaceWins": 2,
+  "totalPolePositions": 5,
+  "totalPodiums": 11,
+  "totalPoints": 103,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

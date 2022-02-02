@@ -1,0 +1,23 @@
+{
+  "id": "harry-schell",
+  "name": "Harry Schell",
+  "firstName": "Harry",
+  "lastName": "Schell",
+  "fullName": "Henry O'Reilly Schell",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1921-06-29",
+  "dateOfDeath": "1960-05-13",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 57,
+  "totalRaceStarts": 56,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 32,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

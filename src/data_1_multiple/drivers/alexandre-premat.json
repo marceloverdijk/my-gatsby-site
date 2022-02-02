@@ -1,0 +1,22 @@
+{
+  "id": "alexandre-premat",
+  "name": "Alexandre Prémat",
+  "firstName": "Alexandre",
+  "lastName": "Prémat",
+  "fullName": "Alexandre Prémat",
+  "abbreviation": "PRE",
+  "gender": "MALE",
+  "dateOfBirth": "1982-04-05",
+  "placeOfBirth": "Juvisy-sur-Orge",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

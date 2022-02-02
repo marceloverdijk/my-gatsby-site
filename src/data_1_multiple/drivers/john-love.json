@@ -1,0 +1,23 @@
+{
+  "id": "john-love",
+  "name": "John Love",
+  "firstName": "John",
+  "lastName": "Love",
+  "fullName": "John Maxwell Lineham Love",
+  "abbreviation": "LOV",
+  "gender": "MALE",
+  "dateOfBirth": "1924-12-07",
+  "dateOfDeath": "2005-04-25",
+  "placeOfBirth": "Bulawayo",
+  "countryOfBirthCountryId": "zimbabwe",
+  "nationalityCountryId": "zimbabwe",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

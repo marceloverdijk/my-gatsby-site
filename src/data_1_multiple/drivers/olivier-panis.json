@@ -1,0 +1,22 @@
+{
+  "id": "olivier-panis",
+  "name": "Olivier Panis",
+  "firstName": "Olivier",
+  "lastName": "Panis",
+  "fullName": "Olivier Panis",
+  "abbreviation": "PAN",
+  "gender": "MALE",
+  "dateOfBirth": "1966-09-02",
+  "placeOfBirth": "Oullins",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 158,
+  "totalRaceStarts": 157,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 5,
+  "totalPoints": 76,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

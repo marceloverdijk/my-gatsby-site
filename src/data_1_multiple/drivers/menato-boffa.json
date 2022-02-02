@@ -1,0 +1,23 @@
+{
+  "id": "menato-boffa",
+  "name": "Menato Boffa",
+  "firstName": "Menato",
+  "lastName": "Boffa",
+  "fullName": "Menato Boffa",
+  "abbreviation": "BOF",
+  "gender": "MALE",
+  "dateOfBirth": "1930-01-04",
+  "dateOfDeath": "1996-09-28",
+  "placeOfBirth": "Benevento",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

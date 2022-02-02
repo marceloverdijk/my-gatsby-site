@@ -1,0 +1,22 @@
+{
+  "id": "paul-di-resta",
+  "name": "Paul di Resta",
+  "firstName": "Paul",
+  "lastName": "Di Resta",
+  "fullName": "Paul di Resta",
+  "abbreviation": "DIR",
+  "gender": "MALE",
+  "dateOfBirth": "1986-04-16",
+  "placeOfBirth": "Uphall",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 59,
+  "totalRaceStarts": 59,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 121,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

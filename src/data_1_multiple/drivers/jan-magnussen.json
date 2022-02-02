@@ -1,0 +1,22 @@
+{
+  "id": "jan-magnussen",
+  "name": "Jan Magnussen",
+  "firstName": "Jan",
+  "lastName": "Magnussen",
+  "fullName": "Jan Ellegaard Magnussen",
+  "abbreviation": "MAG",
+  "gender": "MALE",
+  "dateOfBirth": "1973-07-04",
+  "placeOfBirth": "Roskilde",
+  "countryOfBirthCountryId": "denmark",
+  "nationalityCountryId": "denmark",
+  "totalChampionships": 0,
+  "totalRaceEntries": 25,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

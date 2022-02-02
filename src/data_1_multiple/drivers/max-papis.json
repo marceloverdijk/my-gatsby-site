@@ -1,0 +1,22 @@
+{
+  "id": "max-papis",
+  "name": "Max Papis",
+  "firstName": "Max",
+  "lastName": "Papis",
+  "fullName": "Massimiliano Papis",
+  "abbreviation": "PAP",
+  "gender": "MALE",
+  "dateOfBirth": "1969-10-03",
+  "placeOfBirth": "Como",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

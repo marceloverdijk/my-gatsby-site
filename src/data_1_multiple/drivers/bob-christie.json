@@ -1,0 +1,23 @@
+{
+  "id": "bob-christie",
+  "name": "Bob Christie",
+  "firstName": "Bob",
+  "lastName": "Christie",
+  "fullName": "Bob Christie",
+  "abbreviation": "CHR",
+  "gender": "MALE",
+  "dateOfBirth": "1924-04-04",
+  "dateOfDeath": "2009-06-01",
+  "placeOfBirth": "Grants Pass",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

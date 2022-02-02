@@ -1,0 +1,12 @@
+{
+  "id": "mercedes",
+  "name": "Mercedes",
+  "countryId": "germany",
+  "totalChampionships": 9,
+  "totalRaceEntries": 500,
+  "totalRaceStarts": 498,
+  "totalRaceWins": 202,
+  "totalPolePositions": 209,
+  "totalPodiums": 345,
+  "totalFastestLaps": 180
+}

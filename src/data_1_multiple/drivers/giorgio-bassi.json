@@ -1,0 +1,22 @@
+{
+  "id": "giorgio-bassi",
+  "name": "Giorgio Bassi",
+  "firstName": "Giorgio",
+  "lastName": "Bassi",
+  "fullName": "Giorgio Bassi",
+  "abbreviation": "BAS",
+  "gender": "MALE",
+  "dateOfBirth": "1934-01-20",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

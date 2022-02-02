@@ -1,0 +1,23 @@
+{
+  "id": "gino-munaron",
+  "name": "Gino Munaron",
+  "firstName": "Gino",
+  "lastName": "Munaron",
+  "fullName": "Gino Munaron",
+  "abbreviation": "MUN",
+  "gender": "MALE",
+  "dateOfBirth": "1928-04-02",
+  "dateOfDeath": "2009-11-22",
+  "placeOfBirth": "Turin",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

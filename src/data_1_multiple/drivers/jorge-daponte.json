@@ -1,0 +1,23 @@
+{
+  "id": "jorge-daponte",
+  "name": "Jorge Daponte",
+  "firstName": "Jorge",
+  "lastName": "Daponte",
+  "fullName": "Jorge Alberto Daponte",
+  "abbreviation": "DAP",
+  "gender": "MALE",
+  "dateOfBirth": "1923-06-05",
+  "dateOfDeath": "1963-03-09",
+  "placeOfBirth": "Buenos Aires",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

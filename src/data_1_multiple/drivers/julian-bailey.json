@@ -1,0 +1,22 @@
+{
+  "id": "julian-bailey",
+  "name": "Julian Bailey",
+  "firstName": "Julian",
+  "lastName": "Bailey",
+  "fullName": "Julian Bailey",
+  "abbreviation": "BAI",
+  "gender": "MALE",
+  "dateOfBirth": "1961-10-09",
+  "placeOfBirth": "Woolwich",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

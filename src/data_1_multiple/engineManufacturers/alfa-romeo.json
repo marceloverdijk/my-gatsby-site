@@ -1,0 +1,12 @@
+{
+  "id": "alfa-romeo",
+  "name": "Alfa Romeo",
+  "countryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 225,
+  "totalRaceStarts": 215,
+  "totalRaceWins": 12,
+  "totalPolePositions": 15,
+  "totalPodiums": 30,
+  "totalFastestLaps": 23
+}

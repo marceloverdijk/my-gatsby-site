@@ -1,0 +1,22 @@
+{
+  "id": "bernard-de-dryver",
+  "name": "Bernard de Dryver",
+  "firstName": "Bernard",
+  "lastName": "De Dryver",
+  "fullName": "Bernard de Dryver",
+  "abbreviation": "DED",
+  "gender": "MALE",
+  "dateOfBirth": "1952-09-19",
+  "placeOfBirth": "Brussels",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

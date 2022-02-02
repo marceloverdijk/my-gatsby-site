@@ -1,0 +1,23 @@
+{
+  "id": "yuki-tsunoda",
+  "name": "Yuki Tsunoda",
+  "firstName": "Yuki",
+  "lastName": "Tsunoda",
+  "fullName": "Yuki Tsunoda",
+  "abbreviation": "TSU",
+  "permanentNumber": "22",
+  "gender": "MALE",
+  "dateOfBirth": "2000-05-11",
+  "placeOfBirth": "Sagamihara",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

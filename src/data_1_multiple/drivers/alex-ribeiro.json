@@ -1,0 +1,22 @@
+{
+  "id": "alex-ribeiro",
+  "name": "Alex Ribeiro",
+  "firstName": "Alex",
+  "lastName": "Ribeiro",
+  "fullName": "Alexandre Dias Ribeiro",
+  "abbreviation": "RIB",
+  "gender": "MALE",
+  "dateOfBirth": "1948-11-07",
+  "placeOfBirth": "Belo Horizonte",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

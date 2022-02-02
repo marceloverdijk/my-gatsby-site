@@ -1,0 +1,22 @@
+{
+  "id": "massimo-natili",
+  "name": "Massimo Natili",
+  "firstName": "Massimo",
+  "lastName": "Natili",
+  "fullName": "Massimo Natili",
+  "abbreviation": "NAT",
+  "gender": "MALE",
+  "dateOfBirth": "1935-07-28",
+  "placeOfBirth": "Ronciglione",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

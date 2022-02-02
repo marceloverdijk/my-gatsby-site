@@ -1,0 +1,23 @@
+{
+  "id": "colin-davis",
+  "name": "Colin Davis",
+  "firstName": "Colin",
+  "lastName": "Davis",
+  "fullName": "Colin Charles Houghton Davis",
+  "abbreviation": "DAV",
+  "gender": "MALE",
+  "dateOfBirth": "1933-07-29",
+  "dateOfDeath": "2012-12-19",
+  "placeOfBirth": "Marylebone",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

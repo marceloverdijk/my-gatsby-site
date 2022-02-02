@@ -1,0 +1,22 @@
+{
+  "id": "gianfranco-brancatelli",
+  "name": "Gianfranco Brancatelli",
+  "firstName": "Gianfranco",
+  "lastName": "Brancatelli",
+  "fullName": "Gianfranco Brancatelli",
+  "abbreviation": "BRA",
+  "gender": "MALE",
+  "dateOfBirth": "1950-01-18",
+  "placeOfBirth": "Turin",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,15 @@
+{
+  "id": "jordan",
+  "name": "Jordan",
+  "fullName": "Jordan Grand Prix",
+  "countryId": "ireland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 250,
+  "totalRaceStarts": 250,
+  "totalRaceWins": 4,
+  "totalPolePositions": 2,
+  "totalPodiums": 17,
+  "totalPoints": 291,
+  "totalDriverPoints": 291,
+  "totalFastestLaps": 3
+}

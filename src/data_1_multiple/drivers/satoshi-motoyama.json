@@ -1,0 +1,22 @@
+{
+  "id": "satoshi-motoyama",
+  "name": "Satoshi Motoyama",
+  "firstName": "Satoshi",
+  "lastName": "Motoyama",
+  "fullName": "Satoshi Motoyama",
+  "abbreviation": "MOT",
+  "gender": "MALE",
+  "dateOfBirth": "1971-03-04",
+  "placeOfBirth": "Tokyo",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

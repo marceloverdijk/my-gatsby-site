@@ -1,0 +1,22 @@
+{
+  "id": "allen-berg",
+  "name": "Allen Berg",
+  "firstName": "Allen",
+  "lastName": "Berg",
+  "fullName": "Allen Bernard Berg",
+  "abbreviation": "BER",
+  "gender": "MALE",
+  "dateOfBirth": "1961-08-01",
+  "placeOfBirth": "Vancouver",
+  "countryOfBirthCountryId": "canada",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 9,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

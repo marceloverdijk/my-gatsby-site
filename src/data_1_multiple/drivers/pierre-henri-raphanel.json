@@ -1,0 +1,22 @@
+{
+  "id": "pierre-henri-raphanel",
+  "name": "Pierre-Henri Raphanel",
+  "firstName": "Pierre-Henri",
+  "lastName": "Raphanel",
+  "fullName": "Pierre-Henri Raphanel",
+  "abbreviation": "RAP",
+  "gender": "MALE",
+  "dateOfBirth": "1961-05-27",
+  "placeOfBirth": "Algiers",
+  "countryOfBirthCountryId": "algeria",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

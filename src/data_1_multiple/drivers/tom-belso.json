@@ -1,0 +1,23 @@
+{
+  "id": "tom-belso",
+  "name": "Tom Belsø",
+  "firstName": "Tom",
+  "lastName": "Belsø",
+  "fullName": "Tom Belsø",
+  "abbreviation": "BEL",
+  "gender": "MALE",
+  "dateOfBirth": "1942-08-27",
+  "dateOfDeath": "2020-01-12",
+  "placeOfBirth": "Copenhagen",
+  "countryOfBirthCountryId": "denmark",
+  "nationalityCountryId": "denmark",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "piero-scotti",
+  "name": "Piero Scotti",
+  "firstName": "Piero",
+  "lastName": "Scotti",
+  "fullName": "Piero Scotti",
+  "abbreviation": "SCO",
+  "gender": "MALE",
+  "dateOfBirth": "1909-11-11",
+  "dateOfDeath": "1976-02-14",
+  "placeOfBirth": "Florence",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

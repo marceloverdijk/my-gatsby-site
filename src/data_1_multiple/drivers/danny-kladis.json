@@ -1,0 +1,23 @@
+{
+  "id": "danny-kladis",
+  "name": "Danny Kladis",
+  "firstName": "Danny",
+  "lastName": "Kladis",
+  "fullName": "Danny Kladis",
+  "abbreviation": "KLA",
+  "gender": "MALE",
+  "dateOfBirth": "1917-02-10",
+  "dateOfDeath": "2009-04-26",
+  "placeOfBirth": "Crystal City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

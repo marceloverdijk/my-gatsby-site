@@ -1,0 +1,23 @@
+{
+  "id": "chris-craft",
+  "name": "Chris Craft",
+  "firstName": "Chris",
+  "lastName": "Craft",
+  "fullName": "Christopher Craft",
+  "abbreviation": "CRA",
+  "gender": "MALE",
+  "dateOfBirth": "1939-11-17",
+  "dateOfDeath": "2021-02-20",
+  "placeOfBirth": "Porthleven",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

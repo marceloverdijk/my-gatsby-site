@@ -1,0 +1,22 @@
+{
+  "id": "sebastien-buemi",
+  "name": "Sébastien Buemi",
+  "firstName": "Sébastien",
+  "lastName": "Buemi",
+  "fullName": "Sébastien Olivier Buemi",
+  "abbreviation": "BUE",
+  "gender": "MALE",
+  "dateOfBirth": "1988-10-31",
+  "placeOfBirth": "Aigle",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 55,
+  "totalRaceStarts": 55,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 29,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

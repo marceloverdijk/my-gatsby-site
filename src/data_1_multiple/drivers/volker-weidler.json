@@ -1,0 +1,22 @@
+{
+  "id": "volker-weidler",
+  "name": "Volker Weidler",
+  "firstName": "Volker",
+  "lastName": "Weidler",
+  "fullName": "Volker Weidler",
+  "abbreviation": "WEI",
+  "gender": "MALE",
+  "dateOfBirth": "1962-03-18",
+  "placeOfBirth": "Heidelberg",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

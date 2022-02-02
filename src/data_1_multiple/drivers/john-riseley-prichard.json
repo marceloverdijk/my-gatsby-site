@@ -1,0 +1,23 @@
+{
+  "id": "john-riseley-prichard",
+  "name": "John Riseley-Prichard",
+  "firstName": "John",
+  "lastName": "Riseley-Prichard",
+  "fullName": "John Henry Augustin Riseley-Prichard",
+  "abbreviation": "RIS",
+  "gender": "MALE",
+  "dateOfBirth": "1924-01-17",
+  "dateOfDeath": "1993-07-08",
+  "placeOfBirth": "Hereford",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

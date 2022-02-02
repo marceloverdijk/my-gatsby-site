@@ -1,0 +1,22 @@
+{
+  "id": "carlos-reutemann",
+  "name": "Carlos Reutemann",
+  "firstName": "Carlos",
+  "lastName": "Reutemann",
+  "fullName": "Carlos Alberto Reutemann",
+  "abbreviation": "REU",
+  "gender": "MALE",
+  "dateOfBirth": "1942-04-12",
+  "placeOfBirth": "Santa Fe",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 146,
+  "totalRaceStarts": 146,
+  "totalRaceWins": 12,
+  "totalPolePositions": 6,
+  "totalPodiums": 45,
+  "totalPoints": 310,
+  "totalFastestLaps": 6,
+  "totalDriverOfTheDay": 0
+}

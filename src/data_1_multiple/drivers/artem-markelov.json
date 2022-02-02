@@ -1,0 +1,22 @@
+{
+  "id": "artem-markelov",
+  "name": "Artem Markelov",
+  "firstName": "Artem",
+  "lastName": "Markelov",
+  "fullName": "Artem Valeryevich Markelov",
+  "abbreviation": "MAR",
+  "gender": "MALE",
+  "dateOfBirth": "1994-09-10",
+  "placeOfBirth": "Moscow",
+  "countryOfBirthCountryId": "russia",
+  "nationalityCountryId": "russia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

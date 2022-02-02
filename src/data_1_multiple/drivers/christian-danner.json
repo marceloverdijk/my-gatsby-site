@@ -1,0 +1,22 @@
+{
+  "id": "christian-danner",
+  "name": "Christian Danner",
+  "firstName": "Christian",
+  "lastName": "Danner",
+  "fullName": "Christian Danner",
+  "abbreviation": "DAN",
+  "gender": "MALE",
+  "dateOfBirth": "1958-04-04",
+  "placeOfBirth": "Munich",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 47,
+  "totalRaceStarts": 36,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

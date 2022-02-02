@@ -1,0 +1,23 @@
+{
+  "id": "bob-said",
+  "name": "Bob Said",
+  "firstName": "Bob",
+  "lastName": "Said",
+  "fullName": "Boris Said",
+  "abbreviation": "SAI",
+  "gender": "MALE",
+  "dateOfBirth": "1932-05-05",
+  "dateOfDeath": "2002-03-24",
+  "placeOfBirth": "New York City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

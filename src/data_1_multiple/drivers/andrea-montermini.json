@@ -1,0 +1,22 @@
+{
+  "id": "andrea-montermini",
+  "name": "Andrea Montermini",
+  "firstName": "Andrea",
+  "lastName": "Montermini",
+  "fullName": "Andrea Montermini",
+  "abbreviation": "MON",
+  "gender": "MALE",
+  "dateOfBirth": "1964-05-30",
+  "placeOfBirth": "Sassuolo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 28,
+  "totalRaceStarts": 20,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

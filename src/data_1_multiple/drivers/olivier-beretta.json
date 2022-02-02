@@ -1,0 +1,22 @@
+{
+  "id": "olivier-beretta",
+  "name": "Olivier Beretta",
+  "firstName": "Olivier",
+  "lastName": "Beretta",
+  "fullName": "Olivier Beretta",
+  "abbreviation": "BER",
+  "gender": "MALE",
+  "dateOfBirth": "1969-11-23",
+  "placeOfBirth": "Monte Carlo",
+  "countryOfBirthCountryId": "monaco",
+  "nationalityCountryId": "monaco",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

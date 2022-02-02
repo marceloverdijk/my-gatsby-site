@@ -1,0 +1,22 @@
+{
+  "id": "jackie-lewis",
+  "name": "Jackie Lewis",
+  "firstName": "Jackie",
+  "lastName": "Lewis",
+  "fullName": "Jackie Lewis",
+  "abbreviation": "LEW",
+  "gender": "MALE",
+  "dateOfBirth": "1936-11-01",
+  "placeOfBirth": "Stroud",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "peter-whitehead",
+  "name": "Peter Whitehead",
+  "firstName": "Peter",
+  "lastName": "Whitehead",
+  "fullName": "Peter Nield Whitehead",
+  "abbreviation": "WHI",
+  "gender": "MALE",
+  "dateOfBirth": "1914-11-12",
+  "dateOfDeath": "1958-09-21",
+  "placeOfBirth": "Menston",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

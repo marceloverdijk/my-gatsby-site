@@ -1,0 +1,16 @@
+{
+  "id": 1054,
+  "year": 2021,
+  "round": 19,
+  "date": "2021-10-31",
+  "grandPrixId": "mexico",
+  "officialName": "Formula 1 Gran Premio de la Ciudad de México 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "mexico-city",
+  "circuitType": "RACE",
+  "courseLength": 4.304,
+  "laps": 71,
+  "distance": 305.354,
+  "scheduledLaps": 71,
+  "scheduledDistance": 305.354
+}

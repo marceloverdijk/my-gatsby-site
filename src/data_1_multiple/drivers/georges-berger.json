@@ -1,0 +1,23 @@
+{
+  "id": "georges-berger",
+  "name": "Georges Berger",
+  "firstName": "Georges",
+  "lastName": "Berger",
+  "fullName": "Georges Berger",
+  "abbreviation": "BER",
+  "gender": "MALE",
+  "dateOfBirth": "1918-09-14",
+  "dateOfDeath": "1967-08-23",
+  "placeOfBirth": "Sint-Jans-Molenbeek",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

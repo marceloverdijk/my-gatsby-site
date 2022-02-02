@@ -1,0 +1,23 @@
+{
+  "id": "emmanuel-de-graffenried",
+  "name": "Emmanuel de Graffenried",
+  "firstName": "Emmanuel",
+  "lastName": "De Graffenried",
+  "fullName": "Emmanuel de Graffenried",
+  "abbreviation": "DEG",
+  "gender": "MALE",
+  "dateOfBirth": "1914-05-18",
+  "dateOfDeath": "2007-01-22",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 23,
+  "totalRaceStarts": 22,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 9,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

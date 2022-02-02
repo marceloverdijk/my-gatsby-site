@@ -1,0 +1,22 @@
+{
+  "id": "mika-hakkinen",
+  "name": "Mika Häkkinen",
+  "firstName": "Mika",
+  "lastName": "Häkkinen",
+  "fullName": "Mika Pauli Häkkinen",
+  "abbreviation": "HAK",
+  "gender": "MALE",
+  "dateOfBirth": "1968-09-28",
+  "placeOfBirth": "Vantaa",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 2,
+  "totalRaceEntries": 165,
+  "totalRaceStarts": 161,
+  "totalRaceWins": 20,
+  "totalPolePositions": 26,
+  "totalPodiums": 51,
+  "totalPoints": 420,
+  "totalFastestLaps": 25,
+  "totalDriverOfTheDay": 0
+}

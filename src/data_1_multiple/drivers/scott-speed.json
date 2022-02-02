@@ -1,0 +1,22 @@
+{
+  "id": "scott-speed",
+  "name": "Scott Speed",
+  "firstName": "Scott",
+  "lastName": "Speed",
+  "fullName": "Scott Andrew Speed",
+  "abbreviation": "SPE",
+  "gender": "MALE",
+  "dateOfBirth": "1983-01-24",
+  "placeOfBirth": "Manteca",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 28,
+  "totalRaceStarts": 28,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

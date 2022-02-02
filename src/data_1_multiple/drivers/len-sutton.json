@@ -1,0 +1,23 @@
+{
+  "id": "len-sutton",
+  "name": "Len Sutton",
+  "firstName": "Len",
+  "lastName": "Sutton",
+  "fullName": "Len Sutton",
+  "abbreviation": "SUT",
+  "gender": "MALE",
+  "dateOfBirth": "1925-08-09",
+  "dateOfDeath": "2006-12-03",
+  "placeOfBirth": "Portland",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "carl-forberg",
+  "name": "Carl Forberg",
+  "firstName": "Carl",
+  "lastName": "Forberg",
+  "fullName": "Carl Forberg",
+  "abbreviation": "FOR",
+  "gender": "MALE",
+  "dateOfBirth": "1911-03-04",
+  "dateOfDeath": "2000-01-17",
+  "placeOfBirth": "Omaha",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

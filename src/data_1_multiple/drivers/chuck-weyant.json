@@ -1,0 +1,23 @@
+{
+  "id": "chuck-weyant",
+  "name": "Chuck Weyant",
+  "firstName": "Chuck",
+  "lastName": "Weyant",
+  "fullName": "Chuck Weyant",
+  "abbreviation": "WEY",
+  "gender": "MALE",
+  "dateOfBirth": "1923-04-03",
+  "dateOfDeath": "2017-01-24",
+  "placeOfBirth": "St. Mary's",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

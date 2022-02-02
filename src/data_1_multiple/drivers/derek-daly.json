@@ -1,0 +1,22 @@
+{
+  "id": "derek-daly",
+  "name": "Derek Daly",
+  "firstName": "Derek",
+  "lastName": "Daly",
+  "fullName": "Derek Daly",
+  "abbreviation": "DAL",
+  "gender": "MALE",
+  "dateOfBirth": "1953-03-11",
+  "placeOfBirth": "Ballinteer",
+  "countryOfBirthCountryId": "ireland",
+  "nationalityCountryId": "ireland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 64,
+  "totalRaceStarts": 49,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 15,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

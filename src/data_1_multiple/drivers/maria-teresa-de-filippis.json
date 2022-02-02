@@ -1,0 +1,23 @@
+{
+  "id": "maria-teresa-de-filippis",
+  "name": "Maria Teresa de Filippis",
+  "firstName": "Maria Teresa",
+  "lastName": "De Filippis",
+  "fullName": "Maria Teresa de Filippis",
+  "abbreviation": "DEF",
+  "gender": "FEMALE",
+  "dateOfBirth": "1926-11-11",
+  "dateOfDeath": "2016-01-08",
+  "placeOfBirth": "Naples",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

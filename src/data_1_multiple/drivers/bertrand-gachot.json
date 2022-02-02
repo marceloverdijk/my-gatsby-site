@@ -1,0 +1,22 @@
+{
+  "id": "bertrand-gachot",
+  "name": "Bertrand Gachot",
+  "firstName": "Bertrand",
+  "lastName": "Gachot",
+  "fullName": "Bertrand Gachot",
+  "abbreviation": "GAC",
+  "gender": "MALE",
+  "dateOfBirth": "1962-12-23",
+  "placeOfBirth": "Luxembourg",
+  "countryOfBirthCountryId": "luxembourg",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 84,
+  "totalRaceStarts": 47,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

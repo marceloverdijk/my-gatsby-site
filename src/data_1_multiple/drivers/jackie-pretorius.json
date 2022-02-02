@@ -1,0 +1,23 @@
+{
+  "id": "jackie-pretorius",
+  "name": "Jackie Pretorius",
+  "firstName": "Jackie",
+  "lastName": "Pretorius",
+  "fullName": "Jacobus Pretorius",
+  "abbreviation": "PRE",
+  "gender": "MALE",
+  "dateOfBirth": "1934-11-22",
+  "dateOfDeath": "2009-03-30",
+  "placeOfBirth": "Potchefstroom",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jean-denis-deletraz",
+  "name": "Jean-Denis Délétraz",
+  "firstName": "Jean-Denis",
+  "lastName": "Délétraz",
+  "fullName": "Jean-Denis Délétraz",
+  "abbreviation": "DEL",
+  "gender": "MALE",
+  "dateOfBirth": "1963-10-01",
+  "placeOfBirth": "Geneva",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

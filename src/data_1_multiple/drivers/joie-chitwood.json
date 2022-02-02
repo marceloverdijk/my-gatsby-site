@@ -1,0 +1,23 @@
+{
+  "id": "joie-chitwood",
+  "name": "Joie Chitwood",
+  "firstName": "Joie",
+  "lastName": "Chitwood",
+  "fullName": "George Rice Chitwood",
+  "abbreviation": "CHI",
+  "gender": "MALE",
+  "dateOfBirth": "1912-04-14",
+  "dateOfDeath": "1988-01-03",
+  "placeOfBirth": "Denison",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

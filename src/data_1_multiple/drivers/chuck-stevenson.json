@@ -1,0 +1,23 @@
+{
+  "id": "chuck-stevenson",
+  "name": "Chuck Stevenson",
+  "firstName": "Chuck",
+  "lastName": "Stevenson",
+  "fullName": "Charles Stevenson",
+  "abbreviation": "STE",
+  "gender": "MALE",
+  "dateOfBirth": "1919-10-15",
+  "dateOfDeath": "1995-08-21",
+  "placeOfBirth": "Sidney",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

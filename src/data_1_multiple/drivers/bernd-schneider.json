@@ -1,0 +1,22 @@
+{
+  "id": "bernd-schneider",
+  "name": "Bernd Schneider",
+  "firstName": "Bernd",
+  "lastName": "Schneider",
+  "fullName": "Bernd Schneider",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1964-07-20",
+  "placeOfBirth": "St. Ingbert",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 34,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

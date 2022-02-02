@@ -1,0 +1,12 @@
+{
+  "id": "renault",
+  "name": "Renault",
+  "countryId": "france",
+  "totalChampionships": 12,
+  "totalRaceEntries": 661,
+  "totalRaceStarts": 658,
+  "totalRaceWins": 168,
+  "totalPolePositions": 213,
+  "totalPodiums": 318,
+  "totalFastestLaps": 176
+}

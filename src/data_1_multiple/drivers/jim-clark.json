@@ -1,0 +1,23 @@
+{
+  "id": "jim-clark",
+  "name": "Jim Clark",
+  "firstName": "Jim",
+  "lastName": "Clark",
+  "fullName": "James Clark, Jr.",
+  "abbreviation": "CLA",
+  "gender": "MALE",
+  "dateOfBirth": "1936-03-04",
+  "dateOfDeath": "1968-04-07",
+  "placeOfBirth": "Kilmany",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 2,
+  "totalRaceEntries": 73,
+  "totalRaceStarts": 72,
+  "totalRaceWins": 25,
+  "totalPolePositions": 33,
+  "totalPodiums": 32,
+  "totalPoints": 274,
+  "totalFastestLaps": 29,
+  "totalDriverOfTheDay": 0
+}

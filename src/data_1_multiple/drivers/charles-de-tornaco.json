@@ -1,0 +1,23 @@
+{
+  "id": "charles-de-tornaco",
+  "name": "Charles de Tornaco",
+  "firstName": "Charles",
+  "lastName": "De Tornaco",
+  "fullName": "Charles de Tornaco",
+  "abbreviation": "DET",
+  "gender": "MALE",
+  "dateOfBirth": "1927-06-07",
+  "dateOfDeath": "1953-09-18",
+  "placeOfBirth": "Brussels",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

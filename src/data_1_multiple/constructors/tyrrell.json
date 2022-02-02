@@ -1,0 +1,15 @@
+{
+  "id": "tyrrell",
+  "name": "Tyrrell",
+  "fullName": "Tyrrell Racing",
+  "countryId": "united-kingdom",
+  "totalChampionships": 1,
+  "totalRaceEntries": 433,
+  "totalRaceStarts": 431,
+  "totalRaceWins": 23,
+  "totalPolePositions": 14,
+  "totalPodiums": 66,
+  "totalPoints": 711,
+  "totalDriverPoints": 711,
+  "totalFastestLaps": 20
+}

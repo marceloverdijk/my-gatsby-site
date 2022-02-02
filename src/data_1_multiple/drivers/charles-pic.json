@@ -1,0 +1,22 @@
+{
+  "id": "charles-pic",
+  "name": "Charles Pic",
+  "firstName": "Charles",
+  "lastName": "Pic",
+  "fullName": "Charles Pic",
+  "abbreviation": "PIC",
+  "gender": "MALE",
+  "dateOfBirth": "1990-02-15",
+  "placeOfBirth": "Montélimar",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 39,
+  "totalRaceStarts": 39,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

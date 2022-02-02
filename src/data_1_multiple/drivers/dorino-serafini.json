@@ -1,0 +1,23 @@
+{
+  "id": "dorino-serafini",
+  "name": "Dorino Serafini",
+  "firstName": "Dorino",
+  "lastName": "Serafini",
+  "fullName": "Teodoro Serafini",
+  "abbreviation": "SER",
+  "gender": "MALE",
+  "dateOfBirth": "1909-07-22",
+  "dateOfDeath": "2000-07-05",
+  "placeOfBirth": "Pesaro",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

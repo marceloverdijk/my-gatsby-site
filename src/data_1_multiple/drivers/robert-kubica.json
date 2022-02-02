@@ -1,0 +1,23 @@
+{
+  "id": "robert-kubica",
+  "name": "Robert Kubica",
+  "firstName": "Robert",
+  "lastName": "Kubica",
+  "fullName": "Robert Józef Kubica",
+  "abbreviation": "KUB",
+  "permanentNumber": "88",
+  "gender": "MALE",
+  "dateOfBirth": "1984-12-07",
+  "placeOfBirth": "Kraków",
+  "countryOfBirthCountryId": "poland",
+  "nationalityCountryId": "poland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 97,
+  "totalRaceStarts": 97,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 12,
+  "totalPoints": 274,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

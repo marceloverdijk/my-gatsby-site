@@ -1,0 +1,23 @@
+{
+  "id": "ettore-chimeri",
+  "name": "Ettore Chimeri",
+  "firstName": "Ettore",
+  "lastName": "Chimeri",
+  "fullName": "Ettore Muro Chimeri",
+  "abbreviation": "CHI",
+  "gender": "MALE",
+  "dateOfBirth": "1921-06-04",
+  "dateOfDeath": "1960-02-27",
+  "placeOfBirth": "Lodi",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "venezuela",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

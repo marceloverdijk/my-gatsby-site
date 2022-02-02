@@ -1,0 +1,23 @@
+{
+  "id": "gino-bianco",
+  "name": "Gino Bianco",
+  "firstName": "Gino",
+  "lastName": "Bianco",
+  "fullName": "Luigi Emilio Rodolfo Bertetti Bianco",
+  "abbreviation": "BIA",
+  "gender": "MALE",
+  "dateOfBirth": "1916-07-22",
+  "dateOfDeath": "1984-05-08",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

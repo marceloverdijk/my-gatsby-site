@@ -1,0 +1,23 @@
+{
+  "id": "david-purley",
+  "name": "David Purley",
+  "firstName": "David",
+  "lastName": "Purley",
+  "fullName": "David Charles Purley",
+  "abbreviation": "PUR",
+  "gender": "MALE",
+  "dateOfBirth": "1945-01-26",
+  "dateOfDeath": "1985-07-02",
+  "placeOfBirth": "Bognor Regis",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

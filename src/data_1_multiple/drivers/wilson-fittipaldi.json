@@ -1,0 +1,22 @@
+{
+  "id": "wilson-fittipaldi",
+  "name": "Wilson Fittipaldi",
+  "firstName": "Wilson",
+  "lastName": "Fittipaldi",
+  "fullName": "Wilson Fittipaldi Júnior",
+  "abbreviation": "FIT",
+  "gender": "MALE",
+  "dateOfBirth": "1943-12-25",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 38,
+  "totalRaceStarts": 35,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

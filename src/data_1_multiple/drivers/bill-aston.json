@@ -1,0 +1,23 @@
+{
+  "id": "bill-aston",
+  "name": "Bill Aston",
+  "firstName": "Bill",
+  "lastName": "Aston",
+  "fullName": "William Aston",
+  "abbreviation": "AST",
+  "gender": "MALE",
+  "dateOfBirth": "1900-03-29",
+  "dateOfDeath": "1974-03-04",
+  "placeOfBirth": "Hopton",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

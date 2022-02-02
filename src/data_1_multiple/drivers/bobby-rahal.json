@@ -1,0 +1,22 @@
+{
+  "id": "bobby-rahal",
+  "name": "Bobby Rahal",
+  "firstName": "Bobby",
+  "lastName": "Rahal",
+  "fullName": "Robert Woodward Rahal",
+  "abbreviation": "RAH",
+  "gender": "MALE",
+  "dateOfBirth": "1953-01-10",
+  "placeOfBirth": "Medina",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

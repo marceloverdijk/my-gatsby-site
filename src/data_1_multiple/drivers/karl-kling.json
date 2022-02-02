@@ -1,0 +1,23 @@
+{
+  "id": "karl-kling",
+  "name": "Karl Kling",
+  "firstName": "Karl",
+  "lastName": "Kling",
+  "fullName": "Karl Kling",
+  "abbreviation": "KLI",
+  "gender": "MALE",
+  "dateOfBirth": "1910-09-16",
+  "dateOfDeath": "2003-03-18",
+  "placeOfBirth": "Giessen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 17,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

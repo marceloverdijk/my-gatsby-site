@@ -1,0 +1,23 @@
+{
+  "id": "chet-miller",
+  "name": "Chet Miller",
+  "firstName": "Chet",
+  "lastName": "Miller",
+  "fullName": "Chet Miller",
+  "abbreviation": "MIL",
+  "gender": "MALE",
+  "dateOfBirth": "1902-07-19",
+  "dateOfDeath": "1953-05-15",
+  "placeOfBirth": "Detroit",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

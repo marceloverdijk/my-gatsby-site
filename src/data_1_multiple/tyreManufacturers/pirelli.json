@@ -1,0 +1,11 @@
+{
+  "id": "pirelli",
+  "name": "Pirelli",
+  "countryId": "italy",
+  "totalRaceEntries": 402,
+  "totalRaceStarts": 397,
+  "totalRaceWins": 241,
+  "totalPolePositions": 244,
+  "totalPodiums": 267,
+  "totalFastestLaps": 263
+}

@@ -1,0 +1,23 @@
+{
+  "id": "roberto-bussinello",
+  "name": "Roberto Bussinello",
+  "firstName": "Roberto",
+  "lastName": "Bussinello",
+  "fullName": "Roberto Bussinello",
+  "abbreviation": "BUS",
+  "gender": "MALE",
+  "dateOfBirth": "1927-10-04",
+  "dateOfDeath": "1999-08-24",
+  "placeOfBirth": "Pistoia",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

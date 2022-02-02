@@ -1,0 +1,16 @@
+{
+  "id": "renault",
+  "name": "Renault",
+  "fullName": "Renault Sport Formula One Team",
+  "previousConstructorId": "lotus-f1",
+  "countryId": "france",
+  "totalChampionships": 2,
+  "totalRaceEntries": 403,
+  "totalRaceStarts": 400,
+  "totalRaceWins": 35,
+  "totalPolePositions": 51,
+  "totalPodiums": 91,
+  "totalPoints": 1777,
+  "totalDriverPoints": 1777,
+  "totalFastestLaps": 33
+}

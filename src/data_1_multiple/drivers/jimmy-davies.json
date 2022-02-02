@@ -1,0 +1,23 @@
+{
+  "id": "jimmy-davies",
+  "name": "Jimmy Davies",
+  "firstName": "Jimmy",
+  "lastName": "Davies",
+  "fullName": "James Richard Davies",
+  "abbreviation": "DAV",
+  "gender": "MALE",
+  "dateOfBirth": "1929-08-08",
+  "dateOfDeath": "1966-06-11",
+  "placeOfBirth": "Glendale",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

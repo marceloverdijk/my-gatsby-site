@@ -1,0 +1,22 @@
+{
+  "id": "gianmaria-bruni",
+  "name": "Gianmaria Bruni",
+  "firstName": "Gianmaria",
+  "lastName": "Bruni",
+  "fullName": "Gianmaria Bruni",
+  "abbreviation": "BRU",
+  "gender": "MALE",
+  "dateOfBirth": "1981-05-30",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

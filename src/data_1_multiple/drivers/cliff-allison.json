@@ -1,0 +1,23 @@
+{
+  "id": "cliff-allison",
+  "name": "Cliff Allison",
+  "firstName": "Cliff",
+  "lastName": "Allison",
+  "fullName": "Henry Clifford Allison",
+  "abbreviation": "ALL",
+  "gender": "MALE",
+  "dateOfBirth": "1932-02-08",
+  "dateOfDeath": "2005-04-07",
+  "placeOfBirth": "Brough",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 16,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 11,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

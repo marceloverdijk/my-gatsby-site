@@ -1,0 +1,22 @@
+{
+  "id": "eddie-cheever",
+  "name": "Eddie Cheever",
+  "firstName": "Eddie",
+  "lastName": "Cheever",
+  "fullName": "Edward McKay Cheever Jr.",
+  "abbreviation": "CHE",
+  "gender": "MALE",
+  "dateOfBirth": "1958-01-10",
+  "placeOfBirth": "Phoenix",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 143,
+  "totalRaceStarts": 132,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 9,
+  "totalPoints": 70,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

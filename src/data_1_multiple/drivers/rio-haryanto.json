@@ -1,0 +1,22 @@
+{
+  "id": "rio-haryanto",
+  "name": "Rio Haryanto",
+  "firstName": "Rio",
+  "lastName": "Haryanto",
+  "fullName": "Rio Haryanto",
+  "abbreviation": "HAR",
+  "gender": "MALE",
+  "dateOfBirth": "1993-01-22",
+  "placeOfBirth": "Surakarta",
+  "countryOfBirthCountryId": "indonesia",
+  "nationalityCountryId": "indonesia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

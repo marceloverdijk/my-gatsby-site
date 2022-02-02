@@ -1,0 +1,23 @@
+{
+  "id": "fernando-alonso",
+  "name": "Fernando Alonso",
+  "firstName": "Fernando",
+  "lastName": "Alonso",
+  "fullName": "Fernando Alonso Díaz",
+  "abbreviation": "ALO",
+  "permanentNumber": "14",
+  "gender": "MALE",
+  "dateOfBirth": "1981-07-29",
+  "placeOfBirth": "Oviedo",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 2,
+  "totalRaceEntries": 315,
+  "totalRaceStarts": 313,
+  "totalRaceWins": 32,
+  "totalPolePositions": 22,
+  "totalPodiums": 97,
+  "totalPoints": 1899,
+  "totalFastestLaps": 23,
+  "totalDriverOfTheDay": 2
+}

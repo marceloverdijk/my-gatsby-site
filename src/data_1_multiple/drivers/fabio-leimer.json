@@ -1,0 +1,22 @@
+{
+  "id": "fabio-leimer",
+  "name": "Fabio Leimer",
+  "firstName": "Fabio",
+  "lastName": "Leimer",
+  "fullName": "Fabio Leimer",
+  "abbreviation": "LEI",
+  "gender": "MALE",
+  "dateOfBirth": "1989-04-17",
+  "placeOfBirth": "Rothrist",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "paul-belmondo",
+  "name": "Paul Belmondo",
+  "firstName": "Paul",
+  "lastName": "Belmondo",
+  "fullName": "Paul Alexandre Belmondo",
+  "abbreviation": "BEL",
+  "gender": "MALE",
+  "dateOfBirth": "1963-04-23",
+  "placeOfBirth": "Boulogne-Billancourt",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 27,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

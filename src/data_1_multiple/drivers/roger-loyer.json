@@ -1,0 +1,23 @@
+{
+  "id": "roger-loyer",
+  "name": "Roger Loyer",
+  "firstName": "Roger",
+  "lastName": "Loyer",
+  "fullName": "Roger Loyer",
+  "abbreviation": "LOY",
+  "gender": "MALE",
+  "dateOfBirth": "1907-08-05",
+  "dateOfDeath": "1988-03-24",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

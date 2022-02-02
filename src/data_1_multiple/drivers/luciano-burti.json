@@ -1,0 +1,22 @@
+{
+  "id": "luciano-burti",
+  "name": "Luciano Burti",
+  "firstName": "Luciano",
+  "lastName": "Burti",
+  "fullName": "Luciano Pucci Burti",
+  "abbreviation": "BUR",
+  "gender": "MALE",
+  "dateOfBirth": "1975-03-05",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 15,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

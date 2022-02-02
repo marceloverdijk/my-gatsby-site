@@ -1,0 +1,11 @@
+{
+  "id": "michelin",
+  "name": "Michelin",
+  "countryId": "france",
+  "totalRaceEntries": 217,
+  "totalRaceStarts": 215,
+  "totalRaceWins": 102,
+  "totalPolePositions": 111,
+  "totalPodiums": 179,
+  "totalFastestLaps": 108
+}

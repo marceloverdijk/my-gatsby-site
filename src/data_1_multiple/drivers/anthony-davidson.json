@@ -1,0 +1,22 @@
+{
+  "id": "anthony-davidson",
+  "name": "Anthony Davidson",
+  "firstName": "Anthony",
+  "lastName": "Davidson",
+  "fullName": "Anthony Denis Davidson",
+  "abbreviation": "DAV",
+  "gender": "MALE",
+  "dateOfBirth": "1979-04-18",
+  "placeOfBirth": "Hemel Hempstead",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 24,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

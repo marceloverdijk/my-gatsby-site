@@ -1,0 +1,22 @@
+{
+  "id": "alberto-colombo",
+  "name": "Alberto Colombo",
+  "firstName": "Alberto",
+  "lastName": "Colombo",
+  "fullName": "Alberto Colombo",
+  "abbreviation": "COL",
+  "gender": "MALE",
+  "dateOfBirth": "1946-02-23",
+  "placeOfBirth": "Varedo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

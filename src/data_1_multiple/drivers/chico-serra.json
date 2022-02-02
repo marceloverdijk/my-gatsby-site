@@ -1,0 +1,22 @@
+{
+  "id": "chico-serra",
+  "name": "Chico Serra",
+  "firstName": "Chico",
+  "lastName": "Serra",
+  "fullName": "Francisco Serra",
+  "abbreviation": "SER",
+  "gender": "MALE",
+  "dateOfBirth": "1957-02-03",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 33,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

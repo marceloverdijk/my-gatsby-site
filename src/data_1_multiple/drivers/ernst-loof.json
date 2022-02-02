@@ -1,0 +1,23 @@
+{
+  "id": "ernst-loof",
+  "name": "Ernst Loof",
+  "firstName": "Ernst",
+  "lastName": "Loof",
+  "fullName": "Ernst Loof",
+  "abbreviation": "LOO",
+  "gender": "MALE",
+  "dateOfBirth": "1907-07-04",
+  "dateOfDeath": "1956-03-03",
+  "placeOfBirth": "Neindorf",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

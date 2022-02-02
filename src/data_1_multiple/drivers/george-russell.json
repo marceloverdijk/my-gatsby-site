@@ -1,0 +1,23 @@
+{
+  "id": "george-russell",
+  "name": "George Russell",
+  "firstName": "George",
+  "lastName": "Russell",
+  "fullName": "George Russell",
+  "abbreviation": "RUS",
+  "permanentNumber": "63",
+  "gender": "MALE",
+  "dateOfBirth": "1998-02-15",
+  "placeOfBirth": "King's Lynn",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 39,
+  "totalRaceStarts": 39,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 1
+}

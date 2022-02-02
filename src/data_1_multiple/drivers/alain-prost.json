@@ -1,0 +1,22 @@
+{
+  "id": "alain-prost",
+  "name": "Alain Prost",
+  "firstName": "Alain",
+  "lastName": "Prost",
+  "fullName": "Alain Marie Pascal Prost",
+  "abbreviation": "PRO",
+  "gender": "MALE",
+  "dateOfBirth": "1955-02-24",
+  "placeOfBirth": "Lorette",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 4,
+  "totalRaceEntries": 202,
+  "totalRaceStarts": 199,
+  "totalRaceWins": 51,
+  "totalPolePositions": 33,
+  "totalPodiums": 106,
+  "totalPoints": 798.5,
+  "totalFastestLaps": 41,
+  "totalDriverOfTheDay": 0
+}

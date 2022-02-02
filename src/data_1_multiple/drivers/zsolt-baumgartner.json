@@ -1,0 +1,22 @@
+{
+  "id": "zsolt-baumgartner",
+  "name": "Zsolt Baumgartner",
+  "firstName": "Zsolt",
+  "lastName": "Baumgartner",
+  "fullName": "Zsolt Baumgartner",
+  "abbreviation": "BAU",
+  "gender": "MALE",
+  "dateOfBirth": "1981-01-01",
+  "placeOfBirth": "Debrecen",
+  "countryOfBirthCountryId": "hungary",
+  "nationalityCountryId": "hungary",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 20,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

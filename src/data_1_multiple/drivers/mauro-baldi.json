@@ -1,0 +1,22 @@
+{
+  "id": "mauro-baldi",
+  "name": "Mauro Baldi",
+  "firstName": "Mauro",
+  "lastName": "Baldi",
+  "fullName": "Mauro Baldi",
+  "abbreviation": "BAL",
+  "gender": "MALE",
+  "dateOfBirth": "1954-01-31",
+  "placeOfBirth": "Reggio Emilia",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 41,
+  "totalRaceStarts": 36,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

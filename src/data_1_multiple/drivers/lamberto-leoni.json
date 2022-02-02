@@ -1,0 +1,22 @@
+{
+  "id": "lamberto-leoni",
+  "name": "Lamberto Leoni",
+  "firstName": "Lamberto",
+  "lastName": "Leoni",
+  "fullName": "Lamberto Leoni",
+  "abbreviation": "LEO",
+  "gender": "MALE",
+  "dateOfBirth": "1953-05-24",
+  "placeOfBirth": "Argenta",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

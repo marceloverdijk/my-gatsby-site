@@ -1,0 +1,22 @@
+{
+  "id": "emanuele-naspetti",
+  "name": "Emanuele Naspetti",
+  "firstName": "Emanuele",
+  "lastName": "Naspetti",
+  "fullName": "Emanuele Naspetti",
+  "abbreviation": "NAS",
+  "gender": "MALE",
+  "dateOfBirth": "1968-02-24",
+  "placeOfBirth": "Ancona",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 6,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

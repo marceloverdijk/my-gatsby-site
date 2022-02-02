@@ -1,0 +1,22 @@
+{
+  "id": "eric-bernard",
+  "name": "Éric Bernard",
+  "firstName": "Éric",
+  "lastName": "Bernard",
+  "fullName": "Éric Bernard",
+  "abbreviation": "BER",
+  "gender": "MALE",
+  "dateOfBirth": "1964-08-24",
+  "placeOfBirth": "Martigues",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 47,
+  "totalRaceStarts": 45,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 10,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

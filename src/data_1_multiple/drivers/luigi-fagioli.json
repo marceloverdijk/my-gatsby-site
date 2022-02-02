@@ -1,0 +1,23 @@
+{
+  "id": "luigi-fagioli",
+  "name": "Luigi Fagioli",
+  "firstName": "Luigi",
+  "lastName": "Fagioli",
+  "fullName": "Luigi Cristiano Fagioli",
+  "abbreviation": "FAG",
+  "gender": "MALE",
+  "dateOfBirth": "1898-06-09",
+  "dateOfDeath": "1952-06-20",
+  "placeOfBirth": "Osimo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 6,
+  "totalPoints": 32,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

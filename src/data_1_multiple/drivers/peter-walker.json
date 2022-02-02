@@ -1,0 +1,23 @@
+{
+  "id": "peter-walker",
+  "name": "Peter Walker",
+  "firstName": "Peter",
+  "lastName": "Walker",
+  "fullName": "Peter Douglas Conyers Walker",
+  "abbreviation": "WAL",
+  "gender": "MALE",
+  "dateOfBirth": "1912-10-07",
+  "dateOfDeath": "1984-03-01",
+  "placeOfBirth": "Huby",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

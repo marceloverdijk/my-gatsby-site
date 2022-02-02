@@ -1,0 +1,23 @@
+{
+  "id": "jean-lucienbonnet",
+  "name": "Jean Lucienbonnet",
+  "firstName": "Jean",
+  "lastName": "Lucienbonnet",
+  "fullName": "Lucien Jean Bonnet",
+  "abbreviation": "LUC",
+  "gender": "MALE",
+  "dateOfBirth": "1923-01-07",
+  "dateOfDeath": "1962-08-19",
+  "placeOfBirth": "Nice",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

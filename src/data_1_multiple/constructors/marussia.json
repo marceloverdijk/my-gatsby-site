@@ -1,0 +1,16 @@
+{
+  "id": "marussia",
+  "name": "Marussia",
+  "fullName": "Marussia F1 Team",
+  "previousConstructorId": "virgin",
+  "countryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 74,
+  "totalRaceStarts": 73,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalDriverPoints": 2,
+  "totalFastestLaps": 0
+}

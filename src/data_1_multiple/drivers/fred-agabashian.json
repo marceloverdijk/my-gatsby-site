@@ -1,0 +1,23 @@
+{
+  "id": "fred-agabashian",
+  "name": "Fred Agabashian",
+  "firstName": "Fred",
+  "lastName": "Agabashian",
+  "fullName": "Levon Agabashian",
+  "abbreviation": "AGA",
+  "gender": "MALE",
+  "dateOfBirth": "1913-08-21",
+  "dateOfDeath": "1989-10-13",
+  "placeOfBirth": "Modesto",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 0,
+  "totalPoints": 1.5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

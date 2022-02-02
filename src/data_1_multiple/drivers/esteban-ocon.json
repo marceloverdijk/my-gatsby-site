@@ -1,0 +1,23 @@
+{
+  "id": "esteban-ocon",
+  "name": "Esteban Ocon",
+  "firstName": "Esteban",
+  "lastName": "Ocon",
+  "fullName": "Esteban Ocon",
+  "abbreviation": "OCO",
+  "permanentNumber": "31",
+  "gender": "MALE",
+  "dateOfBirth": "1996-09-17",
+  "placeOfBirth": "Évreux",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 68,
+  "totalRaceStarts": 68,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 198,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

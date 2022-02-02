@@ -1,0 +1,23 @@
+{
+  "id": "jimmy-daywalt",
+  "name": "Jimmy Daywalt",
+  "firstName": "Jimmy",
+  "lastName": "Daywalt",
+  "fullName": "Jimmy Daywalt",
+  "abbreviation": "DAY",
+  "gender": "MALE",
+  "dateOfBirth": "1924-08-28",
+  "dateOfDeath": "1966-04-04",
+  "placeOfBirth": "Wabash",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 6,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

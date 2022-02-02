@@ -1,0 +1,23 @@
+{
+  "id": "herbert-mackay-fraser",
+  "name": "Herbert MacKay-Fraser",
+  "firstName": "Herbert",
+  "lastName": "MacKay-Fraser",
+  "fullName": "Herbert MacKay-Fraser",
+  "abbreviation": "MAC",
+  "gender": "MALE",
+  "dateOfBirth": "1927-06-23",
+  "dateOfDeath": "1957-07-14",
+  "placeOfBirth": "Recife",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

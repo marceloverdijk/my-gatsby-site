@@ -1,0 +1,23 @@
+{
+  "id": "john-surtees",
+  "name": "John Surtees",
+  "firstName": "John",
+  "lastName": "Surtees",
+  "fullName": "John Surtees",
+  "abbreviation": "SUR",
+  "gender": "MALE",
+  "dateOfBirth": "1934-02-11",
+  "dateOfDeath": "2017-03-10",
+  "placeOfBirth": "Tatsfield",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 1,
+  "totalRaceEntries": 113,
+  "totalRaceStarts": 111,
+  "totalRaceWins": 6,
+  "totalPolePositions": 8,
+  "totalPodiums": 24,
+  "totalPoints": 180,
+  "totalFastestLaps": 11,
+  "totalDriverOfTheDay": 0
+}

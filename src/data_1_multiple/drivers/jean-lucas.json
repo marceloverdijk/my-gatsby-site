@@ -1,0 +1,23 @@
+{
+  "id": "jean-lucas",
+  "name": "Jean Lucas",
+  "firstName": "Jean",
+  "lastName": "Lucas",
+  "fullName": "Jean Lucas",
+  "abbreviation": "LUC",
+  "gender": "MALE",
+  "dateOfBirth": "1917-04-25",
+  "dateOfDeath": "2003-09-27",
+  "placeOfBirth": "Le Mans",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

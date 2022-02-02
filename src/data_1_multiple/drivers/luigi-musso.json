@@ -1,0 +1,23 @@
+{
+  "id": "luigi-musso",
+  "name": "Luigi Musso",
+  "firstName": "Luigi",
+  "lastName": "Musso",
+  "fullName": "Luigi Musso",
+  "abbreviation": "MUS",
+  "gender": "MALE",
+  "dateOfBirth": "1924-07-28",
+  "dateOfDeath": "1958-07-06",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 25,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 7,
+  "totalPoints": 44,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

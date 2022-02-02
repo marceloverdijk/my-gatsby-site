@@ -1,0 +1,22 @@
+{
+  "id": "bas-leinders",
+  "name": "Bas Leinders",
+  "firstName": "Bas",
+  "lastName": "Leinders",
+  "fullName": "Bas Leinders",
+  "abbreviation": "LEI",
+  "gender": "MALE",
+  "dateOfBirth": "1975-07-16",
+  "placeOfBirth": "Bree",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

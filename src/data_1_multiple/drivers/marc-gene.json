@@ -1,0 +1,22 @@
+{
+  "id": "marc-gene",
+  "name": "Marc Gené",
+  "firstName": "Marc",
+  "lastName": "Gené",
+  "fullName": "Marc Gené i Guerrero",
+  "abbreviation": "GEN",
+  "gender": "MALE",
+  "dateOfBirth": "1974-03-29",
+  "placeOfBirth": "Sabadell",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 36,
+  "totalRaceStarts": 36,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

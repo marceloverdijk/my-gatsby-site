@@ -1,0 +1,23 @@
+{
+  "id": "andre-simon",
+  "name": "André Simon",
+  "firstName": "André",
+  "lastName": "Simon",
+  "fullName": "André Simon",
+  "abbreviation": "SIM",
+  "gender": "MALE",
+  "dateOfBirth": "1920-01-05",
+  "dateOfDeath": "2012-07-11",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hiroshi-fushida",
+  "name": "Hiroshi Fushida",
+  "firstName": "Hiroshi",
+  "lastName": "Fushida",
+  "fullName": "Hiroshi Fushida",
+  "abbreviation": "FUS",
+  "gender": "MALE",
+  "dateOfBirth": "1946-03-10",
+  "placeOfBirth": "Kyoto",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "david-walker",
+  "name": "David Walker",
+  "firstName": "David",
+  "lastName": "Walker",
+  "fullName": "David Walker",
+  "abbreviation": "WAL",
+  "gender": "MALE",
+  "dateOfBirth": "1941-06-10",
+  "placeOfBirth": "Sydney",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

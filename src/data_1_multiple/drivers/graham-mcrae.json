@@ -1,0 +1,22 @@
+{
+  "id": "graham-mcrae",
+  "name": "Graham McRae",
+  "firstName": "Graham",
+  "lastName": "McRae",
+  "fullName": "Graham McRae",
+  "abbreviation": "MCR",
+  "gender": "MALE",
+  "dateOfBirth": "1940-03-05",
+  "placeOfBirth": "Wellington",
+  "countryOfBirthCountryId": "new-zealand",
+  "nationalityCountryId": "new-zealand",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

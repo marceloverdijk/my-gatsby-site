@@ -1,0 +1,23 @@
+{
+  "id": "olivier-gendebien",
+  "name": "Olivier Gendebien",
+  "firstName": "Olivier",
+  "lastName": "Gendebien",
+  "fullName": "Olivier Gendebien",
+  "abbreviation": "GEN",
+  "gender": "MALE",
+  "dateOfBirth": "1924-01-12",
+  "dateOfDeath": "1998-10-02",
+  "placeOfBirth": "Brussels",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 14,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 18,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

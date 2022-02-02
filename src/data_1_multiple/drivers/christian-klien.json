@@ -1,0 +1,22 @@
+{
+  "id": "christian-klien",
+  "name": "Christian Klien",
+  "firstName": "Christian",
+  "lastName": "Klien",
+  "fullName": "Christian Klien",
+  "abbreviation": "KLI",
+  "gender": "MALE",
+  "dateOfBirth": "1983-02-07",
+  "placeOfBirth": "Hohenems",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 51,
+  "totalRaceStarts": 49,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 14,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "michael-may",
+  "name": "Michael May",
+  "firstName": "Michael",
+  "lastName": "May",
+  "fullName": "Michael May",
+  "abbreviation": "MAY",
+  "gender": "MALE",
+  "dateOfBirth": "1934-08-18",
+  "placeOfBirth": "Stuttgart",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

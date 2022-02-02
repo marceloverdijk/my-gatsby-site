@@ -1,0 +1,22 @@
+{
+  "id": "nick-heidfeld",
+  "name": "Nick Heidfeld",
+  "firstName": "Nick",
+  "lastName": "Heidfeld",
+  "fullName": "Nick Lars Heidfeld",
+  "abbreviation": "HEI",
+  "gender": "MALE",
+  "dateOfBirth": "1977-05-10",
+  "placeOfBirth": "Mönchengladbach",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 185,
+  "totalRaceStarts": 183,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 13,
+  "totalPoints": 259,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bar",
+  "name": "BAR",
+  "fullName": "British American Racing",
+  "previousConstructorId": "tyrrell",
+  "countryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 118,
+  "totalRaceStarts": 117,
+  "totalRaceWins": 0,
+  "totalPolePositions": 2,
+  "totalPodiums": 15,
+  "totalPoints": 227,
+  "totalDriverPoints": 227,
+  "totalFastestLaps": 0
+}

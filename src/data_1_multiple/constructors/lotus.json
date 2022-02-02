@@ -1,0 +1,15 @@
+{
+  "id": "lotus",
+  "name": "Lotus",
+  "fullName": "Team Lotus",
+  "countryId": "united-kingdom",
+  "totalChampionships": 7,
+  "totalRaceEntries": 493,
+  "totalRaceStarts": 491,
+  "totalRaceWins": 79,
+  "totalPolePositions": 107,
+  "totalPodiums": 157,
+  "totalPoints": 1512,
+  "totalDriverPoints": 1512,
+  "totalFastestLaps": 72
+}

@@ -4,16 +4,12 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: [
-    {
-      resolve: `gatsby-transformer-json`,
-      options: {
-        typeName: `Json`, // a fixed string
-      },
-    },
+    // `gatsby-transformer-json`,
+    `my-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/data/`,
+        path: `./src/data_2_single/`,
       },
     },
     "gatsby-plugin-sass",

@@ -1,0 +1,22 @@
+{
+  "id": "martin-brundle",
+  "name": "Martin Brundle",
+  "firstName": "Martin",
+  "lastName": "Brundle",
+  "fullName": "Martin John Brundle",
+  "abbreviation": "BRU",
+  "gender": "MALE",
+  "dateOfBirth": "1959-06-01",
+  "placeOfBirth": "King's Lynn",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 165,
+  "totalRaceStarts": 160,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 9,
+  "totalPoints": 98,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

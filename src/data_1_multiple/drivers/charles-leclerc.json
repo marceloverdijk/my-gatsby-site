@@ -1,0 +1,23 @@
+{
+  "id": "charles-leclerc",
+  "name": "Charles Leclerc",
+  "firstName": "Charles",
+  "lastName": "Leclerc",
+  "fullName": "Charles Leclerc",
+  "abbreviation": "LEC",
+  "permanentNumber": "16",
+  "gender": "MALE",
+  "dateOfBirth": "1997-10-16",
+  "placeOfBirth": "Monte Carlo",
+  "countryOfBirthCountryId": "monaco",
+  "nationalityCountryId": "monaco",
+  "totalChampionships": 0,
+  "totalRaceEntries": 60,
+  "totalRaceStarts": 60,
+  "totalRaceWins": 2,
+  "totalPolePositions": 7,
+  "totalPodiums": 12,
+  "totalPoints": 409,
+  "totalFastestLaps": 4,
+  "totalDriverOfTheDay": 5
+}

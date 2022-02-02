@@ -1,0 +1,23 @@
+{
+  "id": "rodger-ward",
+  "name": "Rodger Ward",
+  "firstName": "Rodger",
+  "lastName": "Ward",
+  "fullName": "Rodger M. Ward",
+  "abbreviation": "WAR",
+  "gender": "MALE",
+  "dateOfBirth": "1921-01-10",
+  "dateOfDeath": "2004-07-05",
+  "placeOfBirth": "Beloit",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 14,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

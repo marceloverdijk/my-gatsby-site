@@ -1,0 +1,22 @@
+{
+  "id": "karun-chandhok",
+  "name": "Karun Chandhok",
+  "firstName": "Karun",
+  "lastName": "Chandhok",
+  "fullName": "Karun Chandhok",
+  "abbreviation": "CHD",
+  "gender": "MALE",
+  "dateOfBirth": "1984-01-19",
+  "placeOfBirth": "Madras",
+  "countryOfBirthCountryId": "india",
+  "nationalityCountryId": "india",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

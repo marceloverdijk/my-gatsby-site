@@ -1,0 +1,16 @@
+{
+  "id": 1053,
+  "year": 2021,
+  "round": 18,
+  "date": "2021-10-24",
+  "grandPrixId": "united-states",
+  "officialName": "Formula 1 Aramco United States Grand Prix 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "austin",
+  "circuitType": "RACE",
+  "courseLength": 5.513,
+  "laps": 56,
+  "distance": 308.405,
+  "scheduledLaps": 56,
+  "scheduledDistance": 308.405
+}

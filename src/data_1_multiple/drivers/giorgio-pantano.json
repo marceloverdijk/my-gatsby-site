@@ -1,0 +1,22 @@
+{
+  "id": "giorgio-pantano",
+  "name": "Giorgio Pantano",
+  "firstName": "Giorgio",
+  "lastName": "Pantano",
+  "fullName": "Giorgio Pantano",
+  "abbreviation": "PAN",
+  "gender": "MALE",
+  "dateOfBirth": "1979-02-04",
+  "placeOfBirth": "Padua",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 14,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

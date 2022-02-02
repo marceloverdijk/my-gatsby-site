@@ -1,0 +1,23 @@
+{
+  "id": "peter-ryan",
+  "name": "Peter Ryan",
+  "firstName": "Peter",
+  "lastName": "Ryan",
+  "fullName": "Peter B. Ryan",
+  "abbreviation": "RYA",
+  "gender": "MALE",
+  "dateOfBirth": "1940-06-10",
+  "dateOfDeath": "1962-07-02",
+  "placeOfBirth": "Philadelphia",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

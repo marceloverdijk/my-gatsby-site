@@ -1,0 +1,23 @@
+{
+  "id": "geoff-duke",
+  "name": "Geoff Duke",
+  "firstName": "Geoff",
+  "lastName": "Duke",
+  "fullName": "Geoffrey Ernest Duke",
+  "abbreviation": "DUK",
+  "gender": "MALE",
+  "dateOfBirth": "1923-03-29",
+  "dateOfDeath": "2015-05-01",
+  "placeOfBirth": "St. Helens",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

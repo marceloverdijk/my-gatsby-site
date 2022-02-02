@@ -1,0 +1,23 @@
+{
+  "id": "geoffrey-crossley",
+  "name": "Geoffrey Crossley",
+  "firstName": "Geoffrey",
+  "lastName": "Crossley",
+  "fullName": "Geoffrey Crossley",
+  "abbreviation": "CRO",
+  "gender": "MALE",
+  "dateOfBirth": "1921-05-11",
+  "dateOfDeath": "2002-01-07",
+  "placeOfBirth": "Baslow",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

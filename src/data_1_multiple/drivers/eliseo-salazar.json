@@ -1,0 +1,22 @@
+{
+  "id": "eliseo-salazar",
+  "name": "Eliseo Salazar",
+  "firstName": "Eliseo",
+  "lastName": "Salazar",
+  "fullName": "Eliseo Salazar Valenzuela",
+  "abbreviation": "SAL",
+  "gender": "MALE",
+  "dateOfBirth": "1954-11-14",
+  "placeOfBirth": "Santiago",
+  "countryOfBirthCountryId": "chile",
+  "nationalityCountryId": "chile",
+  "totalChampionships": 0,
+  "totalRaceEntries": 37,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

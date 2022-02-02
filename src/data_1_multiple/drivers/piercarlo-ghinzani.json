@@ -1,0 +1,22 @@
+{
+  "id": "piercarlo-ghinzani",
+  "name": "Piercarlo Ghinzani",
+  "firstName": "Piercarlo",
+  "lastName": "Ghinzani",
+  "fullName": "Piercarlo Ghinzani",
+  "abbreviation": "GHI",
+  "gender": "MALE",
+  "dateOfBirth": "1952-01-16",
+  "placeOfBirth": "Riviera d'Adda",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 111,
+  "totalRaceStarts": 72,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

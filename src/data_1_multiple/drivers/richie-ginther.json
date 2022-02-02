@@ -1,0 +1,23 @@
+{
+  "id": "richie-ginther",
+  "name": "Richie Ginther",
+  "firstName": "Richie",
+  "lastName": "Ginther",
+  "fullName": "Paul Richard Ginther",
+  "abbreviation": "GIN",
+  "gender": "MALE",
+  "dateOfBirth": "1930-08-05",
+  "dateOfDeath": "1989-09-20",
+  "placeOfBirth": "Hollywood",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 54,
+  "totalRaceStarts": 52,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 14,
+  "totalPoints": 107,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

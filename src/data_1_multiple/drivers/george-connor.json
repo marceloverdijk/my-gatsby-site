@@ -1,0 +1,23 @@
+{
+  "id": "george-connor",
+  "name": "George Connor",
+  "firstName": "George",
+  "lastName": "Connor",
+  "fullName": "George Connor",
+  "abbreviation": "CON",
+  "gender": "MALE",
+  "dateOfBirth": "1906-08-16",
+  "dateOfDeath": "2001-03-28",
+  "placeOfBirth": "Rialto",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

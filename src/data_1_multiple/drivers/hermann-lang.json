@@ -1,0 +1,23 @@
+{
+  "id": "hermann-lang",
+  "name": "Hermann Lang",
+  "firstName": "Hermann",
+  "lastName": "Lang",
+  "fullName": "Hermann Lang",
+  "abbreviation": "LAN",
+  "gender": "MALE",
+  "dateOfBirth": "1909-04-06",
+  "dateOfDeath": "1987-10-19",
+  "placeOfBirth": "Cannstatt",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

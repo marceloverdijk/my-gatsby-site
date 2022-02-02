@@ -1,0 +1,22 @@
+{
+  "id": "hans-joachim-stuck",
+  "name": "Hans-Joachim Stuck",
+  "firstName": "Hans-Joachim",
+  "lastName": "Stuck",
+  "fullName": "Hans-Joachim Stuck",
+  "abbreviation": "STU",
+  "gender": "MALE",
+  "dateOfBirth": "1951-01-01",
+  "placeOfBirth": "Garmisch-Partenkirchen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 81,
+  "totalRaceStarts": 74,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 29,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

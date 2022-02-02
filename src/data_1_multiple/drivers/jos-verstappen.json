@@ -1,0 +1,22 @@
+{
+  "id": "jos-verstappen",
+  "name": "Jos Verstappen",
+  "firstName": "Jos",
+  "lastName": "Verstappen",
+  "fullName": "Johannes Franciscus Verstappen",
+  "abbreviation": "VER",
+  "gender": "MALE",
+  "dateOfBirth": "1972-03-04",
+  "placeOfBirth": "Montfort",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 107,
+  "totalRaceStarts": 106,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 17,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

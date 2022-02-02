@@ -1,0 +1,23 @@
+{
+  "id": "ken-miles",
+  "name": "Ken Miles",
+  "firstName": "Ken",
+  "lastName": "Miles",
+  "fullName": "Kenneth Henry Miles",
+  "abbreviation": "MIL",
+  "gender": "MALE",
+  "dateOfBirth": "1918-11-01",
+  "dateOfDeath": "1966-08-17",
+  "placeOfBirth": "Sutton Coldfield",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

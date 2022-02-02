@@ -1,0 +1,23 @@
+{
+  "id": "ernie-pieterse",
+  "name": "Ernie Pieterse",
+  "firstName": "Ernest",
+  "lastName": "Pieterse",
+  "fullName": "Ernest Pieterse",
+  "abbreviation": "PIE",
+  "gender": "MALE",
+  "dateOfBirth": "1938-07-04",
+  "dateOfDeath": "2017-11-01",
+  "placeOfBirth": "Parow",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

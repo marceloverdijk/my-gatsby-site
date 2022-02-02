@@ -1,0 +1,15 @@
+{
+  "id": "ligier",
+  "name": "Ligier",
+  "fullName": "Equipe Ligier",
+  "countryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 330,
+  "totalRaceStarts": 326,
+  "totalRaceWins": 9,
+  "totalPolePositions": 9,
+  "totalPodiums": 45,
+  "totalPoints": 388,
+  "totalDriverPoints": 388,
+  "totalFastestLaps": 10
+}

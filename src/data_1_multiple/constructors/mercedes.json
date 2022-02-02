@@ -1,0 +1,16 @@
+{
+  "id": "mercedes",
+  "name": "Mercedes",
+  "fullName": "Mercedes AMG F1",
+  "previousConstructorId": "brawn",
+  "countryId": "germany",
+  "totalChampionships": 7,
+  "totalRaceEntries": 228,
+  "totalRaceStarts": 228,
+  "totalRaceWins": 116,
+  "totalPolePositions": 126,
+  "totalPodiums": 153,
+  "totalPoints": 5726,
+  "totalDriverPoints": 5865.14,
+  "totalFastestLaps": 85
+}

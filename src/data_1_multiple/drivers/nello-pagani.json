@@ -1,0 +1,23 @@
+{
+  "id": "nello-pagani",
+  "name": "Nello Pagani",
+  "firstName": "Nello",
+  "lastName": "Pagani",
+  "fullName": "Cirillo Pagani",
+  "abbreviation": "PAG",
+  "gender": "MALE",
+  "dateOfBirth": "1911-10-11",
+  "dateOfDeath": "2003-10-19",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hans-klenk",
+  "name": "Hans Klenk",
+  "firstName": "Hans",
+  "lastName": "Klenk",
+  "fullName": "Hans Klenk",
+  "abbreviation": "KLE",
+  "gender": "MALE",
+  "dateOfBirth": "1919-10-28",
+  "dateOfDeath": "2009-03-24",
+  "placeOfBirth": "Künzelsau",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

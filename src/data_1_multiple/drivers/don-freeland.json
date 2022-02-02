@@ -1,0 +1,23 @@
+{
+  "id": "don-freeland",
+  "name": "Don Freeland",
+  "firstName": "Don",
+  "lastName": "Freeland",
+  "fullName": "Don Freeland",
+  "abbreviation": "FRE",
+  "gender": "MALE",
+  "dateOfBirth": "1925-03-25",
+  "dateOfDeath": "2007-11-02",
+  "placeOfBirth": "Los Angeles",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

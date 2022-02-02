@@ -1,0 +1,22 @@
+{
+  "id": "mikko-kozarowitzky",
+  "name": "Mikko Kozarowitzky",
+  "firstName": "Mikko",
+  "lastName": "Kozarowitzky",
+  "fullName": "Michael Kozarowitzky",
+  "abbreviation": "KOZ",
+  "gender": "MALE",
+  "dateOfBirth": "1948-05-17",
+  "placeOfBirth": "Helsinki",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "timmy-mayer",
+  "name": "Timmy Mayer",
+  "firstName": "Timmy",
+  "lastName": "Mayer",
+  "fullName": "Timothy Andrew Mayer",
+  "abbreviation": "MAY",
+  "gender": "MALE",
+  "dateOfBirth": "1938-02-22",
+  "dateOfDeath": "1964-02-28",
+  "placeOfBirth": "Dalton",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

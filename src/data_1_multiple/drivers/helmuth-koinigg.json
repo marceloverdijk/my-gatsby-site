@@ -1,0 +1,23 @@
+{
+  "id": "helmuth-koinigg",
+  "name": "Helmuth Koinigg",
+  "firstName": "Helmuth",
+  "lastName": "Koinigg",
+  "fullName": "Helmuth Koinigg",
+  "abbreviation": "KOI",
+  "gender": "MALE",
+  "dateOfBirth": "1948-11-03",
+  "dateOfDeath": "1974-10-06",
+  "placeOfBirth": "Vienna",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

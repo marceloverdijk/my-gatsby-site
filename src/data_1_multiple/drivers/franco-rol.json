@@ -1,0 +1,23 @@
+{
+  "id": "franco-rol",
+  "name": "Franco Rol",
+  "firstName": "Franco",
+  "lastName": "Rol",
+  "fullName": "Franco Rol",
+  "abbreviation": "ROL",
+  "gender": "MALE",
+  "dateOfBirth": "1908-06-05",
+  "dateOfDeath": "1977-06-18",
+  "placeOfBirth": "Turin",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

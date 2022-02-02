@@ -1,0 +1,23 @@
+{
+  "id": "lella-lombardi",
+  "name": "Lella Lombardi",
+  "firstName": "Lella",
+  "lastName": "Lombardi",
+  "fullName": "Maria Grazia Lombardi",
+  "abbreviation": "LOM",
+  "gender": "FEMALE",
+  "dateOfBirth": "1941-03-26",
+  "dateOfDeath": "1992-03-03",
+  "placeOfBirth": "Frugarolo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0.5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "roberto-guerrero",
+  "name": "Roberto Guerrero",
+  "firstName": "Roberto",
+  "lastName": "Guerrero",
+  "fullName": "Roberto José Guerrero Isaza",
+  "abbreviation": "GUE",
+  "gender": "MALE",
+  "dateOfBirth": "1958-11-16",
+  "placeOfBirth": "Medellín",
+  "countryOfBirthCountryId": "colombia",
+  "nationalityCountryId": "colombia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 28,
+  "totalRaceStarts": 21,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

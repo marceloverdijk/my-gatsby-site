@@ -1,0 +1,23 @@
+{
+  "id": "colin-chapman",
+  "name": "Colin Chapman",
+  "firstName": "Colin",
+  "lastName": "Chapman",
+  "fullName": "Anthony Colin Bruce Chapman",
+  "abbreviation": "CHA",
+  "gender": "MALE",
+  "dateOfBirth": "1928-05-19",
+  "dateOfDeath": "1982-12-16",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

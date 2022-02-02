@@ -1,0 +1,23 @@
+{
+  "id": "myron-fohr",
+  "name": "Myron Fohr",
+  "firstName": "Myron",
+  "lastName": "Fohr",
+  "fullName": "Myron W. Fohr",
+  "abbreviation": "FOH",
+  "gender": "MALE",
+  "dateOfBirth": "1912-06-17",
+  "dateOfDeath": "1994-01-14",
+  "placeOfBirth": "Milwaukee",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

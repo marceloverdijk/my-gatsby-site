@@ -1,0 +1,22 @@
+{
+  "id": "keke-rosberg",
+  "name": "Keke Rosberg",
+  "firstName": "Keke",
+  "lastName": "Rosberg",
+  "fullName": "Keijo Erik Rosberg",
+  "abbreviation": "ROS",
+  "gender": "MALE",
+  "dateOfBirth": "1948-12-06",
+  "placeOfBirth": "Solna",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 1,
+  "totalRaceEntries": 128,
+  "totalRaceStarts": 114,
+  "totalRaceWins": 5,
+  "totalPolePositions": 5,
+  "totalPodiums": 17,
+  "totalPoints": 159.5,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

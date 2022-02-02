@@ -1,0 +1,23 @@
+{
+  "id": "sebastian-vettel",
+  "name": "Sebastian Vettel",
+  "firstName": "Sebastian",
+  "lastName": "Vettel",
+  "fullName": "Sebastian Vettel",
+  "abbreviation": "VET",
+  "permanentNumber": "5",
+  "gender": "MALE",
+  "dateOfBirth": "1987-07-03",
+  "placeOfBirth": "Heppenheim",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 4,
+  "totalRaceEntries": 259,
+  "totalRaceStarts": 258,
+  "totalRaceWins": 53,
+  "totalPolePositions": 57,
+  "totalPodiums": 121,
+  "totalPoints": 3018,
+  "totalFastestLaps": 38,
+  "totalDriverOfTheDay": 18
+}

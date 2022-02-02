@@ -1,0 +1,23 @@
+{
+  "id": "arthur-legat",
+  "name": "Arthur Legat",
+  "firstName": "Arthur",
+  "lastName": "Legat",
+  "fullName": "Arthur Legat",
+  "abbreviation": "LEG",
+  "gender": "MALE",
+  "dateOfBirth": "1898-11-01",
+  "dateOfDeath": "1960-02-23",
+  "placeOfBirth": "Haine-Saint-Paul",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

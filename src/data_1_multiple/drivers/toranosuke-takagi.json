@@ -1,0 +1,22 @@
+{
+  "id": "toranosuke-takagi",
+  "name": "Toranosuke Takagi",
+  "firstName": "Toranosuke",
+  "lastName": "Takagi",
+  "fullName": "Toranosuke Takagi",
+  "abbreviation": "TAK",
+  "gender": "MALE",
+  "dateOfBirth": "1974-02-12",
+  "placeOfBirth": "Shizuoka",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 32,
+  "totalRaceStarts": 32,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

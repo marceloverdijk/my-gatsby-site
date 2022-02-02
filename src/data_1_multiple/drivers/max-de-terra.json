@@ -1,0 +1,23 @@
+{
+  "id": "max-de-terra",
+  "name": "Max de Terra",
+  "firstName": "Max",
+  "lastName": "De Terra",
+  "fullName": "Max de Terra",
+  "abbreviation": "DET",
+  "gender": "MALE",
+  "dateOfBirth": "1918-10-06",
+  "dateOfDeath": "1982-12-29",
+  "placeOfBirth": "Zurich",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

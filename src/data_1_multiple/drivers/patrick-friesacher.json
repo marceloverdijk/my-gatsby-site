@@ -1,0 +1,22 @@
+{
+  "id": "patrick-friesacher",
+  "name": "Patrick Friesacher",
+  "firstName": "Patrick",
+  "lastName": "Friesacher",
+  "fullName": "Patrick Friesacher",
+  "abbreviation": "FRI",
+  "gender": "MALE",
+  "dateOfBirth": "1980-09-26",
+  "placeOfBirth": "Wolfsberg",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

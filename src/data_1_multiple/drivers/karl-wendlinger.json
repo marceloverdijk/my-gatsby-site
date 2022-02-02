@@ -1,0 +1,22 @@
+{
+  "id": "karl-wendlinger",
+  "name": "Karl Wendlinger",
+  "firstName": "Karl",
+  "lastName": "Wendlinger",
+  "fullName": "Karl Wendlinger",
+  "abbreviation": "WEN",
+  "gender": "MALE",
+  "dateOfBirth": "1968-12-20",
+  "placeOfBirth": "Kufstein",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 42,
+  "totalRaceStarts": 41,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 14,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

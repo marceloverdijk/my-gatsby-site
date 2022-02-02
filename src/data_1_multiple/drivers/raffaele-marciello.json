@@ -1,0 +1,22 @@
+{
+  "id": "raffaele-marciello",
+  "name": "Raffaele Marciello",
+  "firstName": "Raffaele",
+  "lastName": "Marciello",
+  "fullName": "Raffaele Marciello",
+  "abbreviation": "MAR",
+  "gender": "MALE",
+  "dateOfBirth": "1994-12-17",
+  "placeOfBirth": "Zürich",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

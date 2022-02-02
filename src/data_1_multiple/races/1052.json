@@ -1,0 +1,16 @@
+{
+  "id": 1052,
+  "year": 2021,
+  "round": 17,
+  "date": "2021-10-10",
+  "grandPrixId": "japan",
+  "officialName": "Formula 1 Japanese Grand Prix 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "suzuka",
+  "circuitType": "RACE",
+  "courseLength": 5.807,
+  "laps": 53,
+  "distance": 307.471,
+  "scheduledLaps": 53,
+  "scheduledDistance": 307.471
+}

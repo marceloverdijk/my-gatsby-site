@@ -1,0 +1,23 @@
+{
+  "id": "rob-slotemaker",
+  "name": "Rob Slotemaker",
+  "firstName": "Rob",
+  "lastName": "Slotemaker",
+  "fullName": "Rob Slotemaker",
+  "abbreviation": "SLO",
+  "gender": "MALE",
+  "dateOfBirth": "1929-06-13",
+  "dateOfDeath": "1979-09-16",
+  "placeOfBirth": "Batavia",
+  "countryOfBirthCountryId": "indonesia",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "giorgio-francia",
+  "name": "Giorgio Francia",
+  "firstName": "Giorgio",
+  "lastName": "Francia",
+  "fullName": "Giorgio Francia",
+  "abbreviation": "FRA",
+  "gender": "MALE",
+  "dateOfBirth": "1947-11-08",
+  "placeOfBirth": "Bologna",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

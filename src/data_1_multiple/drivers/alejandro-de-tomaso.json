@@ -1,0 +1,23 @@
+{
+  "id": "alejandro-de-tomaso",
+  "name": "Alejandro de Tomaso",
+  "firstName": "Alejandro",
+  "lastName": "De Tomaso",
+  "fullName": "Alejandro de Tomaso",
+  "abbreviation": "DET",
+  "gender": "MALE",
+  "dateOfBirth": "1928-07-10",
+  "dateOfDeath": "2003-05-21",
+  "placeOfBirth": "Buenos Aires",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dennis-poore",
+  "name": "Dennis Poore",
+  "firstName": "Dennis",
+  "lastName": "Poore",
+  "fullName": "Roger Dennistoun Poore",
+  "abbreviation": "POO",
+  "gender": "MALE",
+  "dateOfBirth": "1916-08-19",
+  "dateOfDeath": "1987-02-12",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "midland",
+  "name": "Midland",
+  "fullName": "Midland F1 Racing",
+  "previousConstructorId": "jordan",
+  "countryId": "russia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalDriverPoints": 0,
+  "totalFastestLaps": 0
+}

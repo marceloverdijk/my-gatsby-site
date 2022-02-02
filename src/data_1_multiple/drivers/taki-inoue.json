@@ -1,0 +1,22 @@
+{
+  "id": "taki-inoue",
+  "name": "Taki Inoue",
+  "firstName": "Taki",
+  "lastName": "Inoue",
+  "fullName": "Takachiho Inoue",
+  "abbreviation": "INO",
+  "gender": "MALE",
+  "dateOfBirth": "1963-09-05",
+  "placeOfBirth": "Kobe",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

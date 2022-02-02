@@ -1,0 +1,22 @@
+{
+  "id": "paul-goldsmith",
+  "name": "Paul Goldsmith",
+  "firstName": "Paul",
+  "lastName": "Goldsmith",
+  "fullName": "Paul Goldsmith",
+  "abbreviation": "GOL",
+  "gender": "MALE",
+  "dateOfBirth": "1925-10-02",
+  "placeOfBirth": "Parkersburg",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claudio-langes",
+  "name": "Claudio Langes",
+  "firstName": "Claudio",
+  "lastName": "Langes",
+  "fullName": "Claudio Langes",
+  "abbreviation": "LAN",
+  "gender": "MALE",
+  "dateOfBirth": "1960-07-20",
+  "placeOfBirth": "Brescia",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

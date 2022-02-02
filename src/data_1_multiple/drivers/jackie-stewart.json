@@ -1,0 +1,22 @@
+{
+  "id": "jackie-stewart",
+  "name": "Jackie Stewart",
+  "firstName": "Jackie",
+  "lastName": "Stewart",
+  "fullName": "Sir John Young Stewart",
+  "abbreviation": "STE",
+  "gender": "MALE",
+  "dateOfBirth": "1939-06-11",
+  "placeOfBirth": "Milton",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 3,
+  "totalRaceEntries": 100,
+  "totalRaceStarts": 99,
+  "totalRaceWins": 27,
+  "totalPolePositions": 17,
+  "totalPodiums": 43,
+  "totalPoints": 360,
+  "totalFastestLaps": 15,
+  "totalDriverOfTheDay": 0
+}

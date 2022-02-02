@@ -1,0 +1,23 @@
+{
+  "id": "consalvo-sanesi",
+  "name": "Consalvo Sanesi",
+  "firstName": "Consalvo",
+  "lastName": "Sanesi",
+  "fullName": "Consalvo Sanesi",
+  "abbreviation": "SAN",
+  "gender": "MALE",
+  "dateOfBirth": "1911-03-28",
+  "dateOfDeath": "1998-07-28",
+  "placeOfBirth": "Terranuova Bracciolini",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

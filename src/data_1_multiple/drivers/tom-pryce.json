@@ -1,0 +1,23 @@
+{
+  "id": "tom-pryce",
+  "name": "Tom Pryce",
+  "firstName": "Tom",
+  "lastName": "Pryce",
+  "fullName": "Thomas Maldwyn Pryce",
+  "abbreviation": "PRY",
+  "gender": "MALE",
+  "dateOfBirth": "1949-06-11",
+  "dateOfDeath": "1977-03-05",
+  "placeOfBirth": "Ruthin",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 42,
+  "totalRaceStarts": 42,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 2,
+  "totalPoints": 19,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

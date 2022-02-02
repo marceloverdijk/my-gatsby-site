@@ -1,0 +1,23 @@
+{
+  "id": "mike-magill",
+  "name": "Mike Magill",
+  "firstName": "Mike",
+  "lastName": "Magill",
+  "fullName": "Charles Michael Magill",
+  "abbreviation": "MAG",
+  "gender": "MALE",
+  "dateOfBirth": "1920-02-08",
+  "dateOfDeath": "2006-08-31",
+  "placeOfBirth": "Haddonfield",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

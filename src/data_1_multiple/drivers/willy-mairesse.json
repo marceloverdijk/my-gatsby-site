@@ -1,0 +1,23 @@
+{
+  "id": "willy-mairesse",
+  "name": "Willy Mairesse",
+  "firstName": "Willy",
+  "lastName": "Mairesse",
+  "fullName": "Willy Mairesse",
+  "abbreviation": "MAI",
+  "gender": "MALE",
+  "dateOfBirth": "1928-10-01",
+  "dateOfDeath": "1969-09-02",
+  "placeOfBirth": "Momignies",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 7,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

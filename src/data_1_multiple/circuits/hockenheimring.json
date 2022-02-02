@@ -1,0 +1,10 @@
+{
+  "id": "hockenheimring",
+  "name": "Hockenheimring",
+  "fullName": "Hockenheimring",
+  "type": "RACE",
+  "placeName": "Hockenheim",
+  "countryId": "germany",
+  "latitude": 49.327778,
+  "longitude": 8.565833
+}

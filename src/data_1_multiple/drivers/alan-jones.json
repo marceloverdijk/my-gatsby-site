@@ -1,0 +1,22 @@
+{
+  "id": "alan-jones",
+  "name": "Alan Jones",
+  "firstName": "Alan",
+  "lastName": "Jones",
+  "fullName": "Alan Stanley Jones",
+  "abbreviation": "JON",
+  "gender": "MALE",
+  "dateOfBirth": "1946-11-02",
+  "placeOfBirth": "Melbourne",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 1,
+  "totalRaceEntries": 117,
+  "totalRaceStarts": 116,
+  "totalRaceWins": 12,
+  "totalPolePositions": 6,
+  "totalPodiums": 24,
+  "totalPoints": 206,
+  "totalFastestLaps": 13,
+  "totalDriverOfTheDay": 0
+}

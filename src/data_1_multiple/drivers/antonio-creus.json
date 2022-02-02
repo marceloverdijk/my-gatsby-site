@@ -1,0 +1,23 @@
+{
+  "id": "antonio-creus",
+  "name": "Antonio Creus",
+  "firstName": "Antonio",
+  "lastName": "Creus",
+  "fullName": "Antonio Creus Rubín de Celis",
+  "abbreviation": "CRE",
+  "gender": "MALE",
+  "dateOfBirth": "1924-10-28",
+  "dateOfDeath": "1996-02-19",
+  "placeOfBirth": "Madrid",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

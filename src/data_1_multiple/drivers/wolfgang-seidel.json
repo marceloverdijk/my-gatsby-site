@@ -1,0 +1,23 @@
+{
+  "id": "wolfgang-seidel",
+  "name": "Wolfgang Seidel",
+  "firstName": "Wolfgang",
+  "lastName": "Seidel",
+  "fullName": "Wolfgang Seidel",
+  "abbreviation": "SEI",
+  "gender": "MALE",
+  "dateOfBirth": "1926-07-04",
+  "dateOfDeath": "1987-03-01",
+  "placeOfBirth": "Dresden",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

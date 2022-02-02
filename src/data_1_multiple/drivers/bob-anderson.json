@@ -1,0 +1,23 @@
+{
+  "id": "bob-anderson",
+  "name": "Bob Anderson",
+  "firstName": "Bob",
+  "lastName": "Anderson",
+  "fullName": "Robert Hugh Fearon Anderson",
+  "abbreviation": "AND",
+  "gender": "MALE",
+  "dateOfBirth": "1931-05-19",
+  "dateOfDeath": "1967-08-14",
+  "placeOfBirth": "Hendon",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 29,
+  "totalRaceStarts": 25,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

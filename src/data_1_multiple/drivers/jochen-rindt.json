@@ -1,0 +1,23 @@
+{
+  "id": "jochen-rindt",
+  "name": "Jochen Rindt",
+  "firstName": "Jochen",
+  "lastName": "Rindt",
+  "fullName": "Karl Jochen Rindt",
+  "abbreviation": "RIN",
+  "gender": "MALE",
+  "dateOfBirth": "1942-04-18",
+  "dateOfDeath": "1970-09-05",
+  "placeOfBirth": "Mainz",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 1,
+  "totalRaceEntries": 62,
+  "totalRaceStarts": 60,
+  "totalRaceWins": 6,
+  "totalPolePositions": 10,
+  "totalPodiums": 13,
+  "totalPoints": 109,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

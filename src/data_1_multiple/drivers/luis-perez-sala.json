@@ -1,0 +1,22 @@
+{
+  "id": "luis-perez-sala",
+  "name": "Luis Pérez-Sala",
+  "firstName": "Luis",
+  "lastName": "Pérez-Sala",
+  "fullName": "Luis Pérez-Sala Valls-Taberner",
+  "abbreviation": "PER",
+  "gender": "MALE",
+  "dateOfBirth": "1959-05-15",
+  "placeOfBirth": "Barcelona",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 32,
+  "totalRaceStarts": 26,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "daniel-ricciardo",
+  "name": "Daniel Ricciardo",
+  "firstName": "Daniel",
+  "lastName": "Ricciardo",
+  "fullName": "Daniel Ricciardo",
+  "abbreviation": "RIC",
+  "permanentNumber": "3",
+  "gender": "MALE",
+  "dateOfBirth": "1989-07-01",
+  "placeOfBirth": "Perth",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 189,
+  "totalRaceStarts": 189,
+  "totalRaceWins": 7,
+  "totalPolePositions": 3,
+  "totalPodiums": 31,
+  "totalPoints": 1165,
+  "totalFastestLaps": 15,
+  "totalDriverOfTheDay": 8
+}

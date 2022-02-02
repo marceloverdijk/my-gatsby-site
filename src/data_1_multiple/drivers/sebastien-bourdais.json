@@ -1,0 +1,22 @@
+{
+  "id": "sebastien-bourdais",
+  "name": "Sébastien Bourdais",
+  "firstName": "Sébastien",
+  "lastName": "Bourdais",
+  "fullName": "Sébastien Olivier Bourdais",
+  "abbreviation": "BOU",
+  "gender": "MALE",
+  "dateOfBirth": "1979-02-28",
+  "placeOfBirth": "Le Mans",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 27,
+  "totalRaceStarts": 27,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 6,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "roy-nissany",
+  "name": "Roy Nissany",
+  "firstName": "Roy",
+  "lastName": "Nissany",
+  "fullName": "Roy Nissany",
+  "abbreviation": "NIS",
+  "gender": "MALE",
+  "dateOfBirth": "1994-11-30",
+  "placeOfBirth": "Tel Aviv",
+  "countryOfBirthCountryId": "israel",
+  "nationalityCountryId": "israel",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

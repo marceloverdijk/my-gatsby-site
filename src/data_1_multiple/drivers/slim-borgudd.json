@@ -1,0 +1,22 @@
+{
+  "id": "slim-borgudd",
+  "name": "Slim Borgudd",
+  "firstName": "Slim",
+  "lastName": "Borgudd",
+  "fullName": "Karl Edward Tommy Borgudd",
+  "abbreviation": "BOR",
+  "gender": "MALE",
+  "dateOfBirth": "1946-11-25",
+  "placeOfBirth": "Borgholm",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

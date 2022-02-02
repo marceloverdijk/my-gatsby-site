@@ -1,0 +1,15 @@
+{
+  "id": "mclaren",
+  "name": "McLaren",
+  "fullName": "McLaren Racing",
+  "countryId": "united-kingdom",
+  "totalChampionships": 8,
+  "totalRaceEntries": 885,
+  "totalRaceStarts": 881,
+  "totalRaceWins": 182,
+  "totalPolePositions": 155,
+  "totalPodiums": 394,
+  "totalPoints": 5891.5,
+  "totalDriverPoints": 5891.5,
+  "totalFastestLaps": 158
+}

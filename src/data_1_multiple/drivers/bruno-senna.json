@@ -1,0 +1,22 @@
+{
+  "id": "bruno-senna",
+  "name": "Bruno Senna",
+  "firstName": "Bruno",
+  "lastName": "Senna",
+  "fullName": "Bruno Senna Lalli",
+  "abbreviation": "SEN",
+  "gender": "MALE",
+  "dateOfBirth": "1983-10-15",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 46,
+  "totalRaceStarts": 46,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 33,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

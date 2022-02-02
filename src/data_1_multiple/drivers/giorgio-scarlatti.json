@@ -1,0 +1,23 @@
+{
+  "id": "giorgio-scarlatti",
+  "name": "Giorgio Scarlatti",
+  "firstName": "Giorgio",
+  "lastName": "Scarlatti",
+  "fullName": "Giorgio Scarlatti",
+  "abbreviation": "SCA",
+  "gender": "MALE",
+  "dateOfBirth": "1921-10-02",
+  "dateOfDeath": "1990-07-26",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

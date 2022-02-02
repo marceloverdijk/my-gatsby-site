@@ -1,0 +1,22 @@
+{
+  "id": "antonio-pizzonia",
+  "name": "Antônio Pizzonia",
+  "firstName": "Antônio",
+  "lastName": "Pizzonia",
+  "fullName": "Antônio Reginaldo Pizzonia Júnior",
+  "abbreviation": "PIZ",
+  "gender": "MALE",
+  "dateOfBirth": "1980-09-11",
+  "placeOfBirth": "Manaus",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 20,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

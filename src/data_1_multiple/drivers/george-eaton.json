@@ -1,0 +1,22 @@
+{
+  "id": "george-eaton",
+  "name": "George Eaton",
+  "firstName": "George",
+  "lastName": "Eaton",
+  "fullName": "George Ross Eaton",
+  "abbreviation": "EAT",
+  "gender": "MALE",
+  "dateOfBirth": "1945-11-12",
+  "placeOfBirth": "Toronto",
+  "countryOfBirthCountryId": "canada",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

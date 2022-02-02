@@ -1,0 +1,23 @@
+{
+  "id": "patrick-depailler",
+  "name": "Patrick Depailler",
+  "firstName": "Patrick",
+  "lastName": "Depailler",
+  "fullName": "Patrick André Eugène Joseph Depailler",
+  "abbreviation": "DEP",
+  "gender": "MALE",
+  "dateOfBirth": "1944-08-09",
+  "dateOfDeath": "1980-08-01",
+  "placeOfBirth": "Clermont-Ferrand",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 95,
+  "totalRaceStarts": 95,
+  "totalRaceWins": 2,
+  "totalPolePositions": 1,
+  "totalPodiums": 19,
+  "totalPoints": 141,
+  "totalFastestLaps": 4,
+  "totalDriverOfTheDay": 0
+}

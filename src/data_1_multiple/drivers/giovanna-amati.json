@@ -1,0 +1,22 @@
+{
+  "id": "giovanna-amati",
+  "name": "Giovanna Amati",
+  "firstName": "Giovanna",
+  "lastName": "Amati",
+  "fullName": "Giovanna Amati",
+  "abbreviation": "AMA",
+  "gender": "FEMALE",
+  "dateOfBirth": "1959-07-20",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

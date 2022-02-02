@@ -1,0 +1,23 @@
+{
+  "id": "niki-lauda",
+  "name": "Niki Lauda",
+  "firstName": "Niki",
+  "lastName": "Lauda",
+  "fullName": "Andreas Nikolaus Lauda",
+  "abbreviation": "LAU",
+  "gender": "MALE",
+  "dateOfBirth": "1949-02-22",
+  "dateOfDeath": "2019-05-20",
+  "placeOfBirth": "Vienna",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 3,
+  "totalRaceEntries": 176,
+  "totalRaceStarts": 171,
+  "totalRaceWins": 25,
+  "totalPolePositions": 24,
+  "totalPodiums": 54,
+  "totalPoints": 420.5,
+  "totalFastestLaps": 24,
+  "totalDriverOfTheDay": 0
+}

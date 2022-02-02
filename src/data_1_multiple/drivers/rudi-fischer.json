@@ -1,0 +1,23 @@
+{
+  "id": "rudi-fischer",
+  "name": "Rudi Fischer",
+  "firstName": "Rudi",
+  "lastName": "Fischer",
+  "fullName": "Rudolf Fischer",
+  "abbreviation": "FIS",
+  "gender": "MALE",
+  "dateOfBirth": "1912-04-19",
+  "dateOfDeath": "1976-12-30",
+  "placeOfBirth": "Stuttgart",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 10,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

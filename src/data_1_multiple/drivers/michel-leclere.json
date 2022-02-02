@@ -1,0 +1,22 @@
+{
+  "id": "michel-leclere",
+  "name": "Michel Leclère",
+  "firstName": "Michel",
+  "lastName": "Leclère",
+  "fullName": "Michel Leclère",
+  "abbreviation": "LEC",
+  "gender": "MALE",
+  "dateOfBirth": "1946-03-18",
+  "placeOfBirth": "Mantes-la-Jolie",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

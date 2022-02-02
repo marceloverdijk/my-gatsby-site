@@ -1,0 +1,23 @@
+{
+  "id": "robert-manzon",
+  "name": "Robert Manzon",
+  "firstName": "Robert",
+  "lastName": "Manzon",
+  "fullName": "Robert Manzon",
+  "abbreviation": "MAN",
+  "gender": "MALE",
+  "dateOfBirth": "1917-04-12",
+  "dateOfDeath": "2015-01-19",
+  "placeOfBirth": "Marseille",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 29,
+  "totalRaceStarts": 28,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 16,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mick-schumacher",
+  "name": "Mick Schumacher",
+  "firstName": "Mick",
+  "lastName": "Schumacher",
+  "fullName": "Mick Schumacher",
+  "abbreviation": "SCH",
+  "permanentNumber": "47",
+  "gender": "MALE",
+  "dateOfBirth": "1999-03-22",
+  "placeOfBirth": "Vufflens-le-Château",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kurt-kuhnke",
+  "name": "Kurt Kuhnke",
+  "firstName": "Kurt",
+  "lastName": "Kuhnke",
+  "fullName": "Kurt Kuhnke",
+  "abbreviation": "KUH",
+  "gender": "MALE",
+  "dateOfBirth": "1910-04-30",
+  "dateOfDeath": "1969-02-08",
+  "placeOfBirth": "Stettin",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "roger-laurent",
+  "name": "Roger Laurent",
+  "firstName": "Roger",
+  "lastName": "Laurent",
+  "fullName": "Roger Laurent",
+  "abbreviation": "LAU",
+  "gender": "MALE",
+  "dateOfBirth": "1913-02-21",
+  "dateOfDeath": "1997-02-06",
+  "placeOfBirth": "Liège",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

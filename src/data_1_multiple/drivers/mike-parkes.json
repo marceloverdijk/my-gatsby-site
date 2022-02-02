@@ -1,0 +1,23 @@
+{
+  "id": "mike-parkes",
+  "name": "Mike Parkes",
+  "firstName": "Mike",
+  "lastName": "Parkes",
+  "fullName": "Michael Johnson Parkes",
+  "abbreviation": "PAR",
+  "gender": "MALE",
+  "dateOfBirth": "1931-09-24",
+  "dateOfDeath": "1977-08-28",
+  "placeOfBirth": "Richmond",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 6,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 2,
+  "totalPoints": 14,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

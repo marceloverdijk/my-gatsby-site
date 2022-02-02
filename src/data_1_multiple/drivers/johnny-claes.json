@@ -1,0 +1,23 @@
+{
+  "id": "johnny-claes",
+  "name": "Johnny Claes",
+  "firstName": "Johnny",
+  "lastName": "Claes",
+  "fullName": "Octave John Claes",
+  "abbreviation": "CLA",
+  "gender": "MALE",
+  "dateOfBirth": "1916-08-11",
+  "dateOfDeath": "1956-02-03",
+  "placeOfBirth": "Fulham",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 25,
+  "totalRaceStarts": 23,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

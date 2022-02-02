@@ -1,0 +1,22 @@
+{
+  "id": "torsten-palm",
+  "name": "Torsten Palm",
+  "firstName": "Torsten",
+  "lastName": "Palm",
+  "fullName": "Torsten Palm",
+  "abbreviation": "PAL",
+  "gender": "MALE",
+  "dateOfBirth": "1947-07-23",
+  "placeOfBirth": "Kristinehamn",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

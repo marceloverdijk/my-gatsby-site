@@ -1,0 +1,22 @@
+{
+  "id": "noritake-takahara",
+  "name": "Noritake Takahara",
+  "firstName": "Noritake",
+  "lastName": "Takahara",
+  "fullName": "Noritake Takahara",
+  "abbreviation": "TAK",
+  "gender": "MALE",
+  "dateOfBirth": "1951-06-06",
+  "placeOfBirth": "Tokyo",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

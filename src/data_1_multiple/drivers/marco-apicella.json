@@ -1,0 +1,22 @@
+{
+  "id": "marco-apicella",
+  "name": "Marco Apicella",
+  "firstName": "Marco",
+  "lastName": "Apicella",
+  "fullName": "Marco Apicella",
+  "abbreviation": "API",
+  "gender": "MALE",
+  "dateOfBirth": "1965-10-07",
+  "placeOfBirth": "near Bologna",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

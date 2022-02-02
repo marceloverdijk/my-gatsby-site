@@ -1,0 +1,22 @@
+{
+  "id": "nino-vaccarella",
+  "name": "Nino Vaccarella",
+  "firstName": "Nino",
+  "lastName": "Vaccarella",
+  "fullName": "Nino Vaccarella",
+  "abbreviation": "VAC",
+  "gender": "MALE",
+  "dateOfBirth": "1933-03-04",
+  "placeOfBirth": "Palermo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

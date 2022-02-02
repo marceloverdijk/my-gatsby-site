@@ -1,0 +1,22 @@
+{
+  "id": "bruce-kessler",
+  "name": "Bruce Kessler",
+  "firstName": "Bruce",
+  "lastName": "Kessler",
+  "fullName": "Bruce Kessler",
+  "abbreviation": "KES",
+  "gender": "MALE",
+  "dateOfBirth": "1936-03-23",
+  "placeOfBirth": "Seattle",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "graham-hill",
+  "name": "Graham Hill",
+  "firstName": "Graham",
+  "lastName": "Hill",
+  "fullName": "Norman Graham Hill",
+  "abbreviation": "HIL",
+  "gender": "MALE",
+  "dateOfBirth": "1929-02-15",
+  "dateOfDeath": "1975-11-29",
+  "placeOfBirth": "Hampstead",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 2,
+  "totalRaceEntries": 179,
+  "totalRaceStarts": 176,
+  "totalRaceWins": 14,
+  "totalPolePositions": 13,
+  "totalPodiums": 36,
+  "totalPoints": 289,
+  "totalFastestLaps": 10,
+  "totalDriverOfTheDay": 0
+}

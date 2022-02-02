@@ -1,0 +1,22 @@
+{
+  "id": "jean-christophe-boullion",
+  "name": "Jean-Christophe Boullion",
+  "firstName": "Jean-Christophe",
+  "lastName": "Boullion",
+  "fullName": "Jean-Christophe Boullion",
+  "abbreviation": "BOU",
+  "gender": "MALE",
+  "dateOfBirth": "1969-12-27",
+  "placeOfBirth": "Saint-Brieuc",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

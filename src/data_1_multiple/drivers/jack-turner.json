@@ -1,0 +1,23 @@
+{
+  "id": "jack-turner",
+  "name": "Jack Turner",
+  "firstName": "Jack",
+  "lastName": "Turner",
+  "fullName": "Jack Turner",
+  "abbreviation": "TUR",
+  "gender": "MALE",
+  "dateOfBirth": "1920-02-12",
+  "dateOfDeath": "2004-09-12",
+  "placeOfBirth": "Seattle",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

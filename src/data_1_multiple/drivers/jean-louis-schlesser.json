@@ -1,0 +1,22 @@
+{
+  "id": "jean-louis-schlesser",
+  "name": "Jean-Louis Schlesser",
+  "firstName": "Jean-Louis",
+  "lastName": "Schlesser",
+  "fullName": "Jean-Louis Schlesser",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1948-09-12",
+  "placeOfBirth": "Nancy",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

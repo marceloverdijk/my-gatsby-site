@@ -1,0 +1,22 @@
+{
+  "id": "francois-hesnault",
+  "name": "François Hesnault",
+  "firstName": "François",
+  "lastName": "Hesnault",
+  "fullName": "François Hesnault",
+  "abbreviation": "HES",
+  "gender": "MALE",
+  "dateOfBirth": "1956-12-30",
+  "placeOfBirth": "Neuilly-sur-Seine",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 19,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

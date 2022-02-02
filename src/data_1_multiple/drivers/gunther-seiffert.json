@@ -1,0 +1,22 @@
+{
+  "id": "gunther-seiffert",
+  "name": "Günther Seiffert",
+  "firstName": "Günther",
+  "lastName": "Seiffert",
+  "fullName": "Günther Seiffert",
+  "abbreviation": "SEI",
+  "gender": "MALE",
+  "dateOfBirth": "1937-10-18",
+  "placeOfBirth": "Oldenburg",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

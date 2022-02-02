@@ -1,0 +1,23 @@
+{
+  "id": "jack-brabham",
+  "name": "Jack Brabham",
+  "firstName": "Jack",
+  "lastName": "Brabham",
+  "fullName": "Sir John Arthur Brabham",
+  "abbreviation": "BRA",
+  "gender": "MALE",
+  "dateOfBirth": "1926-04-02",
+  "dateOfDeath": "2014-05-19",
+  "placeOfBirth": "Hurstville",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 3,
+  "totalRaceEntries": 128,
+  "totalRaceStarts": 126,
+  "totalRaceWins": 14,
+  "totalPolePositions": 13,
+  "totalPodiums": 31,
+  "totalPoints": 261,
+  "totalFastestLaps": 12,
+  "totalDriverOfTheDay": 0
+}

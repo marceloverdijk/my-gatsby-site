@@ -1,0 +1,23 @@
+{
+  "id": "alfredo-pian",
+  "name": "Alfredo Pián",
+  "firstName": "Alfredo",
+  "lastName": "Pián",
+  "fullName": "Alfredo Pián",
+  "abbreviation": "PIÁ",
+  "gender": "MALE",
+  "dateOfBirth": "1912-10-21",
+  "dateOfDeath": "1990-07-25",
+  "placeOfBirth": "Las Rosas",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "clemar-bucci",
+  "name": "Clemar Bucci",
+  "firstName": "Clemar",
+  "lastName": "Bucci",
+  "fullName": "Clemar Bucci",
+  "abbreviation": "BUC",
+  "gender": "MALE",
+  "dateOfBirth": "1920-09-04",
+  "dateOfDeath": "2011-01-12",
+  "placeOfBirth": "Zenón Pereyra",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

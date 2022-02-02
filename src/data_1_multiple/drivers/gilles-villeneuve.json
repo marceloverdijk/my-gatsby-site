@@ -1,0 +1,23 @@
+{
+  "id": "gilles-villeneuve",
+  "name": "Gilles Villeneuve",
+  "firstName": "Gilles",
+  "lastName": "Villeneuve",
+  "fullName": "Joseph Gilles Henri Villeneuve",
+  "abbreviation": "VIL",
+  "gender": "MALE",
+  "dateOfBirth": "1950-01-18",
+  "dateOfDeath": "1982-05-08",
+  "placeOfBirth": "Saint-Jean-sur-Richelieu",
+  "countryOfBirthCountryId": "canada",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 68,
+  "totalRaceStarts": 67,
+  "totalRaceWins": 6,
+  "totalPolePositions": 2,
+  "totalPodiums": 13,
+  "totalPoints": 107,
+  "totalFastestLaps": 8,
+  "totalDriverOfTheDay": 0
+}

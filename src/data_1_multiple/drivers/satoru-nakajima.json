@@ -1,0 +1,22 @@
+{
+  "id": "satoru-nakajima",
+  "name": "Satoru Nakajima",
+  "firstName": "Satoru",
+  "lastName": "Nakajima",
+  "fullName": "Satoru Nakajima",
+  "abbreviation": "NAK",
+  "gender": "MALE",
+  "dateOfBirth": "1953-02-23",
+  "placeOfBirth": "Okazaki",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 80,
+  "totalRaceStarts": 74,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 16,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

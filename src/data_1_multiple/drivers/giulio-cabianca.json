@@ -1,0 +1,23 @@
+{
+  "id": "giulio-cabianca",
+  "name": "Giulio Cabianca",
+  "firstName": "Giulio",
+  "lastName": "Cabianca",
+  "fullName": "Giulio Cabianca",
+  "abbreviation": "CAB",
+  "gender": "MALE",
+  "dateOfBirth": "1923-02-19",
+  "dateOfDeath": "1961-06-15",
+  "placeOfBirth": "Verona",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

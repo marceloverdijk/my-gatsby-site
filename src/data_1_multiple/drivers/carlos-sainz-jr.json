@@ -1,0 +1,23 @@
+{
+  "id": "carlos-sainz-jr",
+  "name": "Carlos Sainz Jr.",
+  "firstName": "Carlos",
+  "lastName": "Sainz Jr.",
+  "fullName": "Carlos Sainz Vázquez de Castro",
+  "abbreviation": "SAI",
+  "permanentNumber": "55",
+  "gender": "MALE",
+  "dateOfBirth": "1994-09-01",
+  "placeOfBirth": "Madrid",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 120,
+  "totalRaceStarts": 119,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 376,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cooper",
+  "name": "Cooper",
+  "fullName": "Cooper Car Company",
+  "countryId": "united-kingdom",
+  "totalChampionships": 2,
+  "totalRaceEntries": 129,
+  "totalRaceStarts": 129,
+  "totalRaceWins": 16,
+  "totalPolePositions": 11,
+  "totalPodiums": 41,
+  "totalPoints": 478.5,
+  "totalDriverPoints": 492.5,
+  "totalFastestLaps": 15
+}

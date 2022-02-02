@@ -1,0 +1,15 @@
+{
+  "id": "brm",
+  "name": "BRM",
+  "fullName": "British Racing Motors",
+  "countryId": "united-kingdom",
+  "totalChampionships": 1,
+  "totalRaceEntries": 208,
+  "totalRaceStarts": 197,
+  "totalRaceWins": 17,
+  "totalPolePositions": 11,
+  "totalPodiums": 53,
+  "totalPoints": 535.5,
+  "totalDriverPoints": 537.5,
+  "totalFastestLaps": 15
+}

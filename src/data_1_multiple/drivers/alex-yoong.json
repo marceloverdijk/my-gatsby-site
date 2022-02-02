@@ -1,0 +1,22 @@
+{
+  "id": "alex-yoong",
+  "name": "Alex Yoong",
+  "firstName": "Alex",
+  "lastName": "Yoong",
+  "fullName": "Alexander Charles Yoong Loong",
+  "abbreviation": "YOO",
+  "gender": "MALE",
+  "dateOfBirth": "1976-07-20",
+  "placeOfBirth": "Kuala Lumpur",
+  "countryOfBirthCountryId": "malaysia",
+  "nationalityCountryId": "malaysia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 14,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

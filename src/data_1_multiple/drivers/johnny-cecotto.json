@@ -1,0 +1,22 @@
+{
+  "id": "johnny-cecotto",
+  "name": "Johnny Cecotto",
+  "firstName": "Johnny",
+  "lastName": "Cecotto",
+  "fullName": "Alberto Cecotto",
+  "abbreviation": "CEC",
+  "gender": "MALE",
+  "dateOfBirth": "1956-01-25",
+  "placeOfBirth": "Caracas",
+  "countryOfBirthCountryId": "venezuela",
+  "nationalityCountryId": "venezuela",
+  "totalChampionships": 0,
+  "totalRaceEntries": 23,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,15 @@
+{
+  "id": "toyota",
+  "name": "Toyota",
+  "fullName": "Toyota Racing",
+  "countryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 140,
+  "totalRaceStarts": 139,
+  "totalRaceWins": 0,
+  "totalPolePositions": 3,
+  "totalPodiums": 13,
+  "totalPoints": 278.5,
+  "totalDriverPoints": 278.5,
+  "totalFastestLaps": 3
+}

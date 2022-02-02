@@ -1,0 +1,23 @@
+{
+  "id": "syd-van-der-vyver",
+  "name": "Syd van der Vyver",
+  "firstName": "Syd",
+  "lastName": "Van der Vyver",
+  "fullName": "Syd van der Vyver",
+  "abbreviation": "VAN",
+  "gender": "MALE",
+  "dateOfBirth": "1920-06-01",
+  "dateOfDeath": "1989-08-20",
+  "placeOfBirth": "Pennington",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

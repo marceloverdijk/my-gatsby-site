@@ -1,0 +1,23 @@
+{
+  "id": "bruce-mclaren",
+  "name": "Bruce McLaren",
+  "firstName": "Bruce",
+  "lastName": "McLaren",
+  "fullName": "Bruce Leslie McLaren",
+  "abbreviation": "MCL",
+  "gender": "MALE",
+  "dateOfBirth": "1937-08-30",
+  "dateOfDeath": "1970-06-02",
+  "placeOfBirth": "Auckland",
+  "countryOfBirthCountryId": "new-zealand",
+  "nationalityCountryId": "new-zealand",
+  "totalChampionships": 0,
+  "totalRaceEntries": 104,
+  "totalRaceStarts": 100,
+  "totalRaceWins": 4,
+  "totalPolePositions": 0,
+  "totalPodiums": 27,
+  "totalPoints": 196.5,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

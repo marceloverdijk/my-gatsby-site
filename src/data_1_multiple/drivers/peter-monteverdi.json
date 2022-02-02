@@ -1,0 +1,23 @@
+{
+  "id": "peter-monteverdi",
+  "name": "Peter Monteverdi",
+  "firstName": "Peter",
+  "lastName": "Monteverdi",
+  "fullName": "Peter Monteverdi",
+  "abbreviation": "MON",
+  "gender": "MALE",
+  "dateOfBirth": "1934-06-07",
+  "dateOfDeath": "1998-07-04",
+  "placeOfBirth": "Binningen",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

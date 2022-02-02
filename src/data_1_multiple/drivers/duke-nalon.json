@@ -1,0 +1,23 @@
+{
+  "id": "duke-nalon",
+  "name": "Duke Nalon",
+  "firstName": "Dennis",
+  "lastName": "Nalon",
+  "fullName": "Dennis Nalon",
+  "abbreviation": "NAL",
+  "gender": "MALE",
+  "dateOfBirth": "1913-03-02",
+  "dateOfDeath": "2001-02-26",
+  "placeOfBirth": "Chicago",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

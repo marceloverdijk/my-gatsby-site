@@ -1,0 +1,23 @@
+{
+  "id": "bayliss-levrett",
+  "name": "Bayliss Levrett",
+  "firstName": "Bayliss",
+  "lastName": "Levrett",
+  "fullName": "Bayliss Levrett",
+  "abbreviation": "LEV",
+  "gender": "MALE",
+  "dateOfBirth": "1914-02-14",
+  "dateOfDeath": "2002-03-13",
+  "placeOfBirth": "Jacksonville",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "al-keller",
+  "name": "Al Keller",
+  "firstName": "Al",
+  "lastName": "Keller",
+  "fullName": "Al Keller",
+  "abbreviation": "KEL",
+  "gender": "MALE",
+  "dateOfBirth": "1920-04-11",
+  "dateOfDeath": "1961-11-19",
+  "placeOfBirth": "Alexander",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "yuji-ide",
+  "name": "Yuji Ide",
+  "firstName": "Yuji",
+  "lastName": "Ide",
+  "fullName": "Yuji Ide",
+  "abbreviation": "IDE",
+  "gender": "MALE",
+  "dateOfBirth": "1975-01-21",
+  "placeOfBirth": "Saitama",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

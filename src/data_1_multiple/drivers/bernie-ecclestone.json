@@ -1,0 +1,22 @@
+{
+  "id": "bernie-ecclestone",
+  "name": "Bernie Ecclestone",
+  "firstName": "Bernie",
+  "lastName": "Ecclestone",
+  "fullName": "Bernard Charles Ecclestone",
+  "abbreviation": "ECC",
+  "gender": "MALE",
+  "dateOfBirth": "1930-10-28",
+  "placeOfBirth": "St Peter South Elmham",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jesus-iglesias",
+  "name": "Jesús Iglesias",
+  "firstName": "Jesús",
+  "lastName": "Iglesias",
+  "fullName": "Jesús Ricardo Iglesias",
+  "abbreviation": "IGL",
+  "gender": "MALE",
+  "dateOfBirth": "1922-02-22",
+  "dateOfDeath": "2005-07-11",
+  "placeOfBirth": "Pergamino",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

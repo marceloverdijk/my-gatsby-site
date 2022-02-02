@@ -1,0 +1,23 @@
+{
+  "id": "harry-merkel",
+  "name": "Harry Merkel",
+  "firstName": "Harry",
+  "lastName": "Merkel",
+  "fullName": "Harry Erich Merkel",
+  "abbreviation": "MER",
+  "gender": "MALE",
+  "dateOfBirth": "1918-01-10",
+  "dateOfDeath": "1995-02-11",
+  "placeOfBirth": "Taucha",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

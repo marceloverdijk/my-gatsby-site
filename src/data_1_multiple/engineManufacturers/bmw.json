@@ -1,0 +1,12 @@
+{
+  "id": "bmw",
+  "name": "BMW",
+  "countryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 273,
+  "totalRaceStarts": 270,
+  "totalRaceWins": 20,
+  "totalPolePositions": 33,
+  "totalPodiums": 76,
+  "totalFastestLaps": 33
+}

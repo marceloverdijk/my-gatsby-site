@@ -1,0 +1,22 @@
+{
+  "id": "franck-montagny",
+  "name": "Franck Montagny",
+  "firstName": "Franck",
+  "lastName": "Montagny",
+  "fullName": "Franck Montagny",
+  "abbreviation": "MON",
+  "gender": "MALE",
+  "dateOfBirth": "1978-01-05",
+  "placeOfBirth": "Feurs",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

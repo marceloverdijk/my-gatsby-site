@@ -1,0 +1,22 @@
+{
+  "id": "david-brabham",
+  "name": "David Brabham",
+  "firstName": "David",
+  "lastName": "Brabham",
+  "fullName": "David Brabham",
+  "abbreviation": "BRA",
+  "gender": "MALE",
+  "dateOfBirth": "1965-09-05",
+  "placeOfBirth": "Wimbledon",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 30,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

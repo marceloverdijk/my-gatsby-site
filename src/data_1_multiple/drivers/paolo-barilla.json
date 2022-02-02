@@ -1,0 +1,22 @@
+{
+  "id": "paolo-barilla",
+  "name": "Paolo Barilla",
+  "firstName": "Paolo",
+  "lastName": "Barilla",
+  "fullName": "Paolo Barilla",
+  "abbreviation": "BAR",
+  "gender": "MALE",
+  "dateOfBirth": "1961-04-20",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 15,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

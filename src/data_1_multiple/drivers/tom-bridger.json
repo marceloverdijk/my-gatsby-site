@@ -1,0 +1,23 @@
+{
+  "id": "tom-bridger",
+  "name": "Tom Bridger",
+  "firstName": "Tom",
+  "lastName": "Bridger",
+  "fullName": "Thomas Bridger",
+  "abbreviation": "BRI",
+  "gender": "MALE",
+  "dateOfBirth": "1934-06-24",
+  "dateOfDeath": "1991-07-30",
+  "placeOfBirth": "Woolmer Green",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

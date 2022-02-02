@@ -1,0 +1,23 @@
+{
+  "id": "ken-richardson",
+  "name": "Ken Richardson",
+  "firstName": "Ken",
+  "lastName": "Richardson",
+  "fullName": "William Kenneth Richardson",
+  "abbreviation": "RIC",
+  "gender": "MALE",
+  "dateOfBirth": "1911-08-21",
+  "dateOfDeath": "1997-06-27",
+  "placeOfBirth": "Bourne",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

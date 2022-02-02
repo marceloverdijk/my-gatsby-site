@@ -1,0 +1,23 @@
+{
+  "id": "elio-de-angelis",
+  "name": "Elio de Angelis",
+  "firstName": "Elio",
+  "lastName": "De Angelis",
+  "fullName": "Elio de Angelis",
+  "abbreviation": "DEA",
+  "gender": "MALE",
+  "dateOfBirth": "1958-03-26",
+  "dateOfDeath": "1986-05-15",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 109,
+  "totalRaceStarts": 108,
+  "totalRaceWins": 2,
+  "totalPolePositions": 3,
+  "totalPodiums": 9,
+  "totalPoints": 122,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

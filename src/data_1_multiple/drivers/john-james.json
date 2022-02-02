@@ -1,0 +1,23 @@
+{
+  "id": "john-james",
+  "name": "John James",
+  "firstName": "John",
+  "lastName": "James",
+  "fullName": "John James",
+  "abbreviation": "JAM",
+  "gender": "MALE",
+  "dateOfBirth": "1914-05-10",
+  "dateOfDeath": "2002-01-27",
+  "placeOfBirth": "Packwood",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

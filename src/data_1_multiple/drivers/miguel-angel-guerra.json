@@ -1,0 +1,22 @@
+{
+  "id": "miguel-angel-guerra",
+  "name": "Miguel Ángel Guerra",
+  "firstName": "Miguel Ángel",
+  "lastName": "Guerra",
+  "fullName": "Miguel Ángel Guerra",
+  "abbreviation": "GUE",
+  "gender": "MALE",
+  "dateOfBirth": "1953-08-31",
+  "placeOfBirth": "Buenos Aires",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

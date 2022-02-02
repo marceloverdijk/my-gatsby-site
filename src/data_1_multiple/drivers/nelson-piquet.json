@@ -1,0 +1,22 @@
+{
+  "id": "nelson-piquet",
+  "name": "Nelson Piquet",
+  "firstName": "Nelson",
+  "lastName": "Piquet",
+  "fullName": "Nelson Piquet Souto Maior",
+  "abbreviation": "PIQ",
+  "gender": "MALE",
+  "dateOfBirth": "1952-08-17",
+  "placeOfBirth": "Rio de Janeiro",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 3,
+  "totalRaceEntries": 207,
+  "totalRaceStarts": 203,
+  "totalRaceWins": 23,
+  "totalPolePositions": 24,
+  "totalPodiums": 60,
+  "totalPoints": 485.5,
+  "totalFastestLaps": 23,
+  "totalDriverOfTheDay": 0
+}

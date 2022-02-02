@@ -1,0 +1,22 @@
+{
+  "id": "mike-thackwell",
+  "name": "Mike Thackwell",
+  "firstName": "Mike",
+  "lastName": "Thackwell",
+  "fullName": "Mike Thackwell",
+  "abbreviation": "THA",
+  "gender": "MALE",
+  "dateOfBirth": "1961-03-30",
+  "placeOfBirth": "Papakura",
+  "countryOfBirthCountryId": "new-zealand",
+  "nationalityCountryId": "new-zealand",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

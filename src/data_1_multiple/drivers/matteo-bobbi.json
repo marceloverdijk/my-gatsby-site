@@ -1,0 +1,22 @@
+{
+  "id": "matteo-bobbi",
+  "name": "Matteo Bobbi",
+  "firstName": "Matteo",
+  "lastName": "Bobbi",
+  "fullName": "Matteo Bobbi",
+  "abbreviation": "BOB",
+  "gender": "MALE",
+  "dateOfBirth": "1978-07-02",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

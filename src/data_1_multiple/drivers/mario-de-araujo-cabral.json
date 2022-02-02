@@ -1,0 +1,23 @@
+{
+  "id": "mario-de-araujo-cabral",
+  "name": "Mário de Araújo Cabral",
+  "firstName": "Mário de Araújo",
+  "lastName": "Cabral",
+  "fullName": "Mário Veloso de Araújo Cabral",
+  "abbreviation": "DEA",
+  "gender": "MALE",
+  "dateOfBirth": "1934-01-15",
+  "dateOfDeath": "2020-08-17",
+  "placeOfBirth": "Cedofeita",
+  "countryOfBirthCountryId": "portugal",
+  "nationalityCountryId": "portugal",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

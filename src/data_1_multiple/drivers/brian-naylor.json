@@ -1,0 +1,23 @@
+{
+  "id": "brian-naylor",
+  "name": "Brian Naylor",
+  "firstName": "Brian",
+  "lastName": "Naylor",
+  "fullName": "John Brian Naylor",
+  "abbreviation": "NAY",
+  "gender": "MALE",
+  "dateOfBirth": "1923-03-24",
+  "dateOfDeath": "1989-08-08",
+  "placeOfBirth": "Salford",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

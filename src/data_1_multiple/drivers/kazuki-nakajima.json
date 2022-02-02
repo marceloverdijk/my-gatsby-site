@@ -1,0 +1,22 @@
+{
+  "id": "kazuki-nakajima",
+  "name": "Kazuki Nakajima",
+  "firstName": "Kazuki",
+  "lastName": "Nakajima",
+  "fullName": "Kazuki Nakajima",
+  "abbreviation": "NAK",
+  "gender": "MALE",
+  "dateOfBirth": "1985-01-11",
+  "placeOfBirth": "Okazaki",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 36,
+  "totalRaceStarts": 36,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 9,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

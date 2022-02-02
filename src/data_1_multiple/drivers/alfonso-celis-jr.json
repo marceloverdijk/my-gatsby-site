@@ -1,0 +1,22 @@
+{
+  "id": "alfonso-celis-jr",
+  "name": "Alfonso Celis Jr.",
+  "firstName": "Alfonso",
+  "lastName": "Celis Jr.",
+  "fullName": "Alfonso Celis Enecoiz",
+  "abbreviation": "CEL",
+  "gender": "MALE",
+  "dateOfBirth": "1996-09-18",
+  "placeOfBirth": "Mexico City",
+  "countryOfBirthCountryId": "mexico",
+  "nationalityCountryId": "mexico",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

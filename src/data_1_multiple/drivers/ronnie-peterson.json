@@ -1,0 +1,23 @@
+{
+  "id": "ronnie-peterson",
+  "name": "Ronnie Peterson",
+  "firstName": "Ronnie",
+  "lastName": "Peterson",
+  "fullName": "Bengt Ronnie Peterson",
+  "abbreviation": "PET",
+  "gender": "MALE",
+  "dateOfBirth": "1944-02-14",
+  "dateOfDeath": "1978-09-11",
+  "placeOfBirth": "Örebro",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 123,
+  "totalRaceStarts": 123,
+  "totalRaceWins": 10,
+  "totalPolePositions": 14,
+  "totalPodiums": 26,
+  "totalPoints": 206,
+  "totalFastestLaps": 9,
+  "totalDriverOfTheDay": 0
+}

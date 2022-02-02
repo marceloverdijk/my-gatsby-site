@@ -1,0 +1,16 @@
+{
+  "id": 1058,
+  "year": 2021,
+  "round": 23,
+  "date": "2021-12-12",
+  "grandPrixId": "abu-dhabi",
+  "officialName": "Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "yas-marina",
+  "circuitType": "RACE",
+  "courseLength": 5.554,
+  "laps": 55,
+  "distance": 305.355,
+  "scheduledLaps": 55,
+  "scheduledDistance": 305.355
+}

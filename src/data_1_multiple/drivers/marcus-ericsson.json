@@ -1,0 +1,23 @@
+{
+  "id": "marcus-ericsson",
+  "name": "Marcus Ericsson",
+  "firstName": "Marcus",
+  "lastName": "Ericsson",
+  "fullName": "Marcus Ericsson",
+  "abbreviation": "ERI",
+  "permanentNumber": "9",
+  "gender": "MALE",
+  "dateOfBirth": "1990-09-02",
+  "placeOfBirth": "Kumla",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 97,
+  "totalRaceStarts": 97,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 18,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

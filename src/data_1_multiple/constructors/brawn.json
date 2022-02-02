@@ -1,0 +1,16 @@
+{
+  "id": "brawn",
+  "name": "Brawn GP",
+  "fullName": "Brawn GP Formula One Team",
+  "previousConstructorId": "honda",
+  "countryId": "united-kingdom",
+  "totalChampionships": 1,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 17,
+  "totalRaceWins": 8,
+  "totalPolePositions": 5,
+  "totalPodiums": 11,
+  "totalPoints": 172,
+  "totalDriverPoints": 172,
+  "totalFastestLaps": 4
+}

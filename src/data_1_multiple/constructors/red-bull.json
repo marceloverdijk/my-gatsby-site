@@ -1,0 +1,16 @@
+{
+  "id": "red-bull",
+  "name": "Red Bull",
+  "fullName": "Red Bull Racing",
+  "previousConstructorId": "jaguar",
+  "countryId": "austria",
+  "totalChampionships": 4,
+  "totalRaceEntries": 305,
+  "totalRaceStarts": 304,
+  "totalRaceWins": 64,
+  "totalPolePositions": 64,
+  "totalPodiums": 145,
+  "totalPoints": 5071.5,
+  "totalDriverPoints": 5071.5,
+  "totalFastestLaps": 68
+}

@@ -1,0 +1,23 @@
+{
+  "id": "john-campbell-jones",
+  "name": "John Campbell-Jones",
+  "firstName": "John",
+  "lastName": "Campbell-Jones",
+  "fullName": "Michael John Churchill Campbell-Jones",
+  "abbreviation": "CAM",
+  "gender": "MALE",
+  "dateOfBirth": "1930-01-21",
+  "dateOfDeath": "2020-03-24",
+  "placeOfBirth": "Leatherhead",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

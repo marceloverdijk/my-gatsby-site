@@ -1,0 +1,23 @@
+{
+  "id": "umberto-maglioli",
+  "name": "Umberto Maglioli",
+  "firstName": "Umberto",
+  "lastName": "Maglioli",
+  "fullName": "Umberto Maglioli",
+  "abbreviation": "MAG",
+  "gender": "MALE",
+  "dateOfBirth": "1928-06-05",
+  "dateOfDeath": "1999-02-07",
+  "placeOfBirth": "Bioglio",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 3.33,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

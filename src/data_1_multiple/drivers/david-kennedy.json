@@ -1,0 +1,22 @@
+{
+  "id": "david-kennedy",
+  "name": "David Kennedy",
+  "firstName": "David",
+  "lastName": "Kennedy",
+  "fullName": "David Kennedy",
+  "abbreviation": "KEN",
+  "gender": "MALE",
+  "dateOfBirth": "1953-01-15",
+  "placeOfBirth": "Sligo",
+  "countryOfBirthCountryId": "ireland",
+  "nationalityCountryId": "ireland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

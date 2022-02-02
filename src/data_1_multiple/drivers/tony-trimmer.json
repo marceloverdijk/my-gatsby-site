@@ -1,0 +1,22 @@
+{
+  "id": "tony-trimmer",
+  "name": "Tony Trimmer",
+  "firstName": "Tony",
+  "lastName": "Trimmer",
+  "fullName": "Tony Trimmer",
+  "abbreviation": "TRI",
+  "gender": "MALE",
+  "dateOfBirth": "1943-01-24",
+  "placeOfBirth": "Maidenhead",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 6,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

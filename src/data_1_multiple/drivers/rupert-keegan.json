@@ -1,0 +1,22 @@
+{
+  "id": "rupert-keegan",
+  "name": "Rupert Keegan",
+  "firstName": "Rupert",
+  "lastName": "Keegan",
+  "fullName": "Rupert Keegan",
+  "abbreviation": "KEE",
+  "gender": "MALE",
+  "dateOfBirth": "1955-02-26",
+  "placeOfBirth": "Westcliff-on-Sea",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 37,
+  "totalRaceStarts": 25,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

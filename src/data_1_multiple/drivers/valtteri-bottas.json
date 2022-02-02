@@ -1,0 +1,23 @@
+{
+  "id": "valtteri-bottas",
+  "name": "Valtteri Bottas",
+  "firstName": "Valtteri",
+  "lastName": "Bottas",
+  "fullName": "Valtteri Bottas",
+  "abbreviation": "BOT",
+  "permanentNumber": "77",
+  "gender": "MALE",
+  "dateOfBirth": "1989-08-28",
+  "placeOfBirth": "Nastola",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 158,
+  "totalRaceStarts": 157,
+  "totalRaceWins": 9,
+  "totalPolePositions": 16,
+  "totalPodiums": 57,
+  "totalPoints": 1528,
+  "totalFastestLaps": 16,
+  "totalDriverOfTheDay": 5
+}

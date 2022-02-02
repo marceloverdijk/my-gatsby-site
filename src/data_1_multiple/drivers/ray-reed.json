@@ -1,0 +1,23 @@
+{
+  "id": "ray-reed",
+  "name": "Ray Reed",
+  "firstName": "Ray",
+  "lastName": "Reed",
+  "fullName": "Ray Reed",
+  "abbreviation": "REE",
+  "gender": "MALE",
+  "dateOfBirth": "1932-04-30",
+  "dateOfDeath": "1970-05-08",
+  "placeOfBirth": "Gwelo",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "zimbabwe",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

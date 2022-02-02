@@ -1,0 +1,23 @@
+{
+  "id": "roberto-mieres",
+  "name": "Roberto Mieres",
+  "firstName": "Roberto",
+  "lastName": "Mieres",
+  "fullName": "Roberto Casimiro Mieres",
+  "abbreviation": "MIE",
+  "gender": "MALE",
+  "dateOfBirth": "1924-12-03",
+  "dateOfDeath": "2012-01-26",
+  "placeOfBirth": "Mar del Plata",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 17,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 13,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

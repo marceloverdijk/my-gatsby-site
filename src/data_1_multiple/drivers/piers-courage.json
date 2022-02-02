@@ -1,0 +1,23 @@
+{
+  "id": "piers-courage",
+  "name": "Piers Courage",
+  "firstName": "Piers",
+  "lastName": "Courage",
+  "fullName": "Piers Raymond Courage",
+  "abbreviation": "COU",
+  "gender": "MALE",
+  "dateOfBirth": "1942-05-27",
+  "dateOfDeath": "1970-06-21",
+  "placeOfBirth": "Colchester",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 30,
+  "totalRaceStarts": 28,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 20,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

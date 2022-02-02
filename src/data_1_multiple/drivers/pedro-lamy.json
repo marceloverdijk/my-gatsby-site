@@ -1,0 +1,22 @@
+{
+  "id": "pedro-lamy",
+  "name": "Pedro Lamy",
+  "firstName": "Pedro",
+  "lastName": "Lamy",
+  "fullName": "José Pedro Mourão Lamy Viçoso",
+  "abbreviation": "LAM",
+  "gender": "MALE",
+  "dateOfBirth": "1972-03-20",
+  "placeOfBirth": "Aldeia Galega da Merceana",
+  "countryOfBirthCountryId": "portugal",
+  "nationalityCountryId": "portugal",
+  "totalChampionships": 0,
+  "totalRaceEntries": 31,
+  "totalRaceStarts": 31,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

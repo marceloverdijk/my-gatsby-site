@@ -1,0 +1,23 @@
+{
+  "id": "elmer-george",
+  "name": "Elmer George",
+  "firstName": "Elmer",
+  "lastName": "George",
+  "fullName": "Elmer George",
+  "abbreviation": "GEO",
+  "gender": "MALE",
+  "dateOfBirth": "1928-07-15",
+  "dateOfDeath": "1976-05-31",
+  "placeOfBirth": "Hockerville",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

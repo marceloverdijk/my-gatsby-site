@@ -1,0 +1,23 @@
+{
+  "id": "phil-hill",
+  "name": "Phil Hill",
+  "firstName": "Phil",
+  "lastName": "Hill",
+  "fullName": "Philip Toll Hill, Jr.",
+  "abbreviation": "HIL",
+  "gender": "MALE",
+  "dateOfBirth": "1927-04-20",
+  "dateOfDeath": "2008-08-28",
+  "placeOfBirth": "Miami",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 1,
+  "totalRaceEntries": 52,
+  "totalRaceStarts": 48,
+  "totalRaceWins": 3,
+  "totalPolePositions": 6,
+  "totalPodiums": 16,
+  "totalPoints": 98,
+  "totalFastestLaps": 6,
+  "totalDriverOfTheDay": 0
+}

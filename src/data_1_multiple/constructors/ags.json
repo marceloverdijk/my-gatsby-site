@@ -1,0 +1,15 @@
+{
+  "id": "ags",
+  "name": "AGS",
+  "fullName": "Automobiles Gonfaronnaises Sportives",
+  "countryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 80,
+  "totalRaceStarts": 48,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalDriverPoints": 2,
+  "totalFastestLaps": 0
+}

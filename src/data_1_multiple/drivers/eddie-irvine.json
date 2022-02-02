@@ -1,0 +1,22 @@
+{
+  "id": "eddie-irvine",
+  "name": "Eddie Irvine",
+  "firstName": "Eddie",
+  "lastName": "Irvine",
+  "fullName": "Edmund Irvine Jr.",
+  "abbreviation": "IRV",
+  "gender": "MALE",
+  "dateOfBirth": "1965-11-10",
+  "placeOfBirth": "Newtownards",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 147,
+  "totalRaceStarts": 147,
+  "totalRaceWins": 4,
+  "totalPolePositions": 0,
+  "totalPodiums": 26,
+  "totalPoints": 191,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

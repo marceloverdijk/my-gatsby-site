@@ -1,0 +1,23 @@
+{
+  "id": "peter-collins",
+  "name": "Peter Collins",
+  "firstName": "Peter",
+  "lastName": "Collins",
+  "fullName": "Peter John Collins",
+  "abbreviation": "COL",
+  "gender": "MALE",
+  "dateOfBirth": "1931-11-06",
+  "dateOfDeath": "1958-08-03",
+  "placeOfBirth": "Kidderminster",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 35,
+  "totalRaceStarts": 32,
+  "totalRaceWins": 3,
+  "totalPolePositions": 0,
+  "totalPodiums": 9,
+  "totalPoints": 47,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

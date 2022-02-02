@@ -1,0 +1,23 @@
+{
+  "id": "josef-peters",
+  "name": "Josef Peters",
+  "firstName": "Josef",
+  "lastName": "Peters",
+  "fullName": "Josef Peters",
+  "abbreviation": "PET",
+  "gender": "MALE",
+  "dateOfBirth": "1914-09-16",
+  "dateOfDeath": "2001-04-24",
+  "placeOfBirth": "Düsseldorf",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

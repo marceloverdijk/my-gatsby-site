@@ -1,0 +1,10 @@
+{
+  "id": "shanghai",
+  "name": "Shanghai",
+  "fullName": "Shanghai International Circuit",
+  "type": "RACE",
+  "placeName": "Shanghai",
+  "countryId": "china",
+  "latitude": 31.338889,
+  "longitude": 121.219722
+}

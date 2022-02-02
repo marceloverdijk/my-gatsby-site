@@ -1,0 +1,22 @@
+{
+  "id": "henri-pescarolo",
+  "name": "Henri Pescarolo",
+  "firstName": "Henri",
+  "lastName": "Pescarolo",
+  "fullName": "Henri Jacques William Pescarolo",
+  "abbreviation": "PES",
+  "gender": "MALE",
+  "dateOfBirth": "1942-09-25",
+  "placeOfBirth": "Montfermeil",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 64,
+  "totalRaceStarts": 57,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 12,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gerhard-berger",
+  "name": "Gerhard Berger",
+  "firstName": "Gerhard",
+  "lastName": "Berger",
+  "fullName": "Gerhard Berger",
+  "abbreviation": "BER",
+  "gender": "MALE",
+  "dateOfBirth": "1959-08-27",
+  "placeOfBirth": "Wörgl",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 210,
+  "totalRaceStarts": 210,
+  "totalRaceWins": 10,
+  "totalPolePositions": 12,
+  "totalPodiums": 48,
+  "totalPoints": 385,
+  "totalFastestLaps": 21,
+  "totalDriverOfTheDay": 0
+}

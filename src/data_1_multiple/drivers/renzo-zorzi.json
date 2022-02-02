@@ -1,0 +1,23 @@
+{
+  "id": "renzo-zorzi",
+  "name": "Renzo Zorzi",
+  "firstName": "Renzo",
+  "lastName": "Zorzi",
+  "fullName": "Renzo Zorzi",
+  "abbreviation": "ZOR",
+  "gender": "MALE",
+  "dateOfBirth": "1946-12-12",
+  "dateOfDeath": "2015-05-15",
+  "placeOfBirth": "Ziano di Fiemme",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

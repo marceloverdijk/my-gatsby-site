@@ -1,0 +1,23 @@
+{
+  "id": "alex-blignaut",
+  "name": "Alex Blignaut",
+  "firstName": "Alex",
+  "lastName": "Blignaut",
+  "fullName": "Alex Blignaut",
+  "abbreviation": "BLI",
+  "gender": "MALE",
+  "dateOfBirth": "1932-11-30",
+  "dateOfDeath": "2001-01-15",
+  "placeOfBirth": "Johannesburg",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "george-constantine",
+  "name": "George Constantine",
+  "firstName": "George",
+  "lastName": "Constantine",
+  "fullName": "George J. Constantine",
+  "abbreviation": "CON",
+  "gender": "MALE",
+  "dateOfBirth": "1918-02-22",
+  "dateOfDeath": "1968-01-07",
+  "placeOfBirth": "Southbridge",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

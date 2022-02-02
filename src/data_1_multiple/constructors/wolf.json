@@ -1,0 +1,16 @@
+{
+  "id": "wolf",
+  "name": "Wolf",
+  "fullName": "Walter Wolf Racing",
+  "previousConstructorId": "wolf-williams",
+  "countryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 48,
+  "totalRaceStarts": 47,
+  "totalRaceWins": 3,
+  "totalPolePositions": 1,
+  "totalPodiums": 13,
+  "totalPoints": 79,
+  "totalDriverPoints": 79,
+  "totalFastestLaps": 2
+}

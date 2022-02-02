@@ -1,0 +1,22 @@
+{
+  "id": "gianni-morbidelli",
+  "name": "Gianni Morbidelli",
+  "firstName": "Gianni",
+  "lastName": "Morbidelli",
+  "fullName": "Gianni Morbidelli",
+  "abbreviation": "MOR",
+  "gender": "MALE",
+  "dateOfBirth": "1968-01-13",
+  "placeOfBirth": "Pesaro",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 70,
+  "totalRaceStarts": 67,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8.5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

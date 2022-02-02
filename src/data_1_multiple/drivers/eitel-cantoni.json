@@ -1,0 +1,23 @@
+{
+  "id": "eitel-cantoni",
+  "name": "Eitel Cantoni",
+  "firstName": "Eitel",
+  "lastName": "Cantoni",
+  "fullName": "Eitel Danilo Cantoni",
+  "abbreviation": "CAN",
+  "gender": "MALE",
+  "dateOfBirth": "1906-10-04",
+  "dateOfDeath": "1997-06-06",
+  "placeOfBirth": "Montevideo",
+  "countryOfBirthCountryId": "uruguay",
+  "nationalityCountryId": "uruguay",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

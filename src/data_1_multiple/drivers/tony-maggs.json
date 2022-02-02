@@ -1,0 +1,23 @@
+{
+  "id": "tony-maggs",
+  "name": "Tony Maggs",
+  "firstName": "Tony",
+  "lastName": "Maggs",
+  "fullName": "Anthony Francis O'Connell Maggs",
+  "abbreviation": "MAG",
+  "gender": "MALE",
+  "dateOfBirth": "1937-02-09",
+  "dateOfDeath": "2009-06-02",
+  "placeOfBirth": "Pretoria",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 27,
+  "totalRaceStarts": 25,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 3,
+  "totalPoints": 26,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

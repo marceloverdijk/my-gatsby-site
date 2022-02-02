@@ -1,0 +1,23 @@
+{
+  "id": "giancarlo-baghetti",
+  "name": "Giancarlo Baghetti",
+  "firstName": "Giancarlo",
+  "lastName": "Baghetti",
+  "fullName": "Giancarlo Baghetti",
+  "abbreviation": "BAG",
+  "gender": "MALE",
+  "dateOfBirth": "1934-12-25",
+  "dateOfDeath": "1995-11-27",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 21,
+  "totalRaceStarts": 21,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 14,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

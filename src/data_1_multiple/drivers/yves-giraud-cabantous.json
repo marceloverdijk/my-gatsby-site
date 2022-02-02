@@ -1,0 +1,23 @@
+{
+  "id": "yves-giraud-cabantous",
+  "name": "Yves Giraud-Cabantous",
+  "firstName": "Yves",
+  "lastName": "Giraud-Cabantous",
+  "fullName": "Marius Aristide Yves Giraud-Cabantous",
+  "abbreviation": "CAB",
+  "gender": "MALE",
+  "dateOfBirth": "1904-10-08",
+  "dateOfDeath": "1973-03-30",
+  "placeOfBirth": "Saint-Gaudens",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 13,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

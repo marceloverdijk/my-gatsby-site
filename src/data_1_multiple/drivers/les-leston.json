@@ -1,0 +1,23 @@
+{
+  "id": "les-leston",
+  "name": "Les Leston",
+  "firstName": "Les",
+  "lastName": "Leston",
+  "fullName": "Alfred Lazarus Fingleston",
+  "abbreviation": "LES",
+  "gender": "MALE",
+  "dateOfBirth": "1920-12-16",
+  "dateOfDeath": "2012-05-13",
+  "placeOfBirth": "Bulwell",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

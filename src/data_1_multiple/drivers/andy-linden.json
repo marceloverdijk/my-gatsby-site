@@ -1,0 +1,23 @@
+{
+  "id": "andy-linden",
+  "name": "Andy Linden",
+  "firstName": "Andy",
+  "lastName": "Linden",
+  "fullName": "Andy Linden",
+  "abbreviation": "LIN",
+  "gender": "MALE",
+  "dateOfBirth": "1922-04-05",
+  "dateOfDeath": "1987-02-10",
+  "placeOfBirth": "Brownsville",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

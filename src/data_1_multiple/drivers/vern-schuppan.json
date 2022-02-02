@@ -1,0 +1,22 @@
+{
+  "id": "vern-schuppan",
+  "name": "Vern Schuppan",
+  "firstName": "Vern",
+  "lastName": "Schuppan",
+  "fullName": "Vernon Schuppan",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1943-03-19",
+  "placeOfBirth": "Booleroo Centre",
+  "countryOfBirthCountryId": "australia",
+  "nationalityCountryId": "australia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

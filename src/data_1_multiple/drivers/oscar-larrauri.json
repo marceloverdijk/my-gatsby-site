@@ -1,0 +1,22 @@
+{
+  "id": "oscar-larrauri",
+  "name": "Oscar Larrauri",
+  "firstName": "Oscar",
+  "lastName": "Larrauri",
+  "fullName": "Oscar Rubén Larrauri",
+  "abbreviation": "LAR",
+  "gender": "MALE",
+  "dateOfBirth": "1954-08-19",
+  "placeOfBirth": "Rosario",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 21,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

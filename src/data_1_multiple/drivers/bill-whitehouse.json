@@ -1,0 +1,23 @@
+{
+  "id": "bill-whitehouse",
+  "name": "Bill Whitehouse",
+  "firstName": "Bill",
+  "lastName": "Whitehouse",
+  "fullName": "Bill Whitehouse",
+  "abbreviation": "WHI",
+  "gender": "MALE",
+  "dateOfBirth": "1909-04-01",
+  "dateOfDeath": "1957-07-14",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

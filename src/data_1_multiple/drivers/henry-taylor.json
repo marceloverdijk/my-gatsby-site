@@ -1,0 +1,23 @@
+{
+  "id": "henry-taylor",
+  "name": "Henry Taylor",
+  "firstName": "Henry",
+  "lastName": "Taylor",
+  "fullName": "Henry Taylor",
+  "abbreviation": "TAY",
+  "gender": "MALE",
+  "dateOfBirth": "1932-12-16",
+  "dateOfDeath": "2013-10-24",
+  "placeOfBirth": "Shefford",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 11,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

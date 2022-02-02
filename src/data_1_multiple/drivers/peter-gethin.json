@@ -1,0 +1,23 @@
+{
+  "id": "peter-gethin",
+  "name": "Peter Gethin",
+  "firstName": "Peter",
+  "lastName": "Gethin",
+  "fullName": "Peter Kenneth Gethin",
+  "abbreviation": "GET",
+  "gender": "MALE",
+  "dateOfBirth": "1940-02-21",
+  "dateOfDeath": "2011-12-05",
+  "placeOfBirth": "Ewell",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 31,
+  "totalRaceStarts": 30,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 11,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

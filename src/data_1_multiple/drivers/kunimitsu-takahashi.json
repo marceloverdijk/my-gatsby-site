@@ -1,0 +1,22 @@
+{
+  "id": "kunimitsu-takahashi",
+  "name": "Kunimitsu Takahashi",
+  "firstName": "Kunimitsu",
+  "lastName": "Takahashi",
+  "fullName": "Kunimitsu Takahashi",
+  "abbreviation": "TAK",
+  "gender": "MALE",
+  "dateOfBirth": "1940-01-29",
+  "placeOfBirth": "Tokyo",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

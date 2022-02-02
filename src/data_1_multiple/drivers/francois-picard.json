@@ -1,0 +1,23 @@
+{
+  "id": "francois-picard",
+  "name": "François Picard",
+  "firstName": "François",
+  "lastName": "Picard",
+  "fullName": "François Picard",
+  "abbreviation": "PIC",
+  "gender": "MALE",
+  "dateOfBirth": "1921-04-26",
+  "dateOfDeath": "1996-04-29",
+  "placeOfBirth": "Villefranche-sur-Saône",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

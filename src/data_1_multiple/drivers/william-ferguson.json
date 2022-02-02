@@ -1,0 +1,23 @@
+{
+  "id": "william-ferguson",
+  "name": "William Ferguson",
+  "firstName": "William",
+  "lastName": "Ferguson",
+  "fullName": "William Ferguson",
+  "abbreviation": "FER",
+  "gender": "MALE",
+  "dateOfBirth": "1940-03-06",
+  "dateOfDeath": "2007-05-19",
+  "placeOfBirth": "Johannesburg",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

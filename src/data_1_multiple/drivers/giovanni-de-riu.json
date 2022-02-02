@@ -1,0 +1,23 @@
+{
+  "id": "giovanni-de-riu",
+  "name": "Giovanni de Riu",
+  "firstName": "Giovanni",
+  "lastName": "De Riu",
+  "fullName": "Giovanni de Riu",
+  "abbreviation": "DER",
+  "gender": "MALE",
+  "dateOfBirth": "1925-03-10",
+  "dateOfDeath": "2008-12-11",
+  "placeOfBirth": "Macomer",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

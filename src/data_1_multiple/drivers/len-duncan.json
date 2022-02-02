@@ -1,0 +1,23 @@
+{
+  "id": "len-duncan",
+  "name": "Len Duncan",
+  "firstName": "Len",
+  "lastName": "Duncan",
+  "fullName": "Len Duncan",
+  "abbreviation": "DUN",
+  "gender": "MALE",
+  "dateOfBirth": "1911-07-25",
+  "dateOfDeath": "1998-08-01",
+  "placeOfBirth": "Brooklyn",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

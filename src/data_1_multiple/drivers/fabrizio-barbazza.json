@@ -1,0 +1,22 @@
+{
+  "id": "fabrizio-barbazza",
+  "name": "Fabrizio Barbazza",
+  "firstName": "Fabrizio",
+  "lastName": "Barbazza",
+  "fullName": "Fabrizio Barbazza",
+  "abbreviation": "BAR",
+  "gender": "MALE",
+  "dateOfBirth": "1963-04-02",
+  "placeOfBirth": "Monza",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

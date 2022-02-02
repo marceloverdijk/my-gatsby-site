@@ -1,0 +1,23 @@
+{
+  "id": "marcel-balsa",
+  "name": "Marcel Balsa",
+  "firstName": "Marcel",
+  "lastName": "Balsa",
+  "fullName": "Marcel Lucien Balsa",
+  "abbreviation": "BAL",
+  "gender": "MALE",
+  "dateOfBirth": "1909-01-01",
+  "dateOfDeath": "1984-08-11",
+  "placeOfBirth": "Creuse",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

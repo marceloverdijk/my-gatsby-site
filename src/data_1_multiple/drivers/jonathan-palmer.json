@@ -1,0 +1,22 @@
+{
+  "id": "jonathan-palmer",
+  "name": "Jonathan Palmer",
+  "firstName": "Jonathan",
+  "lastName": "Palmer",
+  "fullName": "Jonathan Charles Palmer",
+  "abbreviation": "PAL",
+  "gender": "MALE",
+  "dateOfBirth": "1956-11-07",
+  "placeOfBirth": "Lewisham",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 88,
+  "totalRaceStarts": 83,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 14,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

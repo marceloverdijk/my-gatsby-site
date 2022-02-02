@@ -1,0 +1,23 @@
+{
+  "id": "jose-dolhem",
+  "name": "José Dolhem",
+  "firstName": "José",
+  "lastName": "Dolhem",
+  "fullName": "Louis José Lucien Dolhem",
+  "abbreviation": "DOL",
+  "gender": "MALE",
+  "dateOfBirth": "1944-04-26",
+  "dateOfDeath": "1988-04-16",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

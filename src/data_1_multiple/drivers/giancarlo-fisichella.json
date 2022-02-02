@@ -1,0 +1,22 @@
+{
+  "id": "giancarlo-fisichella",
+  "name": "Giancarlo Fisichella",
+  "firstName": "Giancarlo",
+  "lastName": "Fisichella",
+  "fullName": "Giancarlo Fisichella",
+  "abbreviation": "FIS",
+  "gender": "MALE",
+  "dateOfBirth": "1973-01-14",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 231,
+  "totalRaceStarts": 229,
+  "totalRaceWins": 3,
+  "totalPolePositions": 4,
+  "totalPodiums": 19,
+  "totalPoints": 275,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

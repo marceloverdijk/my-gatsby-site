@@ -1,0 +1,22 @@
+{
+  "id": "riccardo-patrese",
+  "name": "Riccardo Patrese",
+  "firstName": "Riccardo",
+  "lastName": "Patrese",
+  "fullName": "Riccardo Gabriele Patrese",
+  "abbreviation": "PAT",
+  "gender": "MALE",
+  "dateOfBirth": "1954-04-17",
+  "placeOfBirth": "Padua",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 257,
+  "totalRaceStarts": 256,
+  "totalRaceWins": 6,
+  "totalPolePositions": 8,
+  "totalPodiums": 37,
+  "totalPoints": 281,
+  "totalFastestLaps": 13,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "david-piper",
+  "name": "David Piper",
+  "firstName": "David",
+  "lastName": "Piper",
+  "fullName": "David Piper",
+  "abbreviation": "PIP",
+  "gender": "MALE",
+  "dateOfBirth": "1930-12-02",
+  "placeOfBirth": "Edgware",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

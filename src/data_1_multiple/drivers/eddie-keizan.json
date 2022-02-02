@@ -1,0 +1,23 @@
+{
+  "id": "eddie-keizan",
+  "name": "Eddie Keizan",
+  "firstName": "Eddie",
+  "lastName": "Keizan",
+  "fullName": "Eddie Keizan",
+  "abbreviation": "KEI",
+  "gender": "MALE",
+  "dateOfBirth": "1944-09-12",
+  "dateOfDeath": "2016-05-21",
+  "placeOfBirth": "Johannesburg",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "masami-kuwashima",
+  "name": "Masami Kuwashima",
+  "firstName": "Masami",
+  "lastName": "Kuwashima",
+  "fullName": "Masami Kuwashima",
+  "abbreviation": "KUW",
+  "gender": "MALE",
+  "dateOfBirth": "1950-09-14",
+  "placeOfBirth": "Kumagaya",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rudolf-schoeller",
+  "name": "Rudolf Schoeller",
+  "firstName": "Rudolf",
+  "lastName": "Schoeller",
+  "fullName": "Rudolf Schoeller",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1902-04-27",
+  "dateOfDeath": "1978-03-07",
+  "placeOfBirth": "Düren",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

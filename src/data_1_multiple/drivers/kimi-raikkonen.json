@@ -1,0 +1,23 @@
+{
+  "id": "kimi-raikkonen",
+  "name": "Kimi Räikkönen",
+  "firstName": "Kimi",
+  "lastName": "Räikkönen",
+  "fullName": "Kimi-Matias Räikkönen",
+  "abbreviation": "RAI",
+  "permanentNumber": "7",
+  "gender": "MALE",
+  "dateOfBirth": "1979-10-17",
+  "placeOfBirth": "Espoo",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 1,
+  "totalRaceEntries": 333,
+  "totalRaceStarts": 331,
+  "totalRaceWins": 21,
+  "totalPolePositions": 18,
+  "totalPodiums": 103,
+  "totalPoints": 1863,
+  "totalFastestLaps": 46,
+  "totalDriverOfTheDay": 4
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ernesto-viso",
+  "name": "Ernesto Viso",
+  "firstName": "Ernesto",
+  "lastName": "Viso",
+  "fullName": "Ernesto José Viso Lossada",
+  "abbreviation": "VIS",
+  "gender": "MALE",
+  "dateOfBirth": "1985-03-19",
+  "placeOfBirth": "Caracas",
+  "countryOfBirthCountryId": "venezuela",
+  "nationalityCountryId": "venezuela",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

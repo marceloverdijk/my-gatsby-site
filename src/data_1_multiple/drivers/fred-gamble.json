@@ -1,0 +1,22 @@
+{
+  "id": "fred-gamble",
+  "name": "Fred Gamble",
+  "firstName": "Fred",
+  "lastName": "Gamble",
+  "fullName": "Fred K. Gamble",
+  "abbreviation": "GAM",
+  "gender": "MALE",
+  "dateOfBirth": "1932-03-17",
+  "placeOfBirth": "Pittsburgh",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

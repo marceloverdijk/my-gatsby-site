@@ -1,0 +1,22 @@
+{
+  "id": "pierluigi-martini",
+  "name": "Pierluigi Martini",
+  "firstName": "Pierluigi",
+  "lastName": "Martini",
+  "fullName": "Pierluigi Martini",
+  "abbreviation": "MAR",
+  "gender": "MALE",
+  "dateOfBirth": "1961-04-23",
+  "placeOfBirth": "Lugo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 124,
+  "totalRaceStarts": 117,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 18,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

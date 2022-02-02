@@ -1,0 +1,22 @@
+{
+  "id": "emanuele-pirro",
+  "name": "Emanuele Pirro",
+  "firstName": "Emanuele",
+  "lastName": "Pirro",
+  "fullName": "Emanuele Pirro",
+  "abbreviation": "PIR",
+  "gender": "MALE",
+  "dateOfBirth": "1962-01-12",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 40,
+  "totalRaceStarts": 37,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

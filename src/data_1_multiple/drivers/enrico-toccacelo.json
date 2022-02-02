@@ -1,0 +1,22 @@
+{
+  "id": "enrico-toccacelo",
+  "name": "Enrico Toccacelo",
+  "firstName": "Enrico",
+  "lastName": "Toccacelo",
+  "fullName": "Enrico Toccacelo",
+  "abbreviation": "TOC",
+  "gender": "MALE",
+  "dateOfBirth": "1978-12-14",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

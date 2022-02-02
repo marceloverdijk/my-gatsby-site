@@ -1,0 +1,23 @@
+{
+  "id": "pedro-rodriguez",
+  "name": "Pedro Rodríguez",
+  "firstName": "Pedro",
+  "lastName": "Rodríguez",
+  "fullName": "Pedro Rodríguez de la Vega",
+  "abbreviation": "ROD",
+  "gender": "MALE",
+  "dateOfBirth": "1940-01-18",
+  "dateOfDeath": "1971-07-11",
+  "placeOfBirth": "Mexico City",
+  "countryOfBirthCountryId": "mexico",
+  "nationalityCountryId": "mexico",
+  "totalChampionships": 0,
+  "totalRaceEntries": 55,
+  "totalRaceStarts": 55,
+  "totalRaceWins": 2,
+  "totalPolePositions": 0,
+  "totalPodiums": 7,
+  "totalPoints": 71,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

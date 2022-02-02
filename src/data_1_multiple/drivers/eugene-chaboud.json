@@ -1,0 +1,23 @@
+{
+  "id": "eugene-chaboud",
+  "name": "Eugène Chaboud",
+  "firstName": "Eugène",
+  "lastName": "Chaboud",
+  "fullName": "Marius Eugène Chaboud",
+  "abbreviation": "CHA",
+  "gender": "MALE",
+  "dateOfBirth": "1907-04-12",
+  "dateOfDeath": "1983-12-28",
+  "placeOfBirth": "Lyon",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

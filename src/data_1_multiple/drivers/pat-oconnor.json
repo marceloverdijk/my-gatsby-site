@@ -1,0 +1,23 @@
+{
+  "id": "pat-oconnor",
+  "name": "Pat O'Connor",
+  "firstName": "Pat",
+  "lastName": "O'Connor",
+  "fullName": "Pat O'Connor",
+  "abbreviation": "O'C",
+  "gender": "MALE",
+  "dateOfBirth": "1928-10-09",
+  "dateOfDeath": "1958-05-30",
+  "placeOfBirth": "North Vernon",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jim-hall",
+  "name": "Jim Hall",
+  "firstName": "Jim",
+  "lastName": "Hall",
+  "fullName": "Jim Hall",
+  "abbreviation": "HAL",
+  "gender": "MALE",
+  "dateOfBirth": "1935-07-23",
+  "placeOfBirth": "Abilene",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "beppe-gabbiani",
+  "name": "Beppe Gabbiani",
+  "firstName": "Beppe",
+  "lastName": "Gabbiani",
+  "fullName": "Giuseppe Gabbiani",
+  "abbreviation": "GAB",
+  "gender": "MALE",
+  "dateOfBirth": "1957-01-02",
+  "placeOfBirth": "Piacenza",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vitaly-petrov",
+  "name": "Vitaly Petrov",
+  "firstName": "Vitaly",
+  "lastName": "Petrov",
+  "fullName": "Vitaly Aleksandrovich Petrov",
+  "abbreviation": "PET",
+  "gender": "MALE",
+  "dateOfBirth": "1984-09-08",
+  "placeOfBirth": "Vyborg",
+  "countryOfBirthCountryId": "russia",
+  "nationalityCountryId": "russia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 58,
+  "totalRaceStarts": 57,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 64,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

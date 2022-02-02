@@ -1,0 +1,22 @@
+{
+  "id": "bruno-giacomelli",
+  "name": "Bruno Giacomelli",
+  "firstName": "Bruno",
+  "lastName": "Giacomelli",
+  "fullName": "Bruno Giacomelli",
+  "abbreviation": "GIA",
+  "gender": "MALE",
+  "dateOfBirth": "1952-09-10",
+  "placeOfBirth": "Poncarale",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 82,
+  "totalRaceStarts": 69,
+  "totalRaceWins": 0,
+  "totalPolePositions": 1,
+  "totalPodiums": 1,
+  "totalPoints": 14,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

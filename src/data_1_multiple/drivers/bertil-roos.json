@@ -1,0 +1,23 @@
+{
+  "id": "bertil-roos",
+  "name": "Bertil Roos",
+  "firstName": "Bertil",
+  "lastName": "Roos",
+  "fullName": "Bertil Roos",
+  "abbreviation": "ROO",
+  "gender": "MALE",
+  "dateOfBirth": "1943-10-12",
+  "dateOfDeath": "2016-03-31",
+  "placeOfBirth": "Gothenburg",
+  "countryOfBirthCountryId": "sweden",
+  "nationalityCountryId": "sweden",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

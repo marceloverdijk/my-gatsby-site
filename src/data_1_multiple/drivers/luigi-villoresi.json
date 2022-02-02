@@ -1,0 +1,23 @@
+{
+  "id": "luigi-villoresi",
+  "name": "Luigi Villoresi",
+  "firstName": "Luigi",
+  "lastName": "Villoresi",
+  "fullName": "Luigi Villoresi",
+  "abbreviation": "VIL",
+  "gender": "MALE",
+  "dateOfBirth": "1909-05-16",
+  "dateOfDeath": "1997-08-24",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 33,
+  "totalRaceStarts": 31,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 8,
+  "totalPoints": 49,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

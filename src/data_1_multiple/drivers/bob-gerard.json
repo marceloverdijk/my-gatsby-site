@@ -1,0 +1,23 @@
+{
+  "id": "bob-gerard",
+  "name": "Bob Gerard",
+  "firstName": "Bob",
+  "lastName": "Gerard",
+  "fullName": "Frederick Roberts Gerard",
+  "abbreviation": "GER",
+  "gender": "MALE",
+  "dateOfBirth": "1914-01-19",
+  "dateOfDeath": "1990-01-26",
+  "placeOfBirth": "Leicester",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

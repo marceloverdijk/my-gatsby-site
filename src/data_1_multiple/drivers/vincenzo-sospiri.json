@@ -1,0 +1,22 @@
+{
+  "id": "vincenzo-sospiri",
+  "name": "Vincenzo Sospiri",
+  "firstName": "Vincenzo",
+  "lastName": "Sospiri",
+  "fullName": "Vincenzo Sospiri",
+  "abbreviation": "SOS",
+  "gender": "MALE",
+  "dateOfBirth": "1966-10-07",
+  "placeOfBirth": "Forlì",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ludovico-scarfiotti",
+  "name": "Ludovico Scarfiotti",
+  "firstName": "Ludovico",
+  "lastName": "Scarfiotti",
+  "fullName": "Ludovico Scarfiotti",
+  "abbreviation": "SCA",
+  "gender": "MALE",
+  "dateOfBirth": "1933-10-18",
+  "dateOfDeath": "1968-06-08",
+  "placeOfBirth": "Turin",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 17,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

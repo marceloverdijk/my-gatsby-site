@@ -1,0 +1,23 @@
+{
+  "id": "lewis-hamilton",
+  "name": "Lewis Hamilton",
+  "firstName": "Lewis",
+  "lastName": "Hamilton",
+  "fullName": "Lewis Carl Davidson Hamilton",
+  "abbreviation": "HAM",
+  "permanentNumber": "44",
+  "gender": "MALE",
+  "dateOfBirth": "1985-01-07",
+  "placeOfBirth": "Stevenage",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 7,
+  "totalRaceEntries": 267,
+  "totalRaceStarts": 267,
+  "totalRaceWins": 96,
+  "totalPolePositions": 98,
+  "totalPodiums": 166,
+  "totalPoints": 3803,
+  "totalFastestLaps": 53,
+  "totalDriverOfTheDay": 8
+}

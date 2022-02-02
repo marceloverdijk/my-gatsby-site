@@ -1,0 +1,23 @@
+{
+  "id": "mike-macdowel",
+  "name": "Mike MacDowel",
+  "firstName": "Mike",
+  "lastName": "MacDowel",
+  "fullName": "Michael George Hartwell MacDowel",
+  "abbreviation": "MAC",
+  "gender": "MALE",
+  "dateOfBirth": "1932-09-13",
+  "dateOfDeath": "2016-01-19",
+  "placeOfBirth": "Great Yarmouth",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

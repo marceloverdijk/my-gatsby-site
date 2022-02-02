@@ -1,0 +1,23 @@
+{
+  "id": "nikita-mazepin",
+  "name": "Nikita Mazepin",
+  "firstName": "Nikita",
+  "lastName": "Mazepin",
+  "fullName": "Nikita Dmitryevich Mazepin",
+  "abbreviation": "MAZ",
+  "permanentNumber": "9",
+  "gender": "MALE",
+  "dateOfBirth": "1999-03-02",
+  "placeOfBirth": "Moscow",
+  "countryOfBirthCountryId": "russia",
+  "nationalityCountryId": "russia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

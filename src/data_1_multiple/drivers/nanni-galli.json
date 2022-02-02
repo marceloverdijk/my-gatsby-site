@@ -1,0 +1,23 @@
+{
+  "id": "nanni-galli",
+  "name": "Nanni Galli",
+  "firstName": "Nanni",
+  "lastName": "Galli",
+  "fullName": "Giovanni Giuseppe Gilberto Galli",
+  "abbreviation": "GAL",
+  "gender": "MALE",
+  "dateOfBirth": "1940-10-02",
+  "dateOfDeath": "2019-10-12",
+  "placeOfBirth": "Bologna",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 17,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jacques-swaters",
+  "name": "Jacques Swaters",
+  "firstName": "Jacques",
+  "lastName": "Swaters",
+  "fullName": "Jacques Swaters",
+  "abbreviation": "SWA",
+  "gender": "MALE",
+  "dateOfBirth": "1926-10-30",
+  "dateOfDeath": "2010-12-10",
+  "placeOfBirth": "Brussels",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

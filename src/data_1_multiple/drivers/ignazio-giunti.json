@@ -1,0 +1,23 @@
+{
+  "id": "ignazio-giunti",
+  "name": "Ignazio Giunti",
+  "firstName": "Ignazio",
+  "lastName": "Giunti",
+  "fullName": "Ignazio Giunti",
+  "abbreviation": "GIU",
+  "gender": "MALE",
+  "dateOfBirth": "1941-08-30",
+  "dateOfDeath": "1971-01-10",
+  "placeOfBirth": "Rome",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 3,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

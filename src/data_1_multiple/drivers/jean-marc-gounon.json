@@ -1,0 +1,22 @@
+{
+  "id": "jean-marc-gounon",
+  "name": "Jean-Marc Gounon",
+  "firstName": "Jean-Marc",
+  "lastName": "Gounon",
+  "fullName": "Jean-Marc Gounon",
+  "abbreviation": "GOU",
+  "gender": "MALE",
+  "dateOfBirth": "1963-01-01",
+  "placeOfBirth": "Aubenas",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 9,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

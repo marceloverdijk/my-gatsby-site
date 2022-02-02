@@ -1,0 +1,22 @@
+{
+  "id": "fairuz-fauzy",
+  "name": "Fairuz Fauzy",
+  "firstName": "Fairuz",
+  "lastName": "Fauzy",
+  "fullName": "Mohamed Fairuz Fauzy",
+  "abbreviation": "FAU",
+  "gender": "MALE",
+  "dateOfBirth": "1982-10-24",
+  "placeOfBirth": "Kuala Lumpur",
+  "countryOfBirthCountryId": "malaysia",
+  "nationalityCountryId": "malaysia",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

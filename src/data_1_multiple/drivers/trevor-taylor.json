@@ -1,0 +1,23 @@
+{
+  "id": "trevor-taylor",
+  "name": "Trevor Taylor",
+  "firstName": "Trevor",
+  "lastName": "Taylor",
+  "fullName": "Trevor Taylor",
+  "abbreviation": "TAY",
+  "gender": "MALE",
+  "dateOfBirth": "1936-12-26",
+  "dateOfDeath": "2010-09-27",
+  "placeOfBirth": "Sheffield",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 29,
+  "totalRaceStarts": 27,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

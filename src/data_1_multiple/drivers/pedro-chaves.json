@@ -1,0 +1,22 @@
+{
+  "id": "pedro-chaves",
+  "name": "Pedro Chaves",
+  "firstName": "Pedro",
+  "lastName": "Chaves",
+  "fullName": "Pedro António Matos Chaves",
+  "abbreviation": "CHA",
+  "gender": "MALE",
+  "dateOfBirth": "1965-02-27",
+  "placeOfBirth": "Porto",
+  "countryOfBirthCountryId": "portugal",
+  "nationalityCountryId": "portugal",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

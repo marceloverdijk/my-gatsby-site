@@ -1,0 +1,22 @@
+{
+  "id": "norberto-fontana",
+  "name": "Norberto Fontana",
+  "firstName": "Norberto",
+  "lastName": "Fontana",
+  "fullName": "Norberto Edgardo Fontana",
+  "abbreviation": "FON",
+  "gender": "MALE",
+  "dateOfBirth": "1975-01-20",
+  "placeOfBirth": "Arrecifes",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 4,
+  "totalRaceStarts": 4,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

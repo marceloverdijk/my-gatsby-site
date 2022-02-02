@@ -1,0 +1,16 @@
+{
+  "id": "alphatauri",
+  "name": "AlphaTauri",
+  "fullName": "Scuderia AlphaTauri",
+  "previousConstructorId": "toro-rosso",
+  "countryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 18,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 109,
+  "totalDriverPoints": 109,
+  "totalFastestLaps": 0
+}

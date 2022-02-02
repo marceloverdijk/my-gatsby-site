@@ -1,0 +1,22 @@
+{
+  "id": "mika-salo",
+  "name": "Mika Salo",
+  "firstName": "Mika",
+  "lastName": "Salo",
+  "fullName": "Mika Juhani Salo",
+  "abbreviation": "SAL",
+  "gender": "MALE",
+  "dateOfBirth": "1966-11-30",
+  "placeOfBirth": "Helsinki",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 111,
+  "totalRaceStarts": 109,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 33,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

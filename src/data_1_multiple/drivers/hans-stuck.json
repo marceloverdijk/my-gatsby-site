@@ -1,0 +1,23 @@
+{
+  "id": "hans-stuck",
+  "name": "Hans Stuck",
+  "firstName": "Hans",
+  "lastName": "Stuck",
+  "fullName": "Hans Stuck",
+  "abbreviation": "STU",
+  "gender": "MALE",
+  "dateOfBirth": "1900-12-27",
+  "dateOfDeath": "1978-02-09",
+  "placeOfBirth": "Garmisch-Partenkirchen",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "benetton",
+  "name": "Benetton",
+  "fullName": "Benetton Formula",
+  "previousConstructorId": "toleman",
+  "countryId": "italy",
+  "totalChampionships": 1,
+  "totalRaceEntries": 260,
+  "totalRaceStarts": 260,
+  "totalRaceWins": 27,
+  "totalPolePositions": 15,
+  "totalPodiums": 94,
+  "totalPoints": 861.5,
+  "totalDriverPoints": 861.5,
+  "totalFastestLaps": 36
+}

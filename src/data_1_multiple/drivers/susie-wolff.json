@@ -1,0 +1,22 @@
+{
+  "id": "susie-wolff",
+  "name": "Susie Wolff",
+  "firstName": "Susie",
+  "lastName": "Wolff",
+  "fullName": "Suzanne Wolff",
+  "abbreviation": "WOL",
+  "gender": "FEMALE",
+  "dateOfBirth": "1982-12-06",
+  "placeOfBirth": "Oban",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

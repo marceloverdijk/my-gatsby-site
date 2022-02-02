@@ -1,0 +1,22 @@
+{
+  "id": "michael-ammermuller",
+  "name": "Michael Ammermüller",
+  "firstName": "Michael",
+  "lastName": "Ammermüller",
+  "fullName": "Michael Ammermüller",
+  "abbreviation": "AMM",
+  "gender": "MALE",
+  "dateOfBirth": "1962-10-05",
+  "placeOfBirth": "Bethlehem",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

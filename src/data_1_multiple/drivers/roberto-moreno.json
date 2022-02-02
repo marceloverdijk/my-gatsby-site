@@ -1,0 +1,22 @@
+{
+  "id": "roberto-moreno",
+  "name": "Roberto Moreno",
+  "firstName": "Roberto",
+  "lastName": "Moreno",
+  "fullName": "Roberto Pupo Moreno",
+  "abbreviation": "MOR",
+  "gender": "MALE",
+  "dateOfBirth": "1959-02-11",
+  "placeOfBirth": "Rio de Janeiro",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 75,
+  "totalRaceStarts": 43,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 15,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

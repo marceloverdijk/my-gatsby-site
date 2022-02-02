@@ -1,0 +1,23 @@
+{
+  "id": "riccardo-paletti",
+  "name": "Riccardo Paletti",
+  "firstName": "Riccardo",
+  "lastName": "Paletti",
+  "fullName": "Riccardo Paletti",
+  "abbreviation": "PAL",
+  "gender": "MALE",
+  "dateOfBirth": "1958-06-15",
+  "dateOfDeath": "1982-06-13",
+  "placeOfBirth": "Milan",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

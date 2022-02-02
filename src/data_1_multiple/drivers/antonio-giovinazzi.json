@@ -1,0 +1,23 @@
+{
+  "id": "antonio-giovinazzi",
+  "name": "Antonio Giovinazzi",
+  "firstName": "Antonio",
+  "lastName": "Giovinazzi",
+  "fullName": "Antonio Giovinazzi",
+  "abbreviation": "GIO",
+  "permanentNumber": "99",
+  "gender": "MALE",
+  "dateOfBirth": "1993-12-14",
+  "placeOfBirth": "Martina Franca",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 41,
+  "totalRaceStarts": 41,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 18,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

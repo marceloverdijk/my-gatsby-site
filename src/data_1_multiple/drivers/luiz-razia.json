@@ -1,0 +1,22 @@
+{
+  "id": "luiz-razia",
+  "name": "Luiz Razia",
+  "firstName": "Luiz",
+  "lastName": "Razia",
+  "fullName": "Luiz Tadeu Razia Filho",
+  "abbreviation": "RAZ",
+  "gender": "MALE",
+  "dateOfBirth": "1989-04-04",
+  "placeOfBirth": "Barreiras",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

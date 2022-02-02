@@ -1,0 +1,23 @@
+{
+  "id": "robert-obrien",
+  "name": "Robert O'Brien",
+  "firstName": "Robert",
+  "lastName": "O'Brien",
+  "fullName": "Robert O'Brien",
+  "abbreviation": "O'B",
+  "gender": "MALE",
+  "dateOfBirth": "1908-04-11",
+  "dateOfDeath": "1987-02-10",
+  "placeOfBirth": "Lyndhurst",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ludwig-fischer",
+  "name": "Ludwig Fischer",
+  "firstName": "Ludwig",
+  "lastName": "Fischer",
+  "fullName": "Ludwig Fischer",
+  "abbreviation": "FIS",
+  "gender": "MALE",
+  "dateOfBirth": "1915-12-17",
+  "dateOfDeath": "1991-03-08",
+  "placeOfBirth": "Straubing",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

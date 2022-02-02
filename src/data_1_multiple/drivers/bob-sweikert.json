@@ -1,0 +1,23 @@
+{
+  "id": "bob-sweikert",
+  "name": "Bob Sweikert",
+  "firstName": "Bob",
+  "lastName": "Sweikert",
+  "fullName": "Robert Charles Sweikert",
+  "abbreviation": "SWE",
+  "gender": "MALE",
+  "dateOfBirth": "1926-05-20",
+  "dateOfDeath": "1956-06-17",
+  "placeOfBirth": "Los Angeles",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 8,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

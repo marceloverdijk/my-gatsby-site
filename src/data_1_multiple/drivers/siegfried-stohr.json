@@ -1,0 +1,22 @@
+{
+  "id": "siegfried-stohr",
+  "name": "Siegfried Stohr",
+  "firstName": "Siegfried",
+  "lastName": "Stohr",
+  "fullName": "Siegfried Stohr",
+  "abbreviation": "STO",
+  "gender": "MALE",
+  "dateOfBirth": "1952-10-10",
+  "placeOfBirth": "Rimini",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

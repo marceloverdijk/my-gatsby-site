@@ -1,0 +1,22 @@
+{
+  "id": "ma-qinghua",
+  "name": "Qing Hua Ma",
+  "firstName": "Qing Hua",
+  "lastName": "Ma",
+  "fullName": "Qing Hua Ma",
+  "abbreviation": "QIN",
+  "gender": "MALE",
+  "dateOfBirth": "1987-12-25",
+  "placeOfBirth": "Shanghai",
+  "countryOfBirthCountryId": "china",
+  "nationalityCountryId": "china",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

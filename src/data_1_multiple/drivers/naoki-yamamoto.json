@@ -1,0 +1,22 @@
+{
+  "id": "naoki-yamamoto",
+  "name": "Naoki Yamamoto",
+  "firstName": "Naoki",
+  "lastName": "Yamamoto",
+  "fullName": "Naoki Yamamoto",
+  "abbreviation": "YAM",
+  "gender": "MALE",
+  "dateOfBirth": "1988-07-11",
+  "placeOfBirth": "Utsunomiya",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

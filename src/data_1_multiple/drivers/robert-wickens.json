@@ -1,0 +1,22 @@
+{
+  "id": "robert-wickens",
+  "name": "Robert Wickens",
+  "firstName": "Robert",
+  "lastName": "Wickens",
+  "fullName": "Robert Tyler Wickens",
+  "abbreviation": "WIC",
+  "gender": "MALE",
+  "dateOfBirth": "1989-03-13",
+  "placeOfBirth": "Toronto",
+  "countryOfBirthCountryId": "canada",
+  "nationalityCountryId": "canada",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sauber",
+  "name": "Sauber",
+  "fullName": "Sauber F1 Team",
+  "countryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 395,
+  "totalRaceStarts": 392,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 10,
+  "totalPoints": 557,
+  "totalDriverPoints": 557,
+  "totalFastestLaps": 3
+}

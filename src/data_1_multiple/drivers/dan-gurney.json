@@ -1,0 +1,23 @@
+{
+  "id": "dan-gurney",
+  "name": "Dan Gurney",
+  "firstName": "Dan",
+  "lastName": "Gurney",
+  "fullName": "Daniel Sexton Gurney",
+  "abbreviation": "GUR",
+  "gender": "MALE",
+  "dateOfBirth": "1931-04-13",
+  "dateOfDeath": "2018-01-14",
+  "placeOfBirth": "Port Jefferson",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 87,
+  "totalRaceStarts": 86,
+  "totalRaceWins": 4,
+  "totalPolePositions": 3,
+  "totalPodiums": 19,
+  "totalPoints": 133,
+  "totalFastestLaps": 6,
+  "totalDriverOfTheDay": 0
+}

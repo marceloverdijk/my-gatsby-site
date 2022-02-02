@@ -1,0 +1,22 @@
+{
+  "id": "jean-alesi",
+  "name": "Jean Alesi",
+  "firstName": "Jean",
+  "lastName": "Alesi",
+  "fullName": "Giovanni Alesi",
+  "abbreviation": "ALE",
+  "gender": "MALE",
+  "dateOfBirth": "1964-06-11",
+  "placeOfBirth": "Avignon",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 202,
+  "totalRaceStarts": 201,
+  "totalRaceWins": 1,
+  "totalPolePositions": 2,
+  "totalPodiums": 32,
+  "totalPoints": 241,
+  "totalFastestLaps": 4,
+  "totalDriverOfTheDay": 0
+}

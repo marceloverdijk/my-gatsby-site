@@ -1,0 +1,22 @@
+{
+  "id": "jo-vonlanthen",
+  "name": "Jo Vonlanthen",
+  "firstName": "Jo",
+  "lastName": "Vonlanthen",
+  "fullName": "Joseph Vonlanthen",
+  "abbreviation": "VON",
+  "gender": "MALE",
+  "dateOfBirth": "1942-05-31",
+  "placeOfBirth": "St. Ursen",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

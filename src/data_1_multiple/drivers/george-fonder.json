@@ -1,0 +1,23 @@
+{
+  "id": "george-fonder",
+  "name": "George Fonder",
+  "firstName": "George",
+  "lastName": "Fonder",
+  "fullName": "George Fonder",
+  "abbreviation": "FON",
+  "gender": "MALE",
+  "dateOfBirth": "1917-06-22",
+  "dateOfDeath": "1958-06-14",
+  "placeOfBirth": "Elmhurst",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

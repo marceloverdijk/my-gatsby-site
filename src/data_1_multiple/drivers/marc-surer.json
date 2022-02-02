@@ -1,0 +1,22 @@
+{
+  "id": "marc-surer",
+  "name": "Marc Surer",
+  "firstName": "Marc",
+  "lastName": "Surer",
+  "fullName": "Marc Surer",
+  "abbreviation": "SUR",
+  "gender": "MALE",
+  "dateOfBirth": "1951-09-18",
+  "placeOfBirth": "Arisdorf",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 88,
+  "totalRaceStarts": 82,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 17,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 0
+}

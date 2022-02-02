@@ -1,0 +1,22 @@
+{
+  "id": "will-stevens",
+  "name": "Will Stevens",
+  "firstName": "Will",
+  "lastName": "Stevens",
+  "fullName": "William Stevens",
+  "abbreviation": "STE",
+  "gender": "MALE",
+  "dateOfBirth": "1991-06-28",
+  "placeOfBirth": "Rochford",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jimmy-bryan",
+  "name": "Jimmy Bryan",
+  "firstName": "Jimmy",
+  "lastName": "Bryan",
+  "fullName": "James Ernest Bryan",
+  "abbreviation": "BRY",
+  "gender": "MALE",
+  "dateOfBirth": "1926-01-28",
+  "dateOfDeath": "1960-06-19",
+  "placeOfBirth": "Phoenix",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 9,
+  "totalRaceStarts": 9,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 3,
+  "totalPoints": 18,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

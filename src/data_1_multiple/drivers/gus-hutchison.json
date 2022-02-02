@@ -1,0 +1,22 @@
+{
+  "id": "gus-hutchison",
+  "name": "Gus Hutchison",
+  "firstName": "Gus",
+  "lastName": "Hutchison",
+  "fullName": "Gus Hutchison",
+  "abbreviation": "HUT",
+  "gender": "MALE",
+  "dateOfBirth": "1937-04-26",
+  "placeOfBirth": "Atlanta",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

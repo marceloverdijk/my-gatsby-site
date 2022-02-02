@@ -1,0 +1,22 @@
+{
+  "id": "jean-claude-rudaz",
+  "name": "Jean-Claude Rudaz",
+  "firstName": "Jean-Claude",
+  "lastName": "Rudaz",
+  "fullName": "Jean-Claude Rudaz",
+  "abbreviation": "RUD",
+  "gender": "MALE",
+  "dateOfBirth": "1942-07-23",
+  "placeOfBirth": "Sion",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "alexander-albon",
+  "name": "Alexander Albon",
+  "firstName": "Alexander",
+  "lastName": "Albon",
+  "fullName": "Alexander Albon",
+  "abbreviation": "ALB",
+  "permanentNumber": "23",
+  "gender": "MALE",
+  "dateOfBirth": "1996-03-23",
+  "placeOfBirth": "London",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "thailand",
+  "totalChampionships": 0,
+  "totalRaceEntries": 38,
+  "totalRaceStarts": 38,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 197,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 3
+}

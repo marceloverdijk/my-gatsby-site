@@ -1,0 +1,23 @@
+{
+  "id": "elie-bayol",
+  "name": "Élie Bayol",
+  "firstName": "Élie",
+  "lastName": "Bayol",
+  "fullName": "Élie Marcel Bayol",
+  "abbreviation": "BAY",
+  "gender": "MALE",
+  "dateOfBirth": "1914-02-28",
+  "dateOfDeath": "1995-05-25",
+  "placeOfBirth": "Marseille",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 7,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 2,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

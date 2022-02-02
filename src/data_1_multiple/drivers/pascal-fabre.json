@@ -1,0 +1,22 @@
+{
+  "id": "pascal-fabre",
+  "name": "Pascal Fabre",
+  "firstName": "Pascal",
+  "lastName": "Fabre",
+  "fullName": "Pascal Fabre",
+  "abbreviation": "FAB",
+  "gender": "MALE",
+  "dateOfBirth": "1960-01-09",
+  "placeOfBirth": "Lyon",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 14,
+  "totalRaceStarts": 11,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

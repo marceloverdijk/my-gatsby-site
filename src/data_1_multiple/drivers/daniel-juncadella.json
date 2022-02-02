@@ -1,0 +1,22 @@
+{
+  "id": "daniel-juncadella",
+  "name": "Daniel Juncadella",
+  "firstName": "Daniel",
+  "lastName": "Juncadella",
+  "fullName": "Daniel Juncadella Pérez-Sala",
+  "abbreviation": "JUN",
+  "gender": "MALE",
+  "dateOfBirth": "1991-05-07",
+  "placeOfBirth": "Barcelona",
+  "countryOfBirthCountryId": "spain",
+  "nationalityCountryId": "spain",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

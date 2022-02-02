@@ -1,0 +1,15 @@
+{
+  "id": "aston-martin",
+  "name": "Aston Martin",
+  "fullName": "Aston Martin Lagonda",
+  "countryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 7,
+  "totalRaceStarts": 6,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 1,
+  "totalDriverPoints": 1,
+  "totalFastestLaps": 0
+}

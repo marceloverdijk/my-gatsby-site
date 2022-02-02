@@ -1,0 +1,23 @@
+{
+  "id": "ed-elisian",
+  "name": "Ed Elisian",
+  "firstName": "Ed",
+  "lastName": "Elisian",
+  "fullName": "Ed Elisian",
+  "abbreviation": "ELI",
+  "gender": "MALE",
+  "dateOfBirth": "1926-12-09",
+  "dateOfDeath": "1959-08-30",
+  "placeOfBirth": "Oakland",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

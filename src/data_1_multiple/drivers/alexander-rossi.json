@@ -1,0 +1,23 @@
+{
+  "id": "alexander-rossi",
+  "name": "Alexander Rossi",
+  "firstName": "Alexander",
+  "lastName": "Rossi",
+  "fullName": "Alexander Michael Rossi",
+  "abbreviation": "RSI",
+  "permanentNumber": "53",
+  "gender": "MALE",
+  "dateOfBirth": "1991-09-25",
+  "placeOfBirth": "Nevada City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

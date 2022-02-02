@@ -1,0 +1,22 @@
+{
+  "id": "rubens-barrichello",
+  "name": "Rubens Barrichello",
+  "firstName": "Rubens",
+  "lastName": "Barrichello",
+  "fullName": "Rubens Gonçalves Barrichello",
+  "abbreviation": "BAR",
+  "gender": "MALE",
+  "dateOfBirth": "1972-05-23",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 326,
+  "totalRaceStarts": 322,
+  "totalRaceWins": 11,
+  "totalPolePositions": 14,
+  "totalPodiums": 68,
+  "totalPoints": 658,
+  "totalFastestLaps": 17,
+  "totalDriverOfTheDay": 0
+}

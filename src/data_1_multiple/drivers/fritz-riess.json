@@ -1,0 +1,23 @@
+{
+  "id": "fritz-riess",
+  "name": "Fritz Riess",
+  "firstName": "Fritz",
+  "lastName": "Riess",
+  "fullName": "Fritz Riess",
+  "abbreviation": "RIE",
+  "gender": "MALE",
+  "dateOfBirth": "1922-07-11",
+  "dateOfDeath": "1991-05-15",
+  "placeOfBirth": "Nuremberg",
+  "countryOfBirthCountryId": "germany",
+  "nationalityCountryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "alfa-romeo",
+  "name": "Alfa Romeo",
+  "fullName": "Alfa Romeo Automobiles",
+  "previousConstructorId": "sauber",
+  "countryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 151,
+  "totalRaceStarts": 151,
+  "totalRaceWins": 10,
+  "totalPolePositions": 12,
+  "totalPodiums": 18,
+  "totalPoints": 115,
+  "totalDriverPoints": 279,
+  "totalFastestLaps": 17
+}

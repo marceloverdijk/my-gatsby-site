@@ -1,0 +1,23 @@
+{
+  "id": "roland-ratzenberger",
+  "name": "Roland Ratzenberger",
+  "firstName": "Roland",
+  "lastName": "Ratzenberger",
+  "fullName": "Roland Ratzenberger",
+  "abbreviation": "RAT",
+  "gender": "MALE",
+  "dateOfBirth": "1960-07-04",
+  "dateOfDeath": "1994-04-30",
+  "placeOfBirth": "Salzburg",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

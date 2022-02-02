@@ -1,0 +1,22 @@
+{
+  "id": "bob-evans",
+  "name": "Bob Evans",
+  "firstName": "Bob",
+  "lastName": "Evans",
+  "fullName": "Robert Evans",
+  "abbreviation": "EVA",
+  "gender": "MALE",
+  "dateOfBirth": "1947-06-11",
+  "placeOfBirth": "Waddington",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

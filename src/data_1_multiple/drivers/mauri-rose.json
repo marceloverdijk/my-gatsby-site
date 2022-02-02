@@ -1,0 +1,23 @@
+{
+  "id": "mauri-rose",
+  "name": "Mauri Rose",
+  "firstName": "Mauri",
+  "lastName": "Rose",
+  "fullName": "Maurice Rose",
+  "abbreviation": "ROS",
+  "gender": "MALE",
+  "dateOfBirth": "1906-05-26",
+  "dateOfDeath": "1981-01-01",
+  "placeOfBirth": "Columbus",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

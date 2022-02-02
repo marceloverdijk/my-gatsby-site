@@ -1,0 +1,23 @@
+{
+  "id": "stoffel-vandoorne",
+  "name": "Stoffel Vandoorne",
+  "firstName": "Stoffel",
+  "lastName": "Vandoorne",
+  "fullName": "Stoffel Vandoorne",
+  "abbreviation": "VAN",
+  "permanentNumber": "2",
+  "gender": "MALE",
+  "dateOfBirth": "1992-03-26",
+  "placeOfBirth": "Kortrijk",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 42,
+  "totalRaceStarts": 41,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 26,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

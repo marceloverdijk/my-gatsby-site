@@ -1,0 +1,23 @@
+{
+  "id": "oscar-gonzalez",
+  "name": "Óscar González",
+  "firstName": "Óscar",
+  "lastName": "González",
+  "fullName": "Óscar Mario González",
+  "abbreviation": "GON",
+  "gender": "MALE",
+  "dateOfBirth": "1923-11-10",
+  "dateOfDeath": "2006-11-05",
+  "placeOfBirth": "Montevideo",
+  "countryOfBirthCountryId": "uruguay",
+  "nationalityCountryId": "uruguay",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

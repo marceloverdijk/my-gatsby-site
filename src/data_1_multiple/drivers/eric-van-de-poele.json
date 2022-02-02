@@ -1,0 +1,22 @@
+{
+  "id": "eric-van-de-poele",
+  "name": "Eric van de Poele",
+  "firstName": "Eric",
+  "lastName": "Van de Poele",
+  "fullName": "Eric van de Poele",
+  "abbreviation": "VAN",
+  "gender": "MALE",
+  "dateOfBirth": "1961-09-30",
+  "placeOfBirth": "Verviers",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "belgium",
+  "totalChampionships": 0,
+  "totalRaceEntries": 29,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

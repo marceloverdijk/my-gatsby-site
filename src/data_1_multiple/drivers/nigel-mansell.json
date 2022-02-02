@@ -1,0 +1,22 @@
+{
+  "id": "nigel-mansell",
+  "name": "Nigel Mansell",
+  "firstName": "Nigel",
+  "lastName": "Mansell",
+  "fullName": "Nigel Ernest James Mansell",
+  "abbreviation": "MAN",
+  "gender": "MALE",
+  "dateOfBirth": "1953-08-08",
+  "placeOfBirth": "Upton-upon-Severn",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 1,
+  "totalRaceEntries": 191,
+  "totalRaceStarts": 187,
+  "totalRaceWins": 31,
+  "totalPolePositions": 32,
+  "totalPodiums": 59,
+  "totalPoints": 482,
+  "totalFastestLaps": 30,
+  "totalDriverOfTheDay": 0
+}

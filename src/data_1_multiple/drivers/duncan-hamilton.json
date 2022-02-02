@@ -1,0 +1,23 @@
+{
+  "id": "duncan-hamilton",
+  "name": "Duncan Hamilton",
+  "firstName": "Duncan",
+  "lastName": "Hamilton",
+  "fullName": "James Duncan Hamilton",
+  "abbreviation": "HAM",
+  "gender": "MALE",
+  "dateOfBirth": "1920-04-30",
+  "dateOfDeath": "1994-05-13",
+  "placeOfBirth": "Cork",
+  "countryOfBirthCountryId": "ireland",
+  "nationalityCountryId": "ireland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

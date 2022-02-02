@@ -1,0 +1,16 @@
+{
+  "name": "my-transformer-json",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My transformer plugin for JSON files",
+  "author": "Marcel Overdijk",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "json"
+  ],
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

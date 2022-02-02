@@ -1,0 +1,22 @@
+{
+  "id": "karl-oppitzhauser",
+  "name": "Karl Oppitzhauser",
+  "firstName": "Karl",
+  "lastName": "Oppitzhauser",
+  "fullName": "Karl Oppitzhauser",
+  "abbreviation": "OPP",
+  "gender": "MALE",
+  "dateOfBirth": "1941-10-04",
+  "placeOfBirth": "Bruck an der Leitha",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

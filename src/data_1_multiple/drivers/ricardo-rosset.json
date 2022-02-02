@@ -1,0 +1,22 @@
+{
+  "id": "ricardo-rosset",
+  "name": "Ricardo Rosset",
+  "firstName": "Ricardo",
+  "lastName": "Rosset",
+  "fullName": "Ricardo Rosset",
+  "abbreviation": "ROS",
+  "gender": "MALE",
+  "dateOfBirth": "1968-07-27",
+  "placeOfBirth": "São Paulo",
+  "countryOfBirthCountryId": "brazil",
+  "nationalityCountryId": "brazil",
+  "totalChampionships": 0,
+  "totalRaceEntries": 33,
+  "totalRaceStarts": 26,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "carel-godin-de-beaufort",
+  "name": "Carel Godin de Beaufort",
+  "firstName": "Carel",
+  "lastName": "Godin de Beaufort",
+  "fullName": "Karel Pieter Antoni Jan Hubertus Godin de Beaufort",
+  "abbreviation": "DEB",
+  "gender": "MALE",
+  "dateOfBirth": "1934-04-10",
+  "dateOfDeath": "1964-08-02",
+  "placeOfBirth": "Maarsbergen",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 31,
+  "totalRaceStarts": 28,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 4,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

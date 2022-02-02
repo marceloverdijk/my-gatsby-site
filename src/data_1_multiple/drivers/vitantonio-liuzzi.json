@@ -1,0 +1,22 @@
+{
+  "id": "vitantonio-liuzzi",
+  "name": "Vitantonio Liuzzi",
+  "firstName": "Vitantonio",
+  "lastName": "Liuzzi",
+  "fullName": "Vitantonio Liuzzi",
+  "abbreviation": "LIU",
+  "gender": "MALE",
+  "dateOfBirth": "1980-08-06",
+  "placeOfBirth": "Locorotondo",
+  "countryOfBirthCountryId": "italy",
+  "nationalityCountryId": "italy",
+  "totalChampionships": 0,
+  "totalRaceEntries": 80,
+  "totalRaceStarts": 80,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 26,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jean-pierre-jabouille",
+  "name": "Jean-Pierre Jabouille",
+  "firstName": "Jean-Pierre",
+  "lastName": "Jabouille",
+  "fullName": "Jean-Pierre Alain Jabouille",
+  "abbreviation": "JAB",
+  "gender": "MALE",
+  "dateOfBirth": "1942-10-01",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 56,
+  "totalRaceStarts": 49,
+  "totalRaceWins": 2,
+  "totalPolePositions": 6,
+  "totalPodiums": 2,
+  "totalPoints": 21,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

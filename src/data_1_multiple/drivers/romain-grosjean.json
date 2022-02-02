@@ -1,0 +1,23 @@
+{
+  "id": "romain-grosjean",
+  "name": "Romain Grosjean",
+  "firstName": "Romain",
+  "lastName": "Grosjean",
+  "fullName": "Romain Grosjean",
+  "abbreviation": "GRO",
+  "permanentNumber": "8",
+  "gender": "MALE",
+  "dateOfBirth": "1986-04-17",
+  "placeOfBirth": "Geneva",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 181,
+  "totalRaceStarts": 179,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 10,
+  "totalPoints": 391,
+  "totalFastestLaps": 1,
+  "totalDriverOfTheDay": 3
+}

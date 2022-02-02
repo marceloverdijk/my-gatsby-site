@@ -1,0 +1,22 @@
+{
+  "id": "giedo-van-der-garde",
+  "name": "Giedo van der Garde",
+  "firstName": "Giedo",
+  "lastName": "Van der Garde",
+  "fullName": "Giedo Gijsbertus Gerrit van der Garde",
+  "abbreviation": "VDG",
+  "gender": "MALE",
+  "dateOfBirth": "1985-04-25",
+  "placeOfBirth": "Rhenen",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 19,
+  "totalRaceStarts": 19,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

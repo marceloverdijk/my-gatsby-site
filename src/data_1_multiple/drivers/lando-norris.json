@@ -1,0 +1,23 @@
+{
+  "id": "lando-norris",
+  "name": "Lando Norris",
+  "firstName": "Lando",
+  "lastName": "Norris",
+  "fullName": "Lando Norris",
+  "abbreviation": "NOR",
+  "permanentNumber": "4",
+  "gender": "MALE",
+  "dateOfBirth": "1999-11-13",
+  "placeOfBirth": "Bristol",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 39,
+  "totalRaceStarts": 39,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 158,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 2
+}

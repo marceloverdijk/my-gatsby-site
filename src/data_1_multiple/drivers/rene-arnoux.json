@@ -1,0 +1,22 @@
+{
+  "id": "rene-arnoux",
+  "name": "René Arnoux",
+  "firstName": "René",
+  "lastName": "Arnoux",
+  "fullName": "René Alexandre Arnoux",
+  "abbreviation": "ARN",
+  "gender": "MALE",
+  "dateOfBirth": "1948-07-04",
+  "placeOfBirth": "Pontcharra",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 164,
+  "totalRaceStarts": 149,
+  "totalRaceWins": 7,
+  "totalPolePositions": 18,
+  "totalPodiums": 22,
+  "totalPoints": 181,
+  "totalFastestLaps": 12,
+  "totalDriverOfTheDay": 0
+}

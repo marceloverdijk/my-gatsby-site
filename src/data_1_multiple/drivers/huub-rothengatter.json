@@ -1,0 +1,22 @@
+{
+  "id": "huub-rothengatter",
+  "name": "Huub Rothengatter",
+  "firstName": "Huub",
+  "lastName": "Rothengatter",
+  "fullName": "Hubertus Rothengatter",
+  "abbreviation": "ROT",
+  "gender": "MALE",
+  "dateOfBirth": "1954-10-08",
+  "placeOfBirth": "Bussum",
+  "countryOfBirthCountryId": "netherlands",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 30,
+  "totalRaceStarts": 25,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

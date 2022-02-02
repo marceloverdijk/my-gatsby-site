@@ -1,0 +1,22 @@
+{
+  "id": "allan-mcnish",
+  "name": "Allan McNish",
+  "firstName": "Allan",
+  "lastName": "McNish",
+  "fullName": "Allan McNish",
+  "abbreviation": "MCN",
+  "gender": "MALE",
+  "dateOfBirth": "1969-12-29",
+  "placeOfBirth": "Dumfries",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 17,
+  "totalRaceStarts": 16,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

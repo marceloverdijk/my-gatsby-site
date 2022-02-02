@@ -1,0 +1,22 @@
+{
+  "id": "giorgio-mondini",
+  "name": "Giorgio Mondini",
+  "firstName": "Giorgio",
+  "lastName": "Mondini",
+  "fullName": "Giorgio Mondini",
+  "abbreviation": "MOD",
+  "gender": "MALE",
+  "dateOfBirth": "1980-07-19",
+  "placeOfBirth": "Geneva",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 0,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

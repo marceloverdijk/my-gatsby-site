@@ -1,0 +1,22 @@
+{
+  "id": "mike-fisher",
+  "name": "Mike Fisher",
+  "firstName": "Mike",
+  "lastName": "Fisher",
+  "fullName": "Michael J. Fisher",
+  "abbreviation": "FIS",
+  "gender": "MALE",
+  "dateOfBirth": "1943-03-13",
+  "placeOfBirth": "Hollywood",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

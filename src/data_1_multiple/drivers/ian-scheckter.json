@@ -1,0 +1,22 @@
+{
+  "id": "ian-scheckter",
+  "name": "Ian Scheckter",
+  "firstName": "Ian",
+  "lastName": "Scheckter",
+  "fullName": "Ian Scheckter",
+  "abbreviation": "SCH",
+  "gender": "MALE",
+  "dateOfBirth": "1947-08-22",
+  "placeOfBirth": "East London",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 20,
+  "totalRaceStarts": 18,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

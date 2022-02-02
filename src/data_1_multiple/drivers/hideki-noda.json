@@ -1,0 +1,22 @@
+{
+  "id": "hideki-noda",
+  "name": "Hideki Noda",
+  "firstName": "Hideki",
+  "lastName": "Noda",
+  "fullName": "Hideki Noda",
+  "abbreviation": "NOD",
+  "gender": "MALE",
+  "dateOfBirth": "1969-03-07",
+  "placeOfBirth": "Osaka",
+  "countryOfBirthCountryId": "japan",
+  "nationalityCountryId": "japan",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 3,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

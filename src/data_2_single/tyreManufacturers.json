@@ -1,0 +1,91 @@
+[{
+  "id":"avon",
+  "name":"Avon",
+  "countryId":"united-kingdom",
+  "totalRaceEntries":32,
+  "totalRaceStarts":28,
+  "totalRaceWins":0,
+  "totalPolePositions":0,
+  "totalPodiums":0,
+  "totalFastestLaps":0
+},{
+  "id":"bridgestone",
+  "name":"Bridgestone",
+  "countryId":"japan",
+  "totalRaceEntries":244,
+  "totalRaceStarts":244,
+  "totalRaceWins":175,
+  "totalPolePositions":168,
+  "totalPodiums":209,
+  "totalFastestLaps":170
+},{
+  "id":"continental",
+  "name":"Continental",
+  "countryId":"germany",
+  "totalRaceEntries":13,
+  "totalRaceStarts":13,
+  "totalRaceWins":10,
+  "totalPolePositions":8,
+  "totalPodiums":11,
+  "totalFastestLaps":9
+},{
+  "id":"dunlop",
+  "name":"Dunlop",
+  "countryId":"united-kingdom",
+  "totalRaceEntries":177,
+  "totalRaceStarts":175,
+  "totalRaceWins":84,
+  "totalPolePositions":77,
+  "totalPodiums":104,
+  "totalFastestLaps":85
+},{
+  "id":"englebert",
+  "name":"Englebert",
+  "countryId":"belgium",
+  "totalRaceEntries":60,
+  "totalRaceStarts":60,
+  "totalRaceWins":8,
+  "totalPolePositions":11,
+  "totalPodiums":26,
+  "totalFastestLaps":14
+},{
+  "id":"firestone",
+  "name":"Firestone",
+  "countryId":"united-states-of-america",
+  "totalRaceEntries":122,
+  "totalRaceStarts":122,
+  "totalRaceWins":48,
+  "totalPolePositions":59,
+  "totalPodiums":77,
+  "totalFastestLaps":52
+},{
+  "id":"goodyear",
+  "name":"Goodyear",
+  "countryId":"united-states-of-america",
+  "totalRaceEntries":493,
+  "totalRaceStarts":493,
+  "totalRaceWins":368,
+  "totalPolePositions":357,
+  "totalPodiums":459,
+  "totalFastestLaps":363
+},{
+  "id":"michelin",
+  "name":"Michelin",
+  "countryId":"france",
+  "totalRaceEntries":217,
+  "totalRaceStarts":215,
+  "totalRaceWins":102,
+  "totalPolePositions":111,
+  "totalPodiums":179,
+  "totalFastestLaps":108
+},{
+  "id":"pirelli",
+  "name":"Pirelli",
+  "countryId":"italy",
+  "totalRaceEntries":413,
+  "totalRaceStarts":408,
+  "totalRaceWins":252,
+  "totalPolePositions":254,
+  "totalPodiums":278,
+  "totalFastestLaps":273
+}]

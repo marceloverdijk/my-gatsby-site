@@ -1,0 +1,22 @@
+{
+  "id": "jj-lehto",
+  "name": "JJ Lehto",
+  "firstName": "JJ",
+  "lastName": "Lehto",
+  "fullName": "Jyrki Juhani Järvilehto",
+  "abbreviation": "JAR",
+  "gender": "MALE",
+  "dateOfBirth": "1966-01-31",
+  "placeOfBirth": "Espoo",
+  "countryOfBirthCountryId": "finland",
+  "nationalityCountryId": "finland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 69,
+  "totalRaceStarts": 61,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 1,
+  "totalPoints": 10,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

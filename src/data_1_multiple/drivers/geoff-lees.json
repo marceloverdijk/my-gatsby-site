@@ -1,0 +1,22 @@
+{
+  "id": "geoff-lees",
+  "name": "Geoff Lees",
+  "firstName": "Geoffrey",
+  "lastName": "Lees",
+  "fullName": "Geoffrey Lees",
+  "abbreviation": "LEE",
+  "gender": "MALE",
+  "dateOfBirth": "1951-05-01",
+  "placeOfBirth": "Kingsbury",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 12,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

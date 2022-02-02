@@ -1,0 +1,22 @@
+{
+  "id": "bruce-johnstone",
+  "name": "Bruce Johnstone",
+  "firstName": "Bruce",
+  "lastName": "Johnstone",
+  "fullName": "William Bruce Gordon Johnstone",
+  "abbreviation": "JOH",
+  "gender": "MALE",
+  "dateOfBirth": "1937-01-30",
+  "placeOfBirth": "Durban",
+  "countryOfBirthCountryId": "south-africa",
+  "nationalityCountryId": "south-africa",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

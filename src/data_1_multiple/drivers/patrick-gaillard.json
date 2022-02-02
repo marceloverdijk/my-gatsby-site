@@ -1,0 +1,22 @@
+{
+  "id": "patrick-gaillard",
+  "name": "Patrick Gaillard",
+  "firstName": "Patrick",
+  "lastName": "Gaillard",
+  "fullName": "Patrick Gaillard",
+  "abbreviation": "GAI",
+  "gender": "MALE",
+  "dateOfBirth": "1952-02-12",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jo-gartner",
+  "name": "Jo Gartner",
+  "firstName": "Jo",
+  "lastName": "Gartner",
+  "fullName": "Josef Gartner",
+  "abbreviation": "GAR",
+  "gender": "MALE",
+  "dateOfBirth": "1954-01-24",
+  "dateOfDeath": "1986-06-01",
+  "placeOfBirth": "Vienna",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 8,
+  "totalRaceStarts": 8,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

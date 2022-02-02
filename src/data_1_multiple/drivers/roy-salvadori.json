@@ -1,0 +1,23 @@
+{
+  "id": "roy-salvadori",
+  "name": "Roy Salvadori",
+  "firstName": "Roy",
+  "lastName": "Salvadori",
+  "fullName": "Roy Francesco Salvadori",
+  "abbreviation": "SAL",
+  "gender": "MALE",
+  "dateOfBirth": "1922-05-12",
+  "dateOfDeath": "2012-06-03",
+  "placeOfBirth": "Dovercourt",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 50,
+  "totalRaceStarts": 47,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 2,
+  "totalPoints": 19,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dieter-quester",
+  "name": "Dieter Quester",
+  "firstName": "Dieter",
+  "lastName": "Quester",
+  "fullName": "Dieter Quester",
+  "abbreviation": "QUE",
+  "gender": "MALE",
+  "dateOfBirth": "1939-05-30",
+  "placeOfBirth": "Vienna",
+  "countryOfBirthCountryId": "austria",
+  "nationalityCountryId": "austria",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

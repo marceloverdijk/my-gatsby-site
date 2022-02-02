@@ -1,0 +1,23 @@
+{
+  "id": "jack-fairman",
+  "name": "Jack Fairman",
+  "firstName": "Jack",
+  "lastName": "Fairman",
+  "fullName": "Jack Fairman",
+  "abbreviation": "FAI",
+  "gender": "MALE",
+  "dateOfBirth": "1913-03-15",
+  "dateOfDeath": "2002-02-07",
+  "placeOfBirth": "Horley",
+  "countryOfBirthCountryId": "united-kingdom",
+  "nationalityCountryId": "united-kingdom",
+  "totalChampionships": 0,
+  "totalRaceEntries": 13,
+  "totalRaceStarts": 12,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 5,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

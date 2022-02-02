@@ -1,0 +1,23 @@
+{
+  "id": "francois-cevert",
+  "name": "François Cevert",
+  "firstName": "François",
+  "lastName": "Cevert",
+  "fullName": "Albert François Cevert Goldenberg",
+  "abbreviation": "CEV",
+  "gender": "MALE",
+  "dateOfBirth": "1944-02-25",
+  "dateOfDeath": "1973-10-06",
+  "placeOfBirth": "Paris",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 48,
+  "totalRaceStarts": 47,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 13,
+  "totalPoints": 89,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

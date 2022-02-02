@@ -1,0 +1,23 @@
+{
+  "id": "jim-rathmann",
+  "name": "Jim Rathmann",
+  "firstName": "Jim",
+  "lastName": "Rathmann",
+  "fullName": "Royal Richard Rathmann",
+  "abbreviation": "RAT",
+  "gender": "MALE",
+  "dateOfBirth": "1928-07-16",
+  "dateOfDeath": "2011-11-23",
+  "placeOfBirth": "Alhambra",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 10,
+  "totalRaceStarts": 10,
+  "totalRaceWins": 1,
+  "totalPolePositions": 0,
+  "totalPodiums": 4,
+  "totalPoints": 29,
+  "totalFastestLaps": 2,
+  "totalDriverOfTheDay": 0
+}

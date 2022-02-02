@@ -1,0 +1,23 @@
+{
+  "id": "larry-crockett",
+  "name": "Larry Crockett",
+  "firstName": "Larry",
+  "lastName": "Crockett",
+  "fullName": "Larry Crockett",
+  "abbreviation": "CRO",
+  "gender": "MALE",
+  "dateOfBirth": "1926-10-23",
+  "dateOfDeath": "1955-03-20",
+  "placeOfBirth": "Cambridge City",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

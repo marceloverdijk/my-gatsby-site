@@ -1,0 +1,16 @@
+{
+  "id": 1037,
+  "year": 2021,
+  "round": 2,
+  "date": "2021-04-18",
+  "grandPrixId": "emilia-romagna",
+  "officialName": "Formula 1 Gran Premio dell'Emilia Romagna 2021",
+  "qualifyingFormat": "KNOCKOUT",
+  "circuitId": "imola",
+  "circuitType": "RACE",
+  "courseLength": 4.909,
+  "laps": 63,
+  "distance": 309.05,
+  "scheduledLaps": 63,
+  "scheduledDistance": 309.05
+}

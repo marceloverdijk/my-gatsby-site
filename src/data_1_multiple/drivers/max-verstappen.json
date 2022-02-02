@@ -1,0 +1,23 @@
+{
+  "id": "max-verstappen",
+  "name": "Max Verstappen",
+  "firstName": "Max",
+  "lastName": "Verstappen",
+  "fullName": "Max Emilian Verstappen",
+  "abbreviation": "VER",
+  "permanentNumber": "33",
+  "gender": "MALE",
+  "dateOfBirth": "1997-09-30",
+  "placeOfBirth": "Hasselt",
+  "countryOfBirthCountryId": "belgium",
+  "nationalityCountryId": "netherlands",
+  "totalChampionships": 0,
+  "totalRaceEntries": 120,
+  "totalRaceStarts": 120,
+  "totalRaceWins": 10,
+  "totalPolePositions": 4,
+  "totalPodiums": 43,
+  "totalPoints": 1180,
+  "totalFastestLaps": 10,
+  "totalDriverOfTheDay": 28
+}

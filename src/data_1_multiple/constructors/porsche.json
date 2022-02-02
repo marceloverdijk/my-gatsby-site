@@ -1,0 +1,15 @@
+{
+  "id": "porsche",
+  "name": "Porsche",
+  "fullName": "Porsche",
+  "countryId": "germany",
+  "totalChampionships": 0,
+  "totalRaceEntries": 35,
+  "totalRaceStarts": 32,
+  "totalRaceWins": 1,
+  "totalPolePositions": 1,
+  "totalPodiums": 5,
+  "totalPoints": 50,
+  "totalDriverPoints": 50,
+  "totalFastestLaps": 0
+}

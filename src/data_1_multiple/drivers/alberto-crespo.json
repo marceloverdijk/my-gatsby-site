@@ -1,0 +1,23 @@
+{
+  "id": "alberto-crespo",
+  "name": "Alberto Crespo",
+  "firstName": "Alberto",
+  "lastName": "Crespo",
+  "fullName": "Alberto Augusto Crespo",
+  "abbreviation": "CRE",
+  "gender": "MALE",
+  "dateOfBirth": "1920-01-16",
+  "dateOfDeath": "1991-08-14",
+  "placeOfBirth": "Buenos Aires",
+  "countryOfBirthCountryId": "argentina",
+  "nationalityCountryId": "argentina",
+  "totalChampionships": 0,
+  "totalRaceEntries": 1,
+  "totalRaceStarts": 0,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

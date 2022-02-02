@@ -1,0 +1,22 @@
+{
+  "id": "yannick-dalmas",
+  "name": "Yannick Dalmas",
+  "firstName": "Yannick",
+  "lastName": "Dalmas",
+  "fullName": "Yannick Dalmas",
+  "abbreviation": "DAL",
+  "gender": "MALE",
+  "dateOfBirth": "1961-07-28",
+  "placeOfBirth": "Le Beausset",
+  "countryOfBirthCountryId": "france",
+  "nationalityCountryId": "france",
+  "totalChampionships": 0,
+  "totalRaceEntries": 50,
+  "totalRaceStarts": 24,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

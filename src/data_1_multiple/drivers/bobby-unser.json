@@ -1,0 +1,22 @@
+{
+  "id": "bobby-unser",
+  "name": "Bobby Unser",
+  "firstName": "Bobby",
+  "lastName": "Unser",
+  "fullName": "Robert William Unser",
+  "abbreviation": "UNS",
+  "gender": "MALE",
+  "dateOfBirth": "1934-02-20",
+  "placeOfBirth": "Colorado Springs",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 2,
+  "totalRaceStarts": 1,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bill-vukovich",
+  "name": "Bill Vukovich",
+  "firstName": "Bill",
+  "lastName": "Vukovich",
+  "fullName": "William John Vukovich",
+  "abbreviation": "VUK",
+  "gender": "MALE",
+  "dateOfBirth": "1918-12-13",
+  "dateOfDeath": "1955-05-30",
+  "placeOfBirth": "Fresno",
+  "countryOfBirthCountryId": "united-states-of-america",
+  "nationalityCountryId": "united-states-of-america",
+  "totalChampionships": 0,
+  "totalRaceEntries": 5,
+  "totalRaceStarts": 5,
+  "totalRaceWins": 2,
+  "totalPolePositions": 1,
+  "totalPodiums": 2,
+  "totalPoints": 19,
+  "totalFastestLaps": 3,
+  "totalDriverOfTheDay": 0
+}

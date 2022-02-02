@@ -1,0 +1,22 @@
+{
+  "id": "franco-forini",
+  "name": "Franco Forini",
+  "firstName": "Franco",
+  "lastName": "Forini",
+  "fullName": "Franco Forini",
+  "abbreviation": "FOR",
+  "gender": "MALE",
+  "dateOfBirth": "1958-09-22",
+  "placeOfBirth": "Muralto",
+  "countryOfBirthCountryId": "switzerland",
+  "nationalityCountryId": "switzerland",
+  "totalChampionships": 0,
+  "totalRaceEntries": 3,
+  "totalRaceStarts": 2,
+  "totalRaceWins": 0,
+  "totalPolePositions": 0,
+  "totalPodiums": 0,
+  "totalPoints": 0,
+  "totalFastestLaps": 0,
+  "totalDriverOfTheDay": 0
+}
