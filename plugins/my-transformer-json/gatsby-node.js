@@ -59,11 +59,7 @@ async function onCreateNode(
     throw new Error(`Unable to parse JSON: ${hint}`)
   }
 
-  console.time(`${node.name} isAray?`)
-  const isArray = _.isArray(parsedContent)
-  console.timeEnd(`${node.name} isAray?`)
-
-  if (isArray) {
+  if (_.isArray(parsedContent)) {
     for (let i = 0, l = parsedContent.length; i < l; i++) {
       const obj = parsedContent[i]
 
