@@ -14,7 +14,6 @@ export const query = graphql`
 `
 
 const CircuitPage = (props) => {
-  console.log(props)
   return (
     <main>
       id: {props.data.circuitJson.jsonId}
